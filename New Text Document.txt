@@ -1,0 +1,7 @@
+Configuracion
+
+.-Facturacion en papel con codigo opcional para DTE
+.-Envio de resultados correctos + analisis fitopatologicos
+.-Agrega analisis corregido y funcionando
+.-Conexion a Agrolab_Prueba
+

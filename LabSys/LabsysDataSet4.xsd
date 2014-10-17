@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="LabsysDataSet4" targetNamespace="http://tempuri.org/LabsysDataSet4.xsd" xmlns:mstns="http://tempuri.org/LabsysDataSet4.xsd" xmlns="http://tempuri.org/LabsysDataSet4.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="LabsysConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="LabsysConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LabSys.My.MySettings.GlobalReference.Default.LabsysConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="CIUDADTableAdapter" GeneratorDataComponentClassName="CIUDADTableAdapter" Name="CIUDAD" UserDataComponentName="CIUDADTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="LabsysConnectionString (MySettings)" DbObjectName="Labsys.dbo.CIUDAD" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT COD_CIUDAD FROM dbo.CIUDAD</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="COD_CIUDAD" DataSetColumn="COD_CIUDAD" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="LabsysDataSet4" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="LabsysDataSet4" msprop:Generator_DataSetName="LabsysDataSet4">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CIUDAD" msprop:Generator_UserTableName="CIUDAD" msprop:Generator_RowDeletedName="CIUDADRowDeleted" msprop:Generator_TableClassName="CIUDADDataTable" msprop:Generator_RowChangedName="CIUDADRowChanged" msprop:Generator_RowClassName="CIUDADRow" msprop:Generator_RowChangingName="CIUDADRowChanging" msprop:Generator_RowEvArgName="CIUDADRowChangeEvent" msprop:Generator_RowEvHandlerName="CIUDADRowChangeEventHandler" msprop:Generator_TablePropName="CIUDAD" msprop:Generator_TableVarName="tableCIUDAD" msprop:Generator_RowDeletingName="CIUDADRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="COD_CIUDAD" msprop:Generator_UserColumnName="COD_CIUDAD" msprop:Generator_ColumnPropNameInRow="COD_CIUDAD" msprop:Generator_ColumnVarNameInTable="columnCOD_CIUDAD" msprop:Generator_ColumnPropNameInTable="COD_CIUDADColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

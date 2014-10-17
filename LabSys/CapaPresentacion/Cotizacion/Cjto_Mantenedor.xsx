@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="-2640" viewPortTop="-66" zoom="100">
+    <ANALISIS_XmlElement left="318" top="265" width="5291" height="5926" selected="0" zOrder="1" index="0" expanded="1" />
+    <ANALISIS1_XmlElement left="5636" top="291" width="5398" height="5927" selected="0" zOrder="2" index="1" expanded="1" />
+    <ANALISIS2_XmlElement left="180" top="6133" width="5292" height="2963" selected="0" zOrder="4" index="2" expanded="1" />
+    <ANALISIS3_XmlElement left="5503" top="6456" width="6086" height="2963" selected="0" zOrder="6" index="3" expanded="1" />
+    <ANALISIS4_XmlElement left="11743" top="506" width="5292" height="2963" selected="0" zOrder="8" index="4" expanded="1" />
+    <ANALISIS5_XmlElement left="17696" top="524" width="5292" height="2963" selected="0" zOrder="10" index="5" expanded="1" />
+    <ANALISIS6_XmlElement left="12087" top="4941" width="5292" height="2963" selected="0" zOrder="12" index="6" expanded="1" />
+    <COMBO_ANALISIS_XmlElement left="9842" top="9525" width="6880" height="2963" selected="0" zOrder="14" index="7" expanded="1" />
+    <ANALISIS7_XmlElement left="17833" top="4948" width="6456" height="5926" selected="0" zOrder="15" index="8" expanded="1" />
+    <MUESTRA_XmlElement left="8652" top="12441" width="5292" height="2963" selected="0" zOrder="17" index="9" expanded="1" />
+    <SUBMUESTRA_XmlElement left="16934" top="11674" width="5292" height="2963" selected="0" zOrder="19" index="10" expanded="1" />
+    <CODIGO_ANALISIS_XmlElement left="-1640" top="9816" width="7408" height="2963" selected="0" zOrder="21" index="11" expanded="1" />
+</XSDDesignerLayout>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AGROLAB_PRUEBADataSet3" targetNamespace="http://tempuri.org/AGROLAB_PRUEBADataSet3.xsd" xmlns:mstns="http://tempuri.org/AGROLAB_PRUEBADataSet3.xsd" xmlns="http://tempuri.org/AGROLAB_PRUEBADataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="AGROLAB_PRUEBAConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="AGROLAB_PRUEBAConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LabSys.My.MySettings.GlobalReference.Default.AGROLAB_PRUEBAConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ESTADOS_OTTableAdapter" GeneratorDataComponentClassName="ESTADOS_OTTableAdapter" Name="ESTADOS_OT" UserDataComponentName="ESTADOS_OTTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AGROLAB_PRUEBAConnectionString (MySettings)" DbObjectName="AGROLAB_PRUEBA.dbo.ESTADOS_OT" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT OT, Fecha, Productor, Empresa, Remite, Fono, Email, Tipo, [Nlab Desde], [Estado Analisis], [Estado Pago] FROM dbo.ESTADOS_OT</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="OT" DataSetColumn="OT" />
+              <Mapping SourceColumn="Fecha" DataSetColumn="Fecha" />
+              <Mapping SourceColumn="Productor" DataSetColumn="Productor" />
+              <Mapping SourceColumn="Empresa" DataSetColumn="Empresa" />
+              <Mapping SourceColumn="Remite" DataSetColumn="Remite" />
+              <Mapping SourceColumn="Fono" DataSetColumn="Fono" />
+              <Mapping SourceColumn="Email" DataSetColumn="Email" />
+              <Mapping SourceColumn="Tipo" DataSetColumn="Tipo" />
+              <Mapping SourceColumn="Nlab Desde" DataSetColumn="Nlab Desde" />
+              <Mapping SourceColumn="Estado Analisis" DataSetColumn="Estado Analisis" />
+              <Mapping SourceColumn="Estado Pago" DataSetColumn="Estado Pago" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AGROLAB_PRUEBADataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AGROLAB_PRUEBADataSet3" msprop:Generator_DataSetName="AGROLAB_PRUEBADataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ESTADOS_OT" msprop:Generator_UserTableName="ESTADOS_OT" msprop:Generator_RowDeletedName="ESTADOS_OTRowDeleted" msprop:Generator_TableClassName="ESTADOS_OTDataTable" msprop:Generator_RowChangedName="ESTADOS_OTRowChanged" msprop:Generator_RowClassName="ESTADOS_OTRow" msprop:Generator_RowChangingName="ESTADOS_OTRowChanging" msprop:Generator_RowEvArgName="ESTADOS_OTRowChangeEvent" msprop:Generator_RowEvHandlerName="ESTADOS_OTRowChangeEventHandler" msprop:Generator_TablePropName="ESTADOS_OT" msprop:Generator_TableVarName="tableESTADOS_OT" msprop:Generator_RowDeletingName="ESTADOS_OTRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OT" msprop:Generator_UserColumnName="OT" msprop:Generator_ColumnPropNameInRow="OT" msprop:Generator_ColumnVarNameInTable="columnOT" msprop:Generator_ColumnPropNameInTable="OTColumn" type="xs:int" />
+              <xs:element name="Fecha" msprop:Generator_UserColumnName="Fecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Productor" msprop:Generator_UserColumnName="Productor" msprop:Generator_ColumnPropNameInRow="Productor" msprop:Generator_ColumnVarNameInTable="columnProductor" msprop:Generator_ColumnPropNameInTable="ProductorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Empresa" msprop:Generator_UserColumnName="Empresa" msprop:Generator_ColumnPropNameInRow="Empresa" msprop:Generator_ColumnVarNameInTable="columnEmpresa" msprop:Generator_ColumnPropNameInTable="EmpresaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remite" msprop:Generator_UserColumnName="Remite" msprop:Generator_ColumnPropNameInRow="Remite" msprop:Generator_ColumnVarNameInTable="columnRemite" msprop:Generator_ColumnPropNameInTable="RemiteColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fono" msprop:Generator_UserColumnName="Fono" msprop:Generator_ColumnPropNameInRow="Fono" msprop:Generator_ColumnVarNameInTable="columnFono" msprop:Generator_ColumnPropNameInTable="FonoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Email" msprop:Generator_UserColumnName="Email" msprop:Generator_ColumnPropNameInRow="Email" msprop:Generator_ColumnVarNameInTable="columnEmail" msprop:Generator_ColumnPropNameInTable="EmailColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tipo" msprop:Generator_UserColumnName="Tipo" msprop:Generator_ColumnPropNameInRow="Tipo" msprop:Generator_ColumnVarNameInTable="columnTipo" msprop:Generator_ColumnPropNameInTable="TipoColumn" type="xs:int" />
+              <xs:element name="Nlab_x0020_Desde" msprop:Generator_UserColumnName="Nlab Desde" msprop:Generator_ColumnPropNameInRow="Nlab_Desde" msprop:Generator_ColumnVarNameInTable="columnNlab_Desde" msprop:Generator_ColumnPropNameInTable="Nlab_DesdeColumn" type="xs:int" />
+              <xs:element name="Estado_x0020_Analisis" msprop:Generator_UserColumnName="Estado Analisis" msprop:Generator_ColumnPropNameInRow="Estado_Analisis" msprop:Generator_ColumnVarNameInTable="columnEstado_Analisis" msprop:Generator_ColumnPropNameInTable="Estado_AnalisisColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Estado_x0020_Pago" msprop:Generator_UserColumnName="Estado Pago" msprop:Generator_ColumnPropNameInRow="Estado_Pago" msprop:Generator_ColumnVarNameInTable="columnEstado_Pago" msprop:Generator_ColumnPropNameInTable="Estado_PagoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ESTADOS_OT" />
+      <xs:field xpath="mstns:OT" />
+      <xs:field xpath="mstns:Tipo" />
+      <xs:field xpath="mstns:Nlab_x0020_Desde" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

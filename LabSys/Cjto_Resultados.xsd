@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="Cjto_Resultados" targetNamespace="http://tempuri.org/Cjto_Resultados.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/Cjto_Resultados.xsd" xmlns:mstns="http://tempuri.org/Cjto_Resultados.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Cjto_Resultados" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="IMPXHOJA1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAH" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NOTA_RESULTADO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NOTARES_ID" type="xs:string" />
+							<xs:element name="NOTARES_DESCRIPCION" type="xs:string" minOccurs="0" />
+							<xs:element name="NOTARES_FREC" type="xs:string" minOccurs="0" />
+							<xs:element name="NOTARES_NIVEL" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MNEM">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="IORD" type="xs:string" minOccurs="0" />
+							<xs:element name="INLA" type="xs:string" minOccurs="0" />
+							<xs:element name="ITIP" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRO" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEI" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IEMP" type="xs:string" minOccurs="0" />
+							<xs:element name="IREM" type="xs:string" minOccurs="0" />
+							<xs:element name="ICUA" type="xs:string" minOccurs="0" />
+							<xs:element name="IESP" type="xs:string" minOccurs="0" />
+							<xs:element name="IVAR" type="xs:string" minOccurs="0" />
+							<xs:element name="IEDA" type="xs:double" minOccurs="0" />
+							<xs:element name="IPRE" type="xs:string" minOccurs="0" />
+							<xs:element name="ILOC" type="xs:string" minOccurs="0" />
+							<xs:element name="IREG" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEM" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IVIG" type="xs:string" minOccurs="0" />
+							<xs:element name="ICU1" type="xs:string" minOccurs="0" />
+							<xs:element name="ICU2" type="xs:string" minOccurs="0" />
+							<xs:element name="IAPH" type="xs:double" minOccurs="0" />
+							<xs:element name="IAPH2" type="xs:string" minOccurs="0" />
+							<xs:element name="ICRI" type="xs:double" minOccurs="0" />
+							<xs:element name="ICRI2" type="xs:string" minOccurs="0" />
+							<xs:element name="IHEL" type="xs:double" minOccurs="0" />
+							<xs:element name="IHEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="IHEM" type="xs:double" minOccurs="0" />
+							<xs:element name="IHEM2" type="xs:string" minOccurs="0" />
+							<xs:element name="IMEL" type="xs:double" minOccurs="0" />
+							<xs:element name="IMEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="IPAR" type="xs:double" minOccurs="0" />
+							<xs:element name="IPAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRA" type="xs:double" minOccurs="0" />
+							<xs:element name="IPRA2" type="xs:string" minOccurs="0" />
+							<xs:element name="ITRI" type="xs:double" minOccurs="0" />
+							<xs:element name="ITRI2" type="xs:string" minOccurs="0" />
+							<xs:element name="ITY1" type="xs:double" minOccurs="0" />
+							<xs:element name="ITY12" type="xs:string" minOccurs="0" />
+							<xs:element name="ITY2" type="xs:double" minOccurs="0" />
+							<xs:element name="ITY22" type="xs:string" minOccurs="0" />
+							<xs:element name="ITY3" type="xs:double" minOccurs="0" />
+							<xs:element name="ITY32" type="xs:string" minOccurs="0" />
+							<xs:element name="IXI1" type="xs:double" minOccurs="0" />
+							<xs:element name="IXI12" type="xs:string" minOccurs="0" />
+							<xs:element name="IDI1" type="xs:double" minOccurs="0" />
+							<xs:element name="IDI12" type="xs:string" minOccurs="0" />
+							<xs:element name="IXI2" type="xs:double" minOccurs="0" />
+							<xs:element name="IXI22" type="xs:string" minOccurs="0" />
+							<xs:element name="ILON" type="xs:double" minOccurs="0" />
+							<xs:element name="ILON2" type="xs:string" minOccurs="0" />
+							<xs:element name="IHET" type="xs:double" minOccurs="0" />
+							<xs:element name="IHET2" type="xs:string" minOccurs="0" />
+							<xs:element name="IDIT" type="xs:double" minOccurs="0" />
+							<xs:element name="IDIT2" type="xs:string" minOccurs="0" />
+							<xs:element name="ISAP" type="xs:double" minOccurs="0" />
+							<xs:element name="ISAP2" type="xs:string" minOccurs="0" />
+							<xs:element name="IOB1" type="xs:string" minOccurs="0" />
+							<xs:element name="ILI1" type="xs:string" minOccurs="0" />
+							<xs:element name="ILI2" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_MUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+							<xs:element name="ELE_UNIDAD" type="xs:string" />
+							<xs:element name="RANGO1" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO2" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO3" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IMPXHOJA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COD_EXT" type="xs:string" />
+							<xs:element name="RESULTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_DESDE" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAH" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_HASTA" type="xs:string" minOccurs="0" />
+							<xs:element name="SIMBOLO" type="xs:string" minOccurs="0" />
+							<xs:element name="UNIDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="HOMOLOGACION_ESPECIE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ESPECIE_DBF" type="xs:string" />
+							<xs:element name="ESP_ESPECIE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="DICCIONARIO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PALABRA" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IMPXHOJA2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADS" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_SUELO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+							<xs:element name="RANGO_SP" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_PS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IMPXHOJA_SUELO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COD_EXT" type="xs:string" />
+							<xs:element name="RESULTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_SP" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAH" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_PS" type="xs:string" minOccurs="0" />
+							<xs:element name="UNIDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="FORMATO_RESULTADO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="FOR_REGISTRO" type="xs:string" />
+							<xs:element name="FOR_ELEMENTO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_TITULO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_PXLS" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_SIMBOLO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_TITULO2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_PXLS2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_UNIDAD" type="xs:string" />
+							<xs:element name="FOR_TITULO3" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL3" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS3" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET3" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_PXLS3" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_RESULTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL4" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS4" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET4" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_ENTERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_DECIMAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_FREC" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_PXLS4" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_RANGO_DESDE" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL5" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS5" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET5" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_ENTERO2" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_DECIMAL2" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_PXLS5" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_RANGO_SIMBOLO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL6" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS6" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET6" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_PXLS6" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_RANGO_HASTA" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_CEL7" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_POS7" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_LET7" type="xs:string" minOccurs="0" />
+							<xs:element name="FOR_ENTERO3" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_DECIMAL3" type="xs:int" minOccurs="0" />
+							<xs:element name="FOR_PXLS7" type="xs:string" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_DBF">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="COD_ESP" type="xs:string" />
+							<xs:element name="COD_ELE_RANGO" type="xs:string" />
+							<xs:element name="RANGO_DESDE" type="xs:string" minOccurs="0" />
+							<xs:element name="SIMBOLO" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_HASTA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NOTA_AUTO_RESULTADOS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ESP_ESPECIE" type="xs:string" />
+							<xs:element name="DESCRIPCION" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IMPXHOJA_AGUA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COD_EXT" type="xs:string" />
+							<xs:element name="RESULTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO1" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO2" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO3" type="xs:string" minOccurs="0" />
+							<xs:element name="UNIDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ELEMENTOS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COD_EXT" type="xs:string" minOccurs="0" />
+							<xs:element name="COD_INT" type="xs:string" minOccurs="0" />
+							<xs:element name="SIMBOLO" type="xs:string" minOccurs="0" />
+							<xs:element name="UNIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FILA" type="xs:int" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COLUMNAS_FERTILIDAD">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADS" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_AGUA_CE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="LINEA_INTER" type="xs:int" />
+							<xs:element name="RANGO_DESDE" type="xs:double" minOccurs="0" />
+							<xs:element name="RANGO_HASTA" type="xs:double" minOccurs="0" />
+							<xs:element name="NOTA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="TABLA_DIGRES2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+							<xs:element name="ELE_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_CODIGO" type="xs:float" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="SUBMUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SUB_CODIGO" type="xs:int" />
+							<xs:element name="SUB_DESCRIPCION" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MSUE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="IORD" type="xs:string" minOccurs="0" />
+							<xs:element name="INLA" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEI" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IPRO" type="xs:string" minOccurs="0" />
+							<xs:element name="IEMP" type="xs:string" minOccurs="0" />
+							<xs:element name="IREM" type="xs:string" minOccurs="0" />
+							<xs:element name="ICUA" type="xs:string" minOccurs="0" />
+							<xs:element name="ICU1" type="xs:string" minOccurs="0" />
+							<xs:element name="ICU2" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRE" type="xs:string" minOccurs="0" />
+							<xs:element name="ILOC" type="xs:string" minOccurs="0" />
+							<xs:element name="IREG" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEM" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IREA" type="xs:string" minOccurs="0" />
+							<xs:element name="ICAA" type="xs:double" minOccurs="0" />
+							<xs:element name="IREE" type="xs:string" minOccurs="0" />
+							<xs:element name="ICAE" type="xs:double" minOccurs="0" />
+							<xs:element name="ITEX" type="xs:string" minOccurs="0" />
+							<xs:element name="IROS" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRF" type="xs:string" minOccurs="0" />
+							<xs:element name="IDRE" type="xs:string" minOccurs="0" />
+							<xs:element name="IN" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT1" type="xs:string" minOccurs="0" />
+							<xs:element name="IP" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT2" type="xs:string" minOccurs="0" />
+							<xs:element name="IK" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT3" type="xs:string" minOccurs="0" />
+							<xs:element name="IPH" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT4" type="xs:string" minOccurs="0" />
+							<xs:element name="ICE" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT5" type="xs:string" minOccurs="0" />
+							<xs:element name="IMO" type="xs:double" minOccurs="0" />
+							<xs:element name="ICT6" type="xs:string" minOccurs="0" />
+							<xs:element name="CARBONO_O" type="xs:double" minOccurs="0" />
+							<xs:element name="NITRO_TOT" type="xs:double" minOccurs="0" />
+							<xs:element name="RELACION" type="xs:double" minOccurs="0" />
+							<xs:element name="POTASI_SO" type="xs:double" minOccurs="0" />
+							<xs:element name="AZUFRE_EX" type="xs:double" minOccurs="0" />
+							<xs:element name="ALUMIN_EX" type="xs:double" minOccurs="0" />
+							<xs:element name="CALCIO" type="xs:double" minOccurs="0" />
+							<xs:element name="CALCIO2" type="xs:double" minOccurs="0" />
+							<xs:element name="MAGNESIO" type="xs:double" minOccurs="0" />
+							<xs:element name="MAGNESIO2" type="xs:double" minOccurs="0" />
+							<xs:element name="SODIO" type="xs:double" minOccurs="0" />
+							<xs:element name="SODIO2" type="xs:double" minOccurs="0" />
+							<xs:element name="POTASIO" type="xs:double" minOccurs="0" />
+							<xs:element name="POTASIO2" type="xs:double" minOccurs="0" />
+							<xs:element name="SUMABASES" type="xs:double" minOccurs="0" />
+							<xs:element name="CIC" type="xs:double" minOccurs="0" />
+							<xs:element name="ALUMINIO" type="xs:double" minOccurs="0" />
+							<xs:element name="SATURA" type="xs:double" minOccurs="0" />
+							<xs:element name="CICE" type="xs:double" minOccurs="0" />
+							<xs:element name="ZINC" type="xs:double" minOccurs="0" />
+							<xs:element name="MANGANESO" type="xs:double" minOccurs="0" />
+							<xs:element name="FIERRO" type="xs:double" minOccurs="0" />
+							<xs:element name="COBRE" type="xs:double" minOccurs="0" />
+							<xs:element name="BORO" type="xs:double" minOccurs="0" />
+							<xs:element name="ARCILLA" type="xs:double" minOccurs="0" />
+							<xs:element name="LIMO" type="xs:double" minOccurs="0" />
+							<xs:element name="ARENA" type="xs:double" minOccurs="0" />
+							<xs:element name="TEXTURA" type="xs:string" minOccurs="0" />
+							<xs:element name="DENSIDAD" type="xs:double" minOccurs="0" />
+							<xs:element name="HUMEDAD03" type="xs:double" minOccurs="0" />
+							<xs:element name="HUMEDAD15" type="xs:double" minOccurs="0" />
+							<xs:element name="HUMEDAD" type="xs:double" minOccurs="0" />
+							<xs:element name="PIEDRAS" type="xs:double" minOccurs="0" />
+							<xs:element name="IEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN1" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO1" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA1" type="xs:string" minOccurs="0" />
+							<xs:element name="IEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN2" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO2" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA2" type="xs:string" minOccurs="0" />
+							<xs:element name="IEL3" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN3" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO3" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA3" type="xs:string" minOccurs="0" />
+							<xs:element name="IEL4" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN4" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO4" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA4" type="xs:string" minOccurs="0" />
+							<xs:element name="IEL5" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN5" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO5" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA5" type="xs:string" minOccurs="0" />
+							<xs:element name="IEL6" type="xs:string" minOccurs="0" />
+							<xs:element name="IUN6" type="xs:string" minOccurs="0" />
+							<xs:element name="ICO6" type="xs:string" minOccurs="0" />
+							<xs:element name="ICA6" type="xs:string" minOccurs="0" />
+							<xs:element name="IOB1" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS_ELEMENTOS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+							<xs:element name="ELE_PRIORIDAD" type="xs:int" minOccurs="0" />
+							<xs:element name="TITULO_FILA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NLAB_COLUMNAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="COLUMNAD_ENT" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAH_ENT" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNA_COMA" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAD_DEC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAH_DEC" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS_ELE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="FIRMA_NOMBRE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NOMBRE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="FIRMA_CARGO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CARGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_FERTILIDAD">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+							<xs:element name="LINEA" type="xs:int" minOccurs="0" />
+							<xs:element name="RANGO_DESDE" type="xs:double" minOccurs="0" />
+							<xs:element name="RANGO_HASTA" type="xs:double" minOccurs="0" />
+							<xs:element name="CATEGORIA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="RANGO_FERTORG">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_DESDE" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO_HASTA" type="xs:string" minOccurs="0" />
+							<xs:element name="RANGO" type="xs:string" minOccurs="0" />
+							<xs:element name="METODO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COLUMNAS_SALINIDAD">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHC" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHR" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNADS" type="xs:string" minOccurs="0" />
+							<xs:element name="COLUMNAHS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="Cjto_ResultadosKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:SUBMUESTRA" />
+			<xs:field xpath="mstns:SUB_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_ResultadosKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:TABLA_DIGRES2" />
+			<xs:field xpath="mstns:OT_NLAB" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey3" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS_ELEMENTOS" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_ResultadosKey4" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS_ELE" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_ResultadosKey5" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:FIRMA_CARGO" />
+			<xs:field xpath="mstns:CARGO" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey6" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:FIRMA_NOMBRE" />
+			<xs:field xpath="mstns:NOMBRE" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey7" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:RANGO_AGUA_CE" />
+			<xs:field xpath="mstns:LINEA_INTER" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey8" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COLUMNAS_FERTILIDAD" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey9" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:RANGO_FERTILIDAD" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+			<xs:field xpath="mstns:LINEA" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey11" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:RANGO_FERTORG" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey12" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COLUMNAS_SALINIDAD" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_ResultadosKey10" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:RANGO_SUELO" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

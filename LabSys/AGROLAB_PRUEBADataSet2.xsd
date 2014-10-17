@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AGROLAB_PRUEBADataSet2" targetNamespace="http://tempuri.org/AGROLAB_PRUEBADataSet2.xsd" xmlns:mstns="http://tempuri.org/AGROLAB_PRUEBADataSet2.xsd" xmlns="http://tempuri.org/AGROLAB_PRUEBADataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="AGROLAB_PRUEBAConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="AGROLAB_PRUEBAConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.LabSys.My.MySettings.GlobalReference.Default.AGROLAB_PRUEBAConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="COMTableAdapter" GeneratorDataComponentClassName="COMTableAdapter" Name="COM" UserDataComponentName="COMTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AGROLAB_PRUEBAConnectionString (MySettings)" DbObjectName="AGROLAB_PRUEBA.dbo.COM" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT [N° OT], [F. Ingreso], Productor, [Rut Productor], [Rut Factura], Empresa, Remite, Tipo, Cantidad, Desde, Ana, Pag, Fac, Numero, Fecha FROM dbo.COM</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="N° OT" DataSetColumn="N° OT" />
+              <Mapping SourceColumn="F. Ingreso" DataSetColumn="F_ Ingreso" />
+              <Mapping SourceColumn="Productor" DataSetColumn="Productor" />
+              <Mapping SourceColumn="Rut Productor" DataSetColumn="Rut Productor" />
+              <Mapping SourceColumn="Rut Factura" DataSetColumn="Rut Factura" />
+              <Mapping SourceColumn="Empresa" DataSetColumn="Empresa" />
+              <Mapping SourceColumn="Remite" DataSetColumn="Remite" />
+              <Mapping SourceColumn="Tipo" DataSetColumn="Tipo" />
+              <Mapping SourceColumn="Cantidad" DataSetColumn="Cantidad" />
+              <Mapping SourceColumn="Desde" DataSetColumn="Desde" />
+              <Mapping SourceColumn="Ana" DataSetColumn="Ana" />
+              <Mapping SourceColumn="Pag" DataSetColumn="Pag" />
+              <Mapping SourceColumn="Fac" DataSetColumn="Fac" />
+              <Mapping SourceColumn="Numero" DataSetColumn="Numero" />
+              <Mapping SourceColumn="Fecha" DataSetColumn="Fecha" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AGROLAB_PRUEBADataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AGROLAB_PRUEBADataSet2" msprop:Generator_DataSetName="AGROLAB_PRUEBADataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="COM" msprop:Generator_UserTableName="COM" msprop:Generator_RowDeletedName="COMRowDeleted" msprop:Generator_TableClassName="COMDataTable" msprop:Generator_RowChangedName="COMRowChanged" msprop:Generator_RowClassName="COMRow" msprop:Generator_RowChangingName="COMRowChanging" msprop:Generator_RowEvArgName="COMRowChangeEvent" msprop:Generator_RowEvHandlerName="COMRowChangeEventHandler" msprop:Generator_TablePropName="COM" msprop:Generator_TableVarName="tableCOM" msprop:Generator_RowDeletingName="COMRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="N_x00B0__x0020_OT" msprop:Generator_UserColumnName="N° OT" msprop:Generator_ColumnPropNameInRow="_N__OT" msprop:Generator_ColumnVarNameInTable="_columnN__OT" msprop:Generator_ColumnPropNameInTable="_N__OTColumn" type="xs:int" />
+              <xs:element name="F__x0020_Ingreso" msprop:Generator_UserColumnName="F_ Ingreso" msprop:Generator_ColumnPropNameInRow="F__Ingreso" msprop:Generator_ColumnVarNameInTable="columnF__Ingreso" msprop:Generator_ColumnPropNameInTable="F__IngresoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Productor" msprop:Generator_UserColumnName="Productor" msprop:Generator_ColumnPropNameInRow="Productor" msprop:Generator_ColumnVarNameInTable="columnProductor" msprop:Generator_ColumnPropNameInTable="ProductorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Rut_x0020_Productor" msprop:Generator_UserColumnName="Rut Productor" msprop:Generator_ColumnPropNameInRow="Rut_Productor" msprop:Generator_ColumnVarNameInTable="columnRut_Productor" msprop:Generator_ColumnPropNameInTable="Rut_ProductorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Rut_x0020_Factura" msprop:Generator_UserColumnName="Rut Factura" msprop:Generator_ColumnPropNameInRow="Rut_Factura" msprop:Generator_ColumnVarNameInTable="columnRut_Factura" msprop:Generator_ColumnPropNameInTable="Rut_FacturaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Empresa" msprop:Generator_UserColumnName="Empresa" msprop:Generator_ColumnPropNameInRow="Empresa" msprop:Generator_ColumnVarNameInTable="columnEmpresa" msprop:Generator_ColumnPropNameInTable="EmpresaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Remite" msprop:Generator_UserColumnName="Remite" msprop:Generator_ColumnPropNameInRow="Remite" msprop:Generator_ColumnVarNameInTable="columnRemite" msprop:Generator_ColumnPropNameInTable="RemiteColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tipo" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Tipo" msprop:Generator_ColumnPropNameInRow="Tipo" msprop:Generator_ColumnVarNameInTable="columnTipo" msprop:Generator_ColumnPropNameInTable="TipoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cantidad" msprop:Generator_UserColumnName="Cantidad" msprop:Generator_ColumnPropNameInRow="Cantidad" msprop:Generator_ColumnVarNameInTable="columnCantidad" msprop:Generator_ColumnPropNameInTable="CantidadColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Desde" msprop:Generator_UserColumnName="Desde" msprop:Generator_ColumnPropNameInRow="Desde" msprop:Generator_ColumnVarNameInTable="columnDesde" msprop:Generator_ColumnPropNameInTable="DesdeColumn" type="xs:int" />
+              <xs:element name="Ana" msprop:Generator_UserColumnName="Ana" msprop:Generator_ColumnPropNameInRow="Ana" msprop:Generator_ColumnVarNameInTable="columnAna" msprop:Generator_ColumnPropNameInTable="AnaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pag" msprop:Generator_UserColumnName="Pag" msprop:Generator_ColumnPropNameInRow="Pag" msprop:Generator_ColumnVarNameInTable="columnPag" msprop:Generator_ColumnPropNameInTable="PagColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fac" msprop:Generator_UserColumnName="Fac" msprop:Generator_ColumnPropNameInRow="Fac" msprop:Generator_ColumnVarNameInTable="columnFac" msprop:Generator_ColumnPropNameInTable="FacColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Numero" msprop:Generator_UserColumnName="Numero" msprop:Generator_ColumnPropNameInRow="Numero" msprop:Generator_ColumnVarNameInTable="columnNumero" msprop:Generator_ColumnPropNameInTable="NumeroColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Fecha" msprop:Generator_UserColumnName="Fecha" msprop:Generator_ColumnPropNameInRow="Fecha" msprop:Generator_ColumnVarNameInTable="columnFecha" msprop:Generator_ColumnPropNameInTable="FechaColumn" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

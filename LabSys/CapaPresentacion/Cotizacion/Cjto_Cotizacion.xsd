@@ -1,0 +1,640 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="Cjto_Cotizacion" targetNamespace="http://www.tempuri.org/Cjto_Cotizacion.xsd"
+	xmlns:mstns="http://www.tempuri.org/Cjto_Cotizacion.xsd" xmlns="http://www.tempuri.org/Cjto_Cotizacion.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xs:element name="Cjto_Cotizacion" msdata:IsDataSet="true" msdata:Locale="es-CL">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="PRODUCTOR">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PRO_RUT" type="xs:string" />
+							<xs:element name="PRO_NOMBRE" type="xs:string" />
+							<xs:element name="PRO_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CELULAR" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FAX" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CASILLA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="LOC_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COM_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_ATENCION" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CTD_ANALISIS" type="xs:double" />
+							<xs:element name="CTA_UNITARIO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_NOTAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CON_NUMERO" type="xs:int" />
+							<xs:element name="NOT_NOTAS" type="xs:string" minOccurs="0" />
+							<xs:element name="NOTA_COT_TIPO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PRODUCTOR1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PRO_RUT" type="xs:string" />
+							<xs:element name="PRO_NOMBRE" type="xs:string" />
+							<xs:element name="PRO_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CELULAR" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FAX" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CASILLA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="LOC_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COM_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_ATENCION" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZACION1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="COT_RUT" type="xs:string" />
+							<xs:element name="COT_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMAIL" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_ATENCION" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_FONO" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_FAX" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="COT_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_IVA" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="COT_CELULAR" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_CIUDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE1" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE2" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE3" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE4" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_CARGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COMBO_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COB_CODIGO" type="xs:double" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_NOTAS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CON_NUMERO" type="xs:int" />
+							<xs:element name="NOT_NOTAS" type="xs:string" minOccurs="0" />
+							<xs:element name="NOTA_COT_TIPO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CTD_ANALISIS" type="xs:double" />
+							<xs:element name="CTA_UNITARIO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS11">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS12">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS13">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CODIGO_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double"></xs:element>
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZACION">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="COT_RUT" type="xs:string" />
+							<xs:element name="COT_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMAIL" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_ATENCION" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_FONO" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_FAX" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="COT_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_IVA" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="COT_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="COT_CELULAR" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_CIUDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE1" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE2" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE3" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_MUE4" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="COT_CARGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="EMPRESA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PRO_EMPRESA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PRO_PASO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="PRO_NOMBRE" type="xs:string" />
+							<xs:element name="PRO_RUT" type="xs:string" />
+							<xs:element name="PRO_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CELULAR" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_FAX" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_CASILLA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CIU_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="LOC_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="COM_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_ATENCION" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_EMPRESA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COMBO_ANALISIS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_DETALLE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CTD_ANALISIS" type="xs:double" />
+							<xs:element name="CTD_CANTIDAD" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_UNITARIO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTD_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="CTD_MUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_DETALLE1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COT_NUMERO" type="xs:double" />
+							<xs:element name="CTD_ANALISIS" type="xs:double" />
+							<xs:element name="CTD_CANTIDAD" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_UNITARIO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTD_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="CTD_MUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="SUBMUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SUB_CODIGO" type="xs:int" />
+							<xs:element name="SUB_DESCRIPCION" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:double" />
+							<xs:element name="TMU_MUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS14">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS15">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="LISTADO_DETALLE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS16">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COMBO_COTIZA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COB_CODIGO" type="xs:double" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_COMUNAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COD_COMUNA" type="xs:string" />
+							<xs:element name="COD_CIUDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_COMUNAS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COD_COMUNA" type="xs:string" />
+							<xs:element name="COD_CIUDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_COMUNAS2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="COD_COMUNA" type="xs:string" />
+							<xs:element name="COD_CIUDAD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_DETALLE_ORD">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CTD_ANALISIS" type="xs:double" />
+							<xs:element name="CTD_CANTIDAD" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_UNITARIO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="CTD_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTD_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="CTD_MUESTRA" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS17">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NOTA_PLANILLA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NPL_NOMBRE" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COTIZA_ANALISIS_BASE">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="CTA_DESCUENTO" type="xs:double" minOccurs="0" />
+							<xs:element name="CTA_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CHEQUEO" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="Cjto_CotizacionKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PRODUCTOR" />
+			<xs:field xpath="mstns:PRO_RUT" />
+			<xs:field xpath="mstns:PRO_NOMBRE" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey5" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CTD_ANALISIS" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey3" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS1" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey4" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_NOTAS" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CON_NUMERO" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey6" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PRODUCTOR1" />
+			<xs:field xpath="mstns:PRO_RUT" />
+			<xs:field xpath="mstns:PRO_NOMBRE" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey8">
+			<xs:selector xpath=".//mstns:COMBO_ANALISIS" />
+			<xs:field xpath="mstns:COB_CODIGO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey11">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS2" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CTD_ANALISIS" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey12">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS11" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey13">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS12" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey14">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS13" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey15" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS11" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey17" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS12" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey9" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZACION" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey18" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS13" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey19" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PRO_PASO" />
+			<xs:field xpath="mstns:PRO_NOMBRE" />
+			<xs:field xpath="mstns:PRO_RUT" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey21" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CODIGO_ANALISIS" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+			<xs:field xpath="mstns:ANA_ANALISIS" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey23">
+			<xs:selector xpath=".//mstns:COMBO_ANALISIS1" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey24" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COMBO_ANALISIS1" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey25" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS1" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_DETALLE" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CTD_ANALISIS" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey10" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_DETALLE1" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CTD_ANALISIS" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey26" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey27" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:SUBMUESTRA" />
+			<xs:field xpath="mstns:SUB_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey22" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MUESTRA" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey28" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS14" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey29" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS15" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey30" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COMBO_ANALISIS" />
+			<xs:field xpath="mstns:COB_CODIGO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey31" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:LISTADO_DETALLE" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey33" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS16" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_CotizacionKey34" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COMBO_COTIZA" />
+			<xs:field xpath="mstns:COB_CODIGO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_CotizacionKey20" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_COMUNAS" />
+			<xs:field xpath="mstns:COD_COMUNA" />
+		</xs:unique>
+		<xs:key name="Cjto_CotizacionKey32" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_COMUNAS2" />
+			<xs:field xpath="mstns:COD_COMUNA" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey16" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_COMUNAS1" />
+			<xs:field xpath="mstns:COD_COMUNA" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey35" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_DETALLE_ORD" />
+			<xs:field xpath="mstns:CTD_ANALISIS" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey36" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS17" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey37" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZACION1" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey7" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_NOTAS1" />
+			<xs:field xpath="mstns:COT_NUMERO" />
+			<xs:field xpath="mstns:CON_NUMERO" />
+		</xs:key>
+		<xs:key name="Cjto_CotizacionKey38" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COTIZA_ANALISIS_BASE" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

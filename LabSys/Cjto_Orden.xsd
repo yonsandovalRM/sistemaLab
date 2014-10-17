@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="Cjto_Orden" targetNamespace="http://tempuri.org/Cjto_Orden.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/Cjto_Orden.xsd" xmlns:mstns="http://tempuri.org/Cjto_Orden.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Cjto_Orden" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="OT_FERT_APLICADA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="OTFAPL_N" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_P2O5" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_K2O" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_CAO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_MGO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_S" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_B" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROS" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTRO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_UREA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITAMOCA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITAMO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITPOT" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITNAK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITNA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SULAMO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROSN" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTRON" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_FOSDIA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_FOSMON" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SUPFOST" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SUPFOSN" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SUPFOSM" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROSP" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTROP" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_CLK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NIK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SUKMG" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_SUK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_NITK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROSK" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTROK" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_FOS" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_FERTI" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_AZU" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_AGRO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROA" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTROA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_COMP" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_GUA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROO" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTROO" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_CAL" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_BOR" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTRO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTRO1" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTRO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTRO2" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTRO3" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTRO3" type="xs:int" minOccurs="0" />
+							<xs:element name="OTFAPL_OTROO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OTFAPL_CANOTROO2" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_RECOMENDACION">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="OTREC_RTO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_RTTON" type="xs:int" minOccurs="0" />
+							<xs:element name="OTREC_CARGA" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_CATON" type="xs:int" minOccurs="0" />
+							<xs:element name="OTREC_VIGOR" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_DENSIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_DISTANCIA1" type="xs:int" minOccurs="0" />
+							<xs:element name="OTREC_DISTANCIA2" type="xs:int" minOccurs="0" />
+							<xs:element name="OTREC_PLANTASH" type="xs:int" minOccurs="0" />
+							<xs:element name="OTREC_CALIBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_FAL_FIR" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_GRA_BRIX" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_FAL_COL" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_NEG_VID" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_BAY_VID" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_PAR_FRU" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_DESHIDRA" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_PRO_POST" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_OTRO" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_TEXTURA" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_PROFUNDIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_SIS_RIE" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_DRENAJE" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_COMENTARIO" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_RTO_UNI" type="xs:string" minOccurs="0" />
+							<xs:element name="OTREC_CAR_UNI" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FERTORG_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="FEOANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_FECHAMU" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="FEOANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_TIPOFERTI" type="xs:string" minOccurs="0" />
+							<xs:element name="FEOANT_OBSERVACION" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FERTQUI_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="FEQANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_FECHAMU" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="FEQANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_TIPOFERTI" type="xs:string" minOccurs="0" />
+							<xs:element name="FEQANT_OBSERVACION" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_YEMAS_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="YEMANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_EDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_CUARTEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_CUARTEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_RTO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_CARGA" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_VIGOR" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_DENSIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_APARIENCIA" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_CARGADORES" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMANT_YEMAS" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMANT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="YEMANT_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FITOPATOLOGICOS_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="FITANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_TMUESTRA" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_TEJIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_EDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_OBSERVACION" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="FITANT_HMUESTREO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITANT_SISTOMATOLOGIA" type="xs:string" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="IMP_RECIBO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NUMLINEA" type="xs:int" minOccurs="0" />
+							<xs:element name="CANTIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="CODIGO" type="xs:string" minOccurs="0" />
+							<xs:element name="DESCRIPCION" type="xs:string" minOccurs="0" />
+							<xs:element name="UNITARIO" type="xs:string" minOccurs="0" />
+							<xs:element name="SUBTOTAL" type="xs:string" minOccurs="0" />
+							<xs:element name="MARCA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NOTA_YEMAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NIV_NYEM" type="xs:int" />
+							<xs:element name="COD_NYEM" type="xs:string" minOccurs="0" />
+							<xs:element name="DES_NYEM" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="NOTA_YEMA_NLAB">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="DES1_NYEM" type="xs:string" minOccurs="0" />
+							<xs:element name="DES2_NYEM" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CONSULTA_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MYEMA3">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="IORD" type="xs:string" minOccurs="0" />
+							<xs:element name="INLA" type="xs:string" minOccurs="0" />
+							<xs:element name="ILIN" type="xs:double" minOccurs="0" />
+							<xs:element name="IFEI" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IPRO" type="xs:string" minOccurs="0" />
+							<xs:element name="IEMP" type="xs:string" minOccurs="0" />
+							<xs:element name="IREM" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRE" type="xs:string" minOccurs="0" />
+							<xs:element name="IESP" type="xs:string" minOccurs="0" />
+							<xs:element name="IVAR" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEM" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="ILOC" type="xs:string" minOccurs="0" />
+							<xs:element name="IREG" type="xs:string" minOccurs="0" />
+							<xs:element name="ICUA" type="xs:string" minOccurs="0" />
+							<xs:element name="IEDA" type="xs:double" minOccurs="0" />
+							<xs:element name="IUNO" type="xs:string" minOccurs="0" />
+							<xs:element name="IDOS" type="xs:string" minOccurs="0" />
+							<xs:element name="ITRE" type="xs:string" minOccurs="0" />
+							<xs:element name="ICUAT" type="xs:string" minOccurs="0" />
+							<xs:element name="ICIN" type="xs:string" minOccurs="0" />
+							<xs:element name="ISEI" type="xs:string" minOccurs="0" />
+							<xs:element name="ISIE" type="xs:string" minOccurs="0" />
+							<xs:element name="IOCH" type="xs:string" minOccurs="0" />
+							<xs:element name="INUE" type="xs:string" minOccurs="0" />
+							<xs:element name="IDIE" type="xs:string" minOccurs="0" />
+							<xs:element name="IONC" type="xs:string" minOccurs="0" />
+							<xs:element name="IDOC" type="xs:string" minOccurs="0" />
+							<xs:element name="ITRC" type="xs:string" minOccurs="0" />
+							<xs:element name="ICAT" type="xs:string" minOccurs="0" />
+							<xs:element name="IQUI" type="xs:string" minOccurs="0" />
+							<xs:element name="IDI6" type="xs:string" minOccurs="0" />
+							<xs:element name="IDI7" type="xs:string" minOccurs="0" />
+							<xs:element name="IDI8" type="xs:string" minOccurs="0" />
+							<xs:element name="IDI9" type="xs:string" minOccurs="0" />
+							<xs:element name="IVE0" type="xs:string" minOccurs="0" />
+							<xs:element name="IVE1" type="xs:string" minOccurs="0" />
+							<xs:element name="IVE2" type="xs:string" minOccurs="0" />
+							<xs:element name="IVE3" type="xs:string" minOccurs="0" />
+							<xs:element name="IVE4" type="xs:string" minOccurs="0" />
+							<xs:element name="NROYEM" type="xs:double" minOccurs="0" />
+							<xs:element name="NOBSERVA" type="xs:double" minOccurs="0" />
+							<xs:element name="NFRUTA" type="xs:double" minOccurs="0" />
+							<xs:element name="PORCFRUTA" type="xs:double" minOccurs="0" />
+							<xs:element name="PORCACUM" type="xs:double" minOccurs="0" />
+							<xs:element name="VEGETA1" type="xs:double" minOccurs="0" />
+							<xs:element name="VEGETA2" type="xs:double" minOccurs="0" />
+							<xs:element name="FRUSEC1" type="xs:double" minOccurs="0" />
+							<xs:element name="FRUSEC2" type="xs:double" minOccurs="0" />
+							<xs:element name="VEGSEC1" type="xs:double" minOccurs="0" />
+							<xs:element name="VEGSEC2" type="xs:double" minOccurs="0" />
+							<xs:element name="MUERTA1" type="xs:double" minOccurs="0" />
+							<xs:element name="MUERTA2" type="xs:double" minOccurs="0" />
+							<xs:element name="AUSENTE1" type="xs:double" minOccurs="0" />
+							<xs:element name="AUSENTE2" type="xs:double" minOccurs="0" />
+							<xs:element name="IOB1" type="xs:string" minOccurs="0" />
+							<xs:element name="IOB2" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="DIG_YEMAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="YEM_YEMA" type="xs:int" />
+							<xs:element name="YEM_CARGADOR1" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR2" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR3" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR4" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR5" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR6" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR7" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR8" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR9" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR10" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR11" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR12" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR13" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR14" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR15" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR16" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR17" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR18" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR19" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR20" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR21" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR22" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR23" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR24" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR25" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR26" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR27" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR28" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR29" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR30" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR31" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR32" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR33" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR34" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR35" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR36" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR37" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR38" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR39" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_CARGADOR40" type="xs:string" minOccurs="0" />
+							<xs:element name="YEM_OBSERVADAS" type="xs:int" minOccurs="0" />
+							<xs:element name="YEM_FRUTALES" type="xs:int" minOccurs="0" />
+							<xs:element name="YEM_POROBSERVADAS" type="xs:double" minOccurs="0" />
+							<xs:element name="YEM_PORACUMULADA" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="YEMAS_NLAB">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ESTIMADOBRO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="CARGADOR_DESDE" type="xs:int" minOccurs="0" />
+							<xs:element name="CARGADOR_HASTA" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMA_DESDE" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMA_HASTA" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="LARGO_CARGADOR">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMA_DESDE" type="xs:int" minOccurs="0" />
+							<xs:element name="YEMA_HASTA" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS_ELEMENTOS_PASO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OTEST_NLAB">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="OTC_NLAB_DESDE" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_NLAB_HASTA" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_CODIFICACION">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="MUESTRA" type="xs:string" />
+							<xs:element name="OTC_NLAB_DESDE" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="OTC_CANT_MUESTRAS" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_NLAB_HASTA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_PRECIOUN" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_PRECIONET" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="DIGITA_RESULTADOS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+							<xs:element name="DIGRES_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="DIGRES_ANALIZADO_POR" type="xs:string" minOccurs="0" />
+							<xs:element name="DIGRES_DIGITADO_POR" type="xs:string" minOccurs="0" />
+							<xs:element name="DIGRES_BLANCO" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_FACTOR" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_LECTURA" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_RESULTADO" type="xs:double" minOccurs="0" />
+							<xs:element name="ELE_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="DUPLICA_RESULTADO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+							<xs:element name="NUMERO_DIGITACION" type="xs:int" />
+							<xs:element name="DIGRES_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="DIGRES_NLAB_DESDE" type="xs:int" minOccurs="0" />
+							<xs:element name="DIGRES_NLAB_HASTA" type="xs:int" minOccurs="0" />
+							<xs:element name="DIGRES_ANALIZADO_POR" type="xs:string" minOccurs="0" />
+							<xs:element name="DIGRES_DIGITADO_POR" type="xs:string" minOccurs="0" />
+							<xs:element name="DIGRES_BLANCO" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_FACTOR" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_LECTURA" type="xs:double" minOccurs="0" />
+							<xs:element name="DIGRES_RESULTADO" type="xs:double" minOccurs="0" />
+							<xs:element name="ELE_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS_ELEMENTOS_PASO2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OTC_NLAB_DESDE" type="xs:int" />
+							<xs:element name="ELE_CODIGO" type="xs:string" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FOLIAR_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="FOLANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_EDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_CUARTEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_CUARTEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_RTO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_CARGA" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_VIGOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_DENSIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_APARIENCIA" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_FOTO1" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_FOTO2" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_RECOMENDACION" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FOLANT_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ORDEN_TRABAJO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="COT_NUMERO" type="xs:double" minOccurs="0" />
+							<xs:element name="OT_FECHA_ORDEN" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OT_FAC_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_PRODUCTOR" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_CIUDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_PROVINCIA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REGION" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAX1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAX2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="PRO_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REMITE" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_FAX1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_FAX2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_REM_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FAX1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FAX2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_GIRO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_CIUDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_F1PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_F2PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_OBSPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_RETIRALAB" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_FONO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_FAX" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_EMAIL" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_CORREO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_BUS" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_OTRO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESP_POR_OTRO_GLOSA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_SENORES" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_ATENCION" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_DIRECCION" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_CASILLA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_COMUNA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_CIUDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OT_DESP_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_FAX1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_FAX2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_ENTREGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DIGITADO_POR" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_HORA_OT" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OT_FACTURA_PEND" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_SUBTOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_NETO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_IVA" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_DESCUENTOPOR" type="xs:double" minOccurs="0" />
+							<xs:element name="OT_DESCUENTOPESOS" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_MUESTREO_CANT" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_MUESTREO_PRECIOUN" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_MUESTREO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_ABONOCON" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="OT_ESTADO_ANA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_ESTADO_PAG" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_ESTADO_FAC" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_DESP_URGENTE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS_ELEMENTOS_PASO3">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="ELE_CODIGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_SUELO_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="SUEANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_FECHAMU" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="SUEANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_CULTIVO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_RTO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_CANTIDAD_ANT" type="xs:int" minOccurs="0" />
+							<xs:element name="SUEANT_UNIDAD_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_CULTIVO_PRO" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_RTO_ACT" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_CANTIDAD_ACT" type="xs:int" minOccurs="0" />
+							<xs:element name="SUEANT_UNIDAD_ACT" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_TEXTURA" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_PROFUNDIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_DRENAJE" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_RIEGO" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_RECOMENDACION" type="xs:string" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="SUEANT_PROFUNDIDADMUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_TEJIDOS_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="TEJANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJIDO" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_EDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_CUARTEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_CUARTEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_RTO_ANT" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_CARGA" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_VIGOR" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_DENSIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_APARIENCIA" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_FOTO1" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_FOTO2" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_RECOMENDACION" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="TEJANT_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_AGUA_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="OT_NLAB" type="xs:int" />
+							<xs:element name="AGUANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_FECHAMU" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="AGUANT_HORA_MUESTREO" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_ORIGEN" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_ORIGEN_DESCR" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_TIPO_MU" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_TIPO_MDESCR" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_TIPO_RECIP" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_DETALLE" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_VOLUMEN_MU" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_PRESERVANTES" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_FECHAING" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="AGUANT_HORA_INGRESO" type="xs:string" minOccurs="0" />
+							<xs:element name="AGUANT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_CODIFICACION_RECIBO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" />
+							<xs:element name="MUESTRA" type="xs:string" />
+							<xs:element name="OTC_NLAB_DESDE" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="OTC_CANT_MUESTRAS" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_NLAB_HASTA" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_PRECIOUN" type="xs:int" minOccurs="0" />
+							<xs:element name="OTC_PRECIONET" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MODIFICA_NLAB">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="MODIFICACION" type="xs:boolean" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MYEMA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="IORD" type="xs:string" minOccurs="0" />
+							<xs:element name="INLA" type="xs:string" minOccurs="0" />
+							<xs:element name="ILIN" type="xs:double" minOccurs="0" />
+							<xs:element name="IFEI" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="IPRO" type="xs:string" minOccurs="0" />
+							<xs:element name="IEMP" type="xs:string" minOccurs="0" />
+							<xs:element name="IREM" type="xs:string" minOccurs="0" />
+							<xs:element name="IPRE" type="xs:string" minOccurs="0" />
+							<xs:element name="IESP" type="xs:string" minOccurs="0" />
+							<xs:element name="IVAR" type="xs:string" minOccurs="0" />
+							<xs:element name="IFEM" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="ILOC" type="xs:string" minOccurs="0" />
+							<xs:element name="ICUA" type="xs:string" minOccurs="0" />
+							<xs:element name="IEDA" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_NEMATODOS_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="NEMANT_TNEMA" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_CUARTEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_CUARTEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_EDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_REGION" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="NEMANT_VIGOR" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_PRODANT" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_PRODACT" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_OBSERVACION" type="xs:string" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="NEMANT_CULTIVO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FITOEVALUACION_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="FITEVA_PREDIO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_ESPECIE" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_VARIEDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_DISTPLANTA" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_CUARTEL1" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_CUARTEL2" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_ANOPLANTA" type="xs:int" minOccurs="0" />
+							<xs:element name="FITEVA_NUMTRATA" type="xs:int" minOccurs="0" />
+							<xs:element name="FITEVA_APLICACION" type="xs:int" minOccurs="0" />
+							<xs:element name="FITEVA_DURACIONDESDE" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_DURACIONHASTA" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_COSECHA" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_FECHA_GUARDA" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_LOCALIDAD" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_NOMBRE_ENSAYO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_OBSERVACION_x0020_" type="xs:string" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FITEVA_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FITORESISTENCIA_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="FITRES_NUMPRODUCTO" type="xs:int" minOccurs="0" />
+							<xs:element name="FITRES_NUMCONCENTRACIONES" type="xs:int" minOccurs="0" />
+							<xs:element name="FITRES_MICROORGANISMOS" type="xs:int" minOccurs="0" />
+							<xs:element name="FITRES_OBSERVACION" type="xs:string" minOccurs="0" />
+							<xs:element name="FITRES_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FITRES_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="OT_FITOMONITOREO_ANTECEDENTES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="OT_NLAB" type="xs:int" minOccurs="0" />
+							<xs:element name="FITMON_NUMLINEAS" type="xs:int" minOccurs="0" />
+							<xs:element name="FITMON_NUMCAMARAS" type="xs:int" minOccurs="0" />
+							<xs:element name="FITMON_IDENTIFICACION1" type="xs:string" minOccurs="0" />
+							<xs:element name="FITMON_IDENTIFICACION2" type="xs:string" minOccurs="0" />
+							<xs:element name="FITMON_OBSERVACION" type="xs:string" minOccurs="0" />
+							<xs:element name="NLAB_ESTADO" type="xs:string" minOccurs="0" />
+							<xs:element name="FITMON_MUESTREADOR" type="xs:string" minOccurs="0" />
+							<xs:element name="FITMON_FMUESTREO" type="xs:dateTime" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="Cjto_OrdenKey6" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FERT_APLICADA" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey5" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_RECOMENDACION" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey9" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FERTORG_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey10" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FERTQUI_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey11" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_YEMAS_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey12" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FITOPATOLOGICOS_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey13" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:IMP_RECIBO" />
+			<xs:field xpath="mstns:NUMLINEA" />
+		</xs:key>
+		<xs:unique name="Cjto_OrdenKey16">
+			<xs:selector xpath=".//mstns:NOTA_YEMAS" />
+			<xs:field xpath="mstns:NIV_NYEM" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey17" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:NOTA_YEMA_NLAB" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey18" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:CONSULTA_ANALISIS" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey19" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:NOTA_YEMAS" />
+			<xs:field xpath="mstns:NIV_NYEM" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey20" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MYEMA3" />
+			<xs:field xpath="mstns:IORD" />
+			<xs:field xpath="mstns:INLA" />
+			<xs:field xpath="mstns:ILIN" />
+		</xs:key>
+		<xs:unique name="Cjto_OrdenKey14" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:DIG_YEMAS" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+			<xs:field xpath="mstns:YEM_YEMA" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey15" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:YEMAS_NLAB" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey21" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ESTIMADOBRO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey22">
+			<xs:selector xpath=".//mstns:LARGO_CARGADOR" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey23" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:LARGO_CARGADOR" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:unique name="Cjto_OrdenKey25" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OTEST_NLAB" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey27" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_CODIFICACION" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:MUESTRA" />
+			<xs:field xpath="mstns:OTC_NLAB_DESDE" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey26" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:DIGITA_RESULTADOS" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey28" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:DUPLICA_RESULTADO" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+			<xs:field xpath="mstns:NUMERO_DIGITACION" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey3" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS_ELEMENTOS_PASO2" />
+			<xs:field xpath="mstns:OTC_NLAB_DESDE" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey30" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS_ELEMENTOS_PASO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_OrdenKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FOLIAR_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey4" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ORDEN_TRABAJO" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey29" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS_ELEMENTOS_PASO3" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+			<xs:field xpath="mstns:ELE_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_OrdenKey7" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_SUELO_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey24" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_TEJIDOS_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey8" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_AGUA_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey31" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:RECIPIENTE" />
+			<xs:field xpath="mstns:RECIPIENTE" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey32" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ESTADO" />
+			<xs:field xpath="mstns:ESTADO" />
+		</xs:unique>
+		<xs:unique name="Cjto_OrdenKey33" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:PRESERVANTES" />
+			<xs:field xpath="mstns:PRESERVANTES" />
+		</xs:unique>
+		<xs:key name="Cjto_OrdenKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_CODIFICACION_RECIBO" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:MUESTRA" />
+			<xs:field xpath="mstns:OTC_NLAB_DESDE" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey34" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MODIFICA_NLAB" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey35" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MYEMA" />
+			<xs:field xpath="mstns:IORD" />
+			<xs:field xpath="mstns:INLA" />
+			<xs:field xpath="mstns:ILIN" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey36" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_NEMATODOS_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey37" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FITOEVALUACION_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey38" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FITORESISTENCIA_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+		<xs:key name="Cjto_OrdenKey39" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:OT_FITOMONITOREO_ANTECEDENTES" />
+			<xs:field xpath="mstns:OT_NUMERO" />
+			<xs:field xpath="mstns:OT_NLAB" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

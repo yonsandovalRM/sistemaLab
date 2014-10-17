@@ -1,0 +1,1961 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LabSys
+</name>
+</assembly>
+<members>
+<member name="T:LabSys.LabsysDataSet3.MUESTREADORESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet3.MUESTREADORESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet3.MUESTREADORESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet3TableAdapters.MUESTREADORESTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet6.ESPECIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet6.ESPECIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet6.ESPECIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet6TableAdapters.ESPECIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabSysPlanificar.ls_ObtieneDatosPlanificacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabSysPlanificar.ls_ObtieneDatosPlanificacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabSysPlanificar.ls_ObtieneDatosPlanificacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabSysPlanificar">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabSysPlanificarTableAdapters.ls_ObtieneDatosPlanificacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet.ls_obtieneBusquedaXMLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet.ls_obtieneBusquedaXMLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet.ls_obtieneBusquedaXMLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSetTableAdapters.ls_obtieneBusquedaXMLTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.COMODINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.MUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.COMODINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.MUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.COMODINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin.MUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Conjunto_Comodin">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet5.COMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet5.COMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet5.COMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet5TableAdapters.COMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS5DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS6DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.COMBO_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS7DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.MUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.SUBMUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.CODIGO_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS5Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS6Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.COMBO_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS7Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.MUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.SUBMUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.CODIGO_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS5RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS6RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.COMBO_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.ANALISIS7RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.MUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.SUBMUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor.CODIGO_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Mantenedor">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.Cjto_Nota_planilla.NOTA_PLANILLADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Nota_planilla.NOTA_PLANILLARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Nota_planilla.NOTA_PLANILLARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Nota_planilla">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet5.ls_DatosProductorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet5.ls_DatosProductorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet5.ls_DatosProductorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet5TableAdapters.ls_DatosProductorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.ESPECIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.CONDICION_PAGODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.TEJIDODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.COMUNASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.PRODUCTORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.OT_CODIFICACION_RECIBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.ESPECIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.CONDICION_PAGORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.TEJIDORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.COMUNASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.PRODUCTORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.OT_CODIFICACION_RECIBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.ESPECIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.CONDICION_PAGORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.TEJIDORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.COMUNASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.PRODUCTORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8.OT_CODIFICACION_RECIBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8TableAdapters.ESPECIETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8TableAdapters.CONDICION_PAGOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8TableAdapters.TEJIDOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8TableAdapters.COMUNASTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet8TableAdapters.PRODUCTORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERT_APLICADADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_RECOMENDACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTORG_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTQUI_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_YEMAS_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOPATOLOGICOS_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.IMP_RECIBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMA_NLABDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.CONSULTA_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMA3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIG_YEMASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.YEMAS_NLABDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ESTIMADOBRODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.LARGO_CARGADORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OTEST_NLABDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIGITA_RESULTADOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DUPLICA_RESULTADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FOLIAR_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ORDEN_TRABAJODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_SUELO_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_TEJIDOS_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_AGUA_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACION_RECIBODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MODIFICA_NLABDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_NEMATODOS_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOEVALUACION_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITORESISTENCIA_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOMONITOREO_ANTECEDENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERT_APLICADARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_RECOMENDACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTORG_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTQUI_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_YEMAS_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOPATOLOGICOS_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.IMP_RECIBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMA_NLABRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.CONSULTA_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMA3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIG_YEMASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.YEMAS_NLABRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ESTIMADOBRORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.LARGO_CARGADORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OTEST_NLABRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIGITA_RESULTADOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DUPLICA_RESULTADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FOLIAR_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ORDEN_TRABAJORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_SUELO_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_TEJIDOS_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_AGUA_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACION_RECIBORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MODIFICA_NLABRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_NEMATODOS_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOEVALUACION_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITORESISTENCIA_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOMONITOREO_ANTECEDENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERT_APLICADARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_RECOMENDACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTORG_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FERTQUI_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_YEMAS_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOPATOLOGICOS_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.IMP_RECIBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.NOTA_YEMA_NLABRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.CONSULTA_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMA3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIG_YEMASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.YEMAS_NLABRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ESTIMADOBRORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.LARGO_CARGADORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OTEST_NLABRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DIGITA_RESULTADOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.DUPLICA_RESULTADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FOLIAR_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ORDEN_TRABAJORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.ANALISIS_ELEMENTOS_PASO3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_SUELO_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_TEJIDOS_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_AGUA_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_CODIFICACION_RECIBORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MODIFICA_NLABRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.MYEMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_NEMATODOS_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOEVALUACION_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITORESISTENCIA_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden.OT_FITOMONITOREO_ANTECEDENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Orden">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_BuscaAnalisisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_DatosProductorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_BuscaAnalisisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_DatosProductorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_BuscaAnalisisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2.ls_DatosProductorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2TableAdapters.ls_BuscaAnalisisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet2TableAdapters.ls_DatosProductorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:LabSys.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:LabSys.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:LabSys.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:LabSys.Cjto_NotaKit.NOTA_KITSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_NotaKit.NOTA_KITSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_NotaKit.NOTA_KITSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_NotaKit">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet.ls_validaUsuarioDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet.ls_validaUsuarioRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet.ls_validaUsuarioRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSetTableAdapters.ls_validaUsuarioTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:LabSys.My.Resources.RecursosLabsys.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:LabSys.My.Resources.RecursosLabsys.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:LabSys.My.Resources.RecursosLabsys">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet1.AUDITORIADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet1.AUDITORIARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet1.AUDITORIARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet1TableAdapters.AUDITORIATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet4.ESTADOS_OTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet4.ESTADOS_OTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet4.ESTADOS_OTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet4TableAdapters.ESTADOS_OTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_BuscaAnalisisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_DatosProductorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_ObtieneAnalisisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_BuscaAnalisisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_DatosProductorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_ObtieneAnalisisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Analisis.ls_BuscaAnalisisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Analisis.ls_DatosProductorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Analisis.ls_ObtieneAnalisisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Analisis">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AnalisisTableAdapters.ls_BuscaAnalisisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.AnalisisTableAdapters.ls_DatosProductorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.AnalisisTableAdapters.ls_ObtieneAnalisisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Cjto_Carta.CARTADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Carta.CARTARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Carta.CARTARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Carta">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet1.ls_ObtieneAnalisisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet1.ls_ObtieneAnalisisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet1.ls_ObtieneAnalisisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet1TableAdapters.ls_ObtieneAnalisisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet4.CIUDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet4.CIUDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet4.CIUDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet4TableAdapters.CIUDADTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet7.LOCALIDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet7.LOCALIDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet7.LOCALIDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.LabsysDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.LabsysDataSet7TableAdapters.LOCALIDADTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.COMBO_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.SUBMUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.MUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.COMBO_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.SUBMUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.MUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.COMBO_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.SUBMUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir.MUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Imprimir">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTOR1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACION1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTAS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS11DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS12DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS13DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.CODIGO_ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.EMPRESADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRO_PASODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISIS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISIS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISISDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.SUBMUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.MUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS14DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS15DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.LISTADO_DETALLEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS16DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_COTIZADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE_ORDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS17DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.NOTA_PLANILLADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS_BASEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTOR1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACION1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTAS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS11Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS12Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS13Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.CODIGO_ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.EMPRESARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRO_PASORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISIS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISIS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISISRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.SUBMUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.MUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS14Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS15Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.LISTADO_DETALLERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS16Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_COTIZARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE_ORDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS17Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.NOTA_PLANILLARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS_BASERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRODUCTOR1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACION1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_NOTAS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS11RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS12RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS13RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.CODIGO_ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.EMPRESARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.PRO_PASORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_ANALISIS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISIS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.ANALISISRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.SUBMUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.MUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS14RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS15RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.LISTADO_DETALLERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS16RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COMBO_COTIZARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_COMUNAS2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_DETALLE_ORDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS17RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.NOTA_PLANILLARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion.COTIZA_ANALISIS_BASERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Cotizacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_COTIZACIONDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_KITSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_COTIZACIONRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_KITSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_COTIZACIONRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Notas.NOTA_KITSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Notas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_RESULTADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MNEMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_MUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.HOMOLOGACION_ESPECIEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.DICCIONARIODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_SUELODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_SUELODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FORMATO_RESULTADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_DBFDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_AUTO_RESULTADOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_AGUADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ELEMENTOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_FERTILIDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_AGUA_CEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.TABLA_DIGRES2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.SUBMUESTRADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MSUEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELEMENTOSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NLAB_COLUMNASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_NOMBREDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_CARGODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTILIDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTORGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_SALINIDADDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_RESULTADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MNEMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_MUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.HOMOLOGACION_ESPECIERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.DICCIONARIORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_SUELORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_SUELORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FORMATO_RESULTADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_DBFRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_AUTO_RESULTADOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_AGUARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ELEMENTOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_FERTILIDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_AGUA_CERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.TABLA_DIGRES2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.SUBMUESTRARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MSUERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELEMENTOSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NLAB_COLUMNASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_NOMBRERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_CARGORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTILIDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTORGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_SALINIDADRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_RESULTADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MNEMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_MUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.HOMOLOGACION_ESPECIERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.DICCIONARIORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_SUELORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_SUELORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FORMATO_RESULTADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_DBFRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NOTA_AUTO_RESULTADOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.IMPXHOJA_AGUARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ELEMENTOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_FERTILIDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_AGUA_CERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.TABLA_DIGRES2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.SUBMUESTRARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.MSUERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELEMENTOSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.NLAB_COLUMNASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.ANALISIS_ELERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_NOMBRERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.FIRMA_CARGORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTILIDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.RANGO_FERTORGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados.COLUMNAS_SALINIDADRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.Cjto_Resultados">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet3.ESTADOS_OTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet3.ESTADOS_OTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet3.ESTADOS_OTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LabSys.AGROLAB_PRUEBADataSet3TableAdapters.ESTADOS_OTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

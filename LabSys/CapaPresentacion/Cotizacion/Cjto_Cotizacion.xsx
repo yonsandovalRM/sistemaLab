@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="42252" viewPortTop="8832" zoom="100">
+    <PRODUCTOR_XmlElement left="30639" top="4154" width="5292" height="7620" selected="0" zOrder="10" index="0" expanded="1" />
+    <COTIZA_ANALISIS_XmlElement left="9340" top="8493" width="6509" height="3387" selected="0" zOrder="11" index="1" expanded="1" />
+    <COTIZA_ANALISIS1_XmlElement left="6588" top="4206" width="9261" height="4233" selected="0" zOrder="12" index="2" expanded="1" />
+    <COTIZA_NOTAS_XmlElement left="27146" top="159" width="7567" height="2964" selected="0" zOrder="13" index="3" expanded="1" />
+    <PRODUCTOR1_XmlElement left="5186" top="-1587" width="5292" height="5503" selected="0" zOrder="14" index="4" expanded="1" />
+    <COTIZACION1_XmlElement left="16405" top="4260" width="6932" height="8466" selected="0" zOrder="15" index="5" expanded="1" />
+    <COMBO_ANALISIS_XmlElement left="36487" top="3201" width="6350" height="2964" selected="0" zOrder="16" index="6" expanded="1" />
+    <COTIZA_NOTAS1_XmlElement left="34847" top="132" width="6191" height="2964" selected="0" zOrder="17" index="7" expanded="1" />
+    <COTIZA_ANALISIS2_XmlElement left="2725" top="8493" width="6509" height="3387" selected="0" zOrder="18" index="8" expanded="1" />
+    <COTIZA_ANALISIS11_XmlElement left="-1561" top="4472" width="4815" height="5503" selected="0" zOrder="19" index="9" expanded="1" />
+    <COTIZA_ANALISIS12_XmlElement left="-1296" top="12515" width="8361" height="2963" selected="0" zOrder="20" index="10" expanded="1" />
+    <COTIZA_ANALISIS13_XmlElement left="8149" top="12515" width="7303" height="2963" selected="0" zOrder="21" index="11" expanded="1" />
+    <CODIGO_ANALISIS_XmlElement left="15690" top="13838" width="7620" height="3386" selected="0" zOrder="22" index="12" expanded="1" />
+    <COTIZACION_XmlElement left="24342" top="4101" width="6456" height="8890" selected="0" zOrder="23" index="13" expanded="1" />
+    <EMPRESA_XmlElement left="36610" top="6294" width="5292" height="2963" selected="0" zOrder="1" index="14" expanded="1" />
+    <PRO_PASO_XmlElement left="29832" top="13859" width="5292" height="2963" selected="0" zOrder="24" index="15" expanded="1" />
+    <COMBO_ANALISIS1_XmlElement left="36381" top="10319" width="8149" height="2963" selected="0" zOrder="2" index="16" expanded="1" />
+    <ANALISIS1_XmlElement left="36593" top="13335" width="5292" height="4233" selected="0" zOrder="4" index="17" expanded="1" />
+    <COTIZA_DETALLE_XmlElement left="10503" top="-1587" width="7197" height="5080" selected="0" zOrder="25" index="18" expanded="1" />
+    <COTIZA_DETALLE1_XmlElement left="17887" top="-1588" width="8784" height="5080" selected="0" zOrder="26" index="19" expanded="1" />
+    <ANALISIS_XmlElement left="-1931" top="-1773" width="5450" height="2540" selected="0" zOrder="27" index="20" expanded="1" />
+    <SUBMUESTRA_XmlElement left="-1890" top="15499" width="5292" height="2963" selected="0" zOrder="28" index="21" expanded="1" />
+    <MUESTRA_XmlElement left="25407" top="15208" width="5292" height="2963" selected="0" zOrder="29" index="22" expanded="1" />
+    <COTIZA_ANALISIS14_XmlElement left="43737" top="1005" width="8149" height="4234" selected="0" zOrder="30" index="23" expanded="1" />
+    <COTIZA_ANALISIS15_XmlElement left="43684" top="5319" width="8520" height="4656" selected="0" zOrder="6" index="24" expanded="1" />
+    <LISTADO_DETALLE_XmlElement left="7329" top="16139" width="7938" height="2116" selected="0" zOrder="31" index="25" expanded="1" />
+    <COTIZA_ANALISIS16_XmlElement left="45959" top="10240" width="10160" height="4233" selected="0" zOrder="8" index="26" expanded="1" />
+    <COMBO_COTIZA_XmlElement left="185" top="19288" width="7779" height="2963" selected="0" zOrder="32" index="27" expanded="1" />
+    <COTIZA_COMUNAS_XmlElement left="-1932" top="1482" width="6721" height="2963" selected="0" zOrder="33" index="28" expanded="1" />
+    <COTIZA_COMUNAS1_XmlElement left="51728" top="1429" width="8520" height="2963" selected="0" zOrder="34" index="29" expanded="1" />
+    <COTIZA_COMUNAS2_XmlElement left="52787" top="-1720" width="7144" height="2964" selected="0" zOrder="35" index="30" expanded="1" />
+    <COTIZA_DETALLE_ORD_XmlElement left="52653" top="4921" width="7568" height="5080" selected="0" zOrder="36" index="31" expanded="1" />
+    <COTIZA_ANALISIS17_XmlElement left="57072" top="10451" width="8044" height="4657" selected="0" zOrder="38" index="32" expanded="1" />
+    <NOTA_PLANILLA_XmlElement left="60934" top="1529" width="5292" height="2963" selected="0" zOrder="39" index="33" expanded="1" />
+    <COTIZA_ANALISIS_BASE_XmlElement left="60909" top="4710" width="9419" height="5080" selected="0" zOrder="40" index="34" expanded="1" />
+</XSDDesignerLayout>

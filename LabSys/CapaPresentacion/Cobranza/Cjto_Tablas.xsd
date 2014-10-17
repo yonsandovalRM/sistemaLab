@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="Cjto_Tablas" targetNamespace="http://tempuri.org/Cjto_Tablas.xsd" elementFormDefault="qualified"
+	attributeFormDefault="qualified" xmlns="http://tempuri.org/Cjto_Tablas.xsd" xmlns:mstns="http://tempuri.org/Cjto_Tablas.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Cjto_Tablas" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="COBRANZA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ORDEN_COMPRA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA2" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA2" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F1PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F2PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_LLAMAR" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ASIGNADA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_ASIGNADA" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COBRANZA_FILTRO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ORDEN_COMPRA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA2" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA2" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F1PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F2PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_LLAMAR" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ASIGNADA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_ASIGNADA" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COBRANZA_DATOSORDENES">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_SOL_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_ORDENCOMPRA" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_FAC_F1PAGO" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COBRANZA_CAMBIO_ESTADO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ORDEN_COMPRA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA2" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA2" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F1PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F2PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ASIGNADA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_ASIGNADA" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COBRANZA_MOROSO">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_RUT" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ORDEN_COMPRA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_FECHA_COBRANZA2" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_NOTA_COBRANZA2" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_ENCPAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F1PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_F2PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_MOROSO" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COBRANZA_DATOSORDENES_MOROSOS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="OT_SOL_NOMBRE" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_FONO2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_CELULAR2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL1" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_SOL_EMAIL2" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_OBSERVACIONES" type="xs:string" minOccurs="0" />
+							<xs:element name="OT_ORDENCOMPRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="FACTURAS_NOASIGNADAS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="FACTURAS_PORASIGNAR">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="FAC_NUMERO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_FECHA_EMISION" type="xs:date" minOccurs="0" />
+							<xs:element name="FAC_CONDICION_PAGO" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_TOTAL" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_ABONO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_SALDO" type="xs:int" minOccurs="0" />
+							<xs:element name="FAC_RSOCIAL" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_EMPRESA" type="xs:string" minOccurs="0" />
+							<xs:element name="FAC_FECHA_PACTADA" type="xs:date" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="PERSONAL">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="NOMBRE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:key name="Cjto_TablasKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:FACTURAS_NOASIGNADAS" />
+			<xs:field xpath="mstns:FAC_NUMERO" />
+		</xs:key>
+		<xs:key name="Cjto_TablasKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:FACTURAS_PORASIGNAR" />
+			<xs:field xpath="mstns:FAC_NUMERO" />
+		</xs:key>
+	</xs:element>
+</xs:schema>

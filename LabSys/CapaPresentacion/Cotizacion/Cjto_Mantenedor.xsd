@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="Cjto_Mantenedor" targetNamespace="http://www.tempuri.org/Cjto_Mantenedor.xsd"
+	xmlns:mstns="http://www.tempuri.org/Cjto_Mantenedor.xsd" xmlns="http://www.tempuri.org/Cjto_Mantenedor.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xs:element name="Cjto_Mantenedor" msdata:IsDataSet="true" msdata:Locale="es-CL">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS2">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS3">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS4">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS5">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS6">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="COMBO_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="ANALISIS7">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="SUB_CODIGO" type="xs:int" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+							<xs:element name="ANA_NIVEL_PRECIO" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE1" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE2" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTE3" type="xs:string" minOccurs="0" />
+							<xs:element name="CLIENTET" type="xs:string" minOccurs="0" />
+							<xs:element name="TIPO_COD" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="TMU_MUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="SUBMUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="SUB_CODIGO" type="xs:int" />
+							<xs:element name="SUB_DESCRIPCION" type="xs:string" minOccurs="0" />
+							<xs:element name="TMU_CODIGO" type="xs:int" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="CODIGO_ANALISIS">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="Constraint1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:key name="Cjto_MantenedorKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COMBO_ANALISIS" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey2" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS2" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey3" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS1" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey4" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS3" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey5" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS4" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey6" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS6" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey7" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS5" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:key name="Cjto_MantenedorKey8" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:ANALISIS7" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:key>
+		<xs:unique name="Cjto_MantenedorKey9" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MUESTRA" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Cjto_MantenedorKey10" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:SUBMUESTRA" />
+			<xs:field xpath="mstns:SUB_CODIGO" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>

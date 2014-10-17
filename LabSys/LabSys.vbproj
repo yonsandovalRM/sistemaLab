@@ -1,0 +1,1820 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0ED67C7B-3D78-4B32-B617-05A3DF9BE01F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LabSys.My.MyApplication</StartupObject>
+    <RootNamespace>LabSys</RootNamespace>
+    <AssemblyName>LabSys</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LabSys.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LabSys.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>LabSys.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>LabSys.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="conversor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Demo_Etiquetas\Demo_Etiquetas\Demo_Etiquetas\bin\Debug\conversor.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.2.3600.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.2.3600.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.Shared\10.2.3600.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="DevComponents.DotNetBar2, Version=9.3.0.4, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.Instrumentation, Version=9.3.0.4, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL" />
+    <Reference Include="Etiquetas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Demo_Etiquetas\Demo_Etiquetas\Demo_Etiquetas\bin\Debug\Etiquetas.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Excel, Version=1.7.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Outlook, Version=9.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Interop.Word, Version=8.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Interop.Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.OSppWmiProviderLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\Interop.OSppWmiProviderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.VJUpgradeEngineLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\Interop.VJUpgradeEngineLib.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.1.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Klik.Windows.Forms.EntryLib.V2.2005, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.GridView, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="UseOffice, Version=3.5.8.24, Culture=neutral, PublicKeyToken=f77041e5caa5fc2f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\useoffice_net\UseOffice .Net Trial (3.5.8.24)\Net 2.0, 3.0, 3.5 and 4.0\UseOffice.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AGROLAB_PRUEBADataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AGROLAB_PRUEBADataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AGROLAB_PRUEBADataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AGROLAB_PRUEBADataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AGROLAB_PRUEBADataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Analisis.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Analisis.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaDato\CapaDato.vb" />
+    <Compile Include="CapaDato\Conexion.vb" />
+    <Compile Include="CapaDato\DbManager.vb" />
+    <Compile Include="CapaPresentacion\Form_Pruebas.Designer.vb">
+      <DependentUpon>Form_Pruebas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Form_Pruebas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_ESTADO_RESULTADOS.Designer.vb">
+      <DependentUpon>FRM_ESTADO_RESULTADOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_ESTADO_RESULTADOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaDato\Procedimiento_Almacenado.vb" />
+    <Compile Include="CapaNegocio\CapaNegocio.vb" />
+    <Compile Include="CapaPresentacion\Administracion\F_BuscaDocumentos.Designer.vb">
+      <DependentUpon>F_BuscaDocumentos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_BuscaDocumentos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Personal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Condicion_de_Pago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Despacha_x_RangoOT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_EliminaOT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_I_Localidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Maestro_Codigo_Elemento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Maestro_Especie_Variedad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Modificacion_Estados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Modifica_Estado_Factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Modifica_Estado_Nlab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Modifica_Estado_OT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Muestreador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Relacion_Factura_Orden.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Traspaso_Dbf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Traspaso_DigitacionHistorica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_localidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_MantenedorProductor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Mantenedor_Elementos_Labsys.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Mantenedor_Mascaras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Mantenedor_OTCodificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Mantenedor_Rangos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Administracion\F_Mant_Tejidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\aletras.vb" />
+    <Compile Include="CapaPresentacion\Cobranza\Carta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\CartaCobranza.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\Cjto_Carta.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Carta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\Cobranza.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\F_CancelacionFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\F_ListadoFacturas.Designer.vb">
+      <DependentUpon>F_ListadoFacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\F_ListadoFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cobranza\ReporteListadoFacturas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteListadoFacturas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Color_Revision.Designer.vb">
+      <DependentUpon>Color_Revision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Color_Revision.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Color_Revision2.Designer.vb">
+      <DependentUpon>Color_Revision2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Color_Revision2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_Cotizacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Cotizacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_Imprimir.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Imprimir.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_Mantenedor.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Mantenedor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_NotaKit.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_NotaKit.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_Notas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Notas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Cjto_Nota_planilla.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Nota_planilla.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\cotizador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Coversion1.vb" />
+    <Compile Include="CapaPresentacion\Cotizacion\DATAGRIDTEXTBOXCOLUMNSOLONUMEROS.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Frm_Imprimir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Frm_Mantenedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\frm_modificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\frm_Muestra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\frm_Submuestra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\F_CotizaEmpresa.Designer.vb">
+      <DependentUpon>F_CotizaEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\F_CotizaEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\F_ProductorCotizacion.Designer.vb">
+      <DependentUpon>F_ProductorCotizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\F_ProductorCotizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Module1.vb" />
+    <Compile Include="CapaPresentacion\Cotizacion\Multilinea.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\MyDataGrid.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\NotaKit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Notas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Cotizacion\Notas_Listado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\DigitaDensidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Fila_DatoEncabezado.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Fila_Normal_Revision.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Formato_Yemas_20.vb" />
+    <Compile Include="CapaPresentacion\Formato_Yemas_20C_10Y.vb" />
+    <Compile Include="CapaPresentacion\Formato_Yemas_30.vb" />
+    <Compile Include="CapaPresentacion\Formato_Yemas_40.vb" />
+    <Compile Include="CapaPresentacion\Formato_Yemas_Obs.vb" />
+    <Compile Include="CapaPresentacion\Formato_Yemas_Parra.vb" />
+    <Compile Include="CapaPresentacion\Formulas.vb" />
+    <Compile Include="CapaPresentacion\Frm_ArenaFyG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Chequeo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_CodigoPlanificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_COM.Designer.vb">
+      <DependentUpon>FRM_COM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_COM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_DapCilindrica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_DigitaGranulometria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_DigitaRetHum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_DigitaTextura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_EliminaFactura.Designer.vb">
+      <DependentUpon>Frm_EliminaFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_EliminaFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Emision_Resultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_EnviaResultados.Designer.vb">
+      <DependentUpon>Frm_EnviaResultados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_EnviaResultados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Espere.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_InformesHorizontales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Inscripciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_LOG.Designer.vb">
+      <DependentUpon>FRM_LOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\FRM_LOG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Nematodos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Pantalla_Revision2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Plantilla_Digitacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Reajuste_Precios.Designer.vb">
+      <DependentUpon>Frm_Reajuste_Precios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Reajuste_Precios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Resultados_Antiguos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Resultados_Configuracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Resultados_Notas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Textura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Frm_Yemas_Genera_Excel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrBioForest.Designer.vb">
+      <DependentUpon>F_DatosAgrBioForest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrBioForest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFertOrg.Designer.vb">
+      <DependentUpon>F_DatosAgrFertOrg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFertOrg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFertQui.Designer.vb">
+      <DependentUpon>F_DatosAgrFertQui.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFertQui.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoEvaluacion.Designer.vb">
+      <DependentUpon>F_DatosAgrFitoEvaluacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoEvaluacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoMonitoreo.Designer.vb">
+      <DependentUpon>F_DatosAgrFitoMonitoreo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoMonitoreo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitopatologia.Designer.vb">
+      <DependentUpon>F_DatosAgrFitopatologia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitopatologia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoRes.Designer.vb">
+      <DependentUpon>F_DatosAgrFitoRes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFitoRes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrNematodos.Designer.vb">
+      <DependentUpon>F_DatosAgrNematodos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrNematodos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrTejidos.Designer.vb">
+      <DependentUpon>F_DatosAgrTejidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrTejidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrYemas.Designer.vb">
+      <DependentUpon>F_DatosAgrYemas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrYemas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Despachados_xFacturar.Designer.vb">
+      <DependentUpon>F_Despachados_xFacturar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Despachados_xFacturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DigitaResultado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_CartaDespacho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_IngresoFoto.Designer.vb">
+      <DependentUpon>F_IngresoFoto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_IngresoFoto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_LibroVentas.Designer.vb">
+      <DependentUpon>F_LibroVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_LibroVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_OrdenesPorFacturar.Designer.vb">
+      <DependentUpon>F_OrdenesPorFacturar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_OrdenesPorFacturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_ResultadosGenerados.Designer.vb">
+      <DependentUpon>F_ResultadosGenerados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_ResultadosGenerados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_TraspasoYemas.Designer.vb">
+      <DependentUpon>F_TraspasoYemas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_TraspasoYemas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\GeneraXML\AGROLAB_PRUEBADataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AGROLAB_PRUEBADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\GeneraXML\F_GeneradorXML.Designer.vb">
+      <DependentUpon>F_GeneradorXML.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\GeneraXML\F_GeneradorXML.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\GeneraXML\Parametro.vb" />
+    <Compile Include="CapaPresentacion\G_Empresa.Designer.vb">
+      <DependentUpon>G_Empresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_Empresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_Localidad.Designer.vb">
+      <DependentUpon>G_Localidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_Localidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\ImprimeTextura.vb" />
+    <Compile Include="CapaPresentacion\MailOT.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MailOT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Module_Imprime_Resultados_SueloSal.vb" />
+    <Compile Include="CapaPresentacion\Module_Imprime_Resultado_Agua.vb" />
+    <Compile Include="CapaPresentacion\Module_Imprime_Resultado_FertOrganico.vb" />
+    <Compile Include="CapaPresentacion\Module_Imprime_Resultado_FertOrgQui.vb" />
+    <Compile Include="CapaPresentacion\Module_Imprime_Resultado_SueloFert.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Horizontal_Foliar.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Bactereologicos.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Nematodos.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Resultados_FertOrgFis.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Resultados_FertQuimico.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Resultado_Foliar.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Resultado_Tejidos.vb" />
+    <Compile Include="CapaPresentacion\Modulo_Imprime_Revisa_Total.vb" />
+    <Compile Include="CapaPresentacion\Modulo_SubAnalisis.vb" />
+    <Compile Include="CapaPresentacion\M_ImprimeMailOT.vb" />
+    <Compile Include="CapaPresentacion\NotasCredito\F_NotaDeCredito.Designer.vb">
+      <DependentUpon>F_NotaDeCredito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\NotasCredito\F_NotaDeCredito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Planificacion\F_PlanificacionNlab.Designer.vb">
+      <DependentUpon>F_PlanificacionNlab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Planificacion\F_PlanificacionNlab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\PrintDGV.vb" />
+    <Compile Include="CapaPresentacion\PrintOptions.Designer.vb">
+      <DependentUpon>PrintOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\PrintOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Proceso_Digitacion.vb" />
+    <Compile Include="CapaPresentacion\ReporteCentroCostoDetalle.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteCentroCostoDetalle.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\ReporteCentroCostos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteCentroCostos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\DataGridFormatCellEventArgs.vb" />
+    <Compile Include="CapaPresentacion\DataGridFormattableTextBoxColumn.Designer.vb">
+      <DependentUpon>DataGridFormattableTextBoxColumn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\DataGridFormattableTextBoxColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Cuentas.Designer.vb">
+      <DependentUpon>F_Cuentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Cuentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_FacturaPendiente.Designer.vb">
+      <DependentUpon>G_FacturaPendiente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_FacturaPendiente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\FormatCellEventHandler.vb" />
+    <Compile Include="CapaPresentacion\Frm_Despacho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Funciones.vb" />
+    <Compile Include="CapaPresentacion\F_AsignaAnalisis.Designer.vb">
+      <DependentUpon>F_AsignaAnalisis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_AsignaAnalisis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrAgua.Designer.vb">
+      <DependentUpon>F_DatosAgrAgua.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrAgua.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFoliares.Designer.vb">
+      <DependentUpon>F_DatosAgrFoliares.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrFoliares.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrSuelo.Designer.vb">
+      <DependentUpon>F_DatosAgrSuelo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_DatosAgrSuelo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Login.Designer.vb">
+      <DependentUpon>F_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Menu.Designer.vb">
+      <DependentUpon>F_Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_ModificaOT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_OrdenTrabajo.Designer.vb">
+      <DependentUpon>F_OrdenTrabajo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_OrdenTrabajo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Planificacion.Designer.vb">
+      <DependentUpon>F_Planificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\F_Planificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Genera_Excel_B.vb" />
+    <Compile Include="CapaPresentacion\G_Productor.Designer.vb">
+      <DependentUpon>G_Productor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\G_Productor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\MultilineDGTextBoxColumn.Designer.vb">
+      <DependentUpon>MultilineDGTextBoxColumn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\MultilineDGTextBoxColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\M_ImprimeFactura.vb" />
+    <Compile Include="CapaPresentacion\M_ImprimirRecibo.vb" />
+    <Compile Include="CapaPresentacion\ReporteOTporFacturar.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReporteOTporFacturar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Reportes\F_OrdenesXFacturar.Designer.vb">
+      <DependentUpon>F_OrdenesXFacturar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\Reportes\F_OrdenesXFacturar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Reportes\NitrogenoTCompost.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NitrogenoTCompost.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Reportes\R_OrdenesXFacturar.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>R_OrdenesXFacturar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\R_GeneraReporte.Designer.vb">
+      <DependentUpon>R_GeneraReporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CapaPresentacion\R_GeneraReporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapaPresentacion\Variables.vb" />
+    <Compile Include="Cjto_Orden.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Orden.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cjto_Resultados.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Resultados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cjto_Tablas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cjto_Tablas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Cjto_Tablas.vb">
+      <DependentUpon>Cjto_Tablas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Conjunto_Comodin.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Conjunto_Comodin.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet1.vb">
+      <DependentUpon>LabsysDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet2.vb">
+      <DependentUpon>LabsysDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabsysDataSet8.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabsysDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabSysPlanificar.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LabSysPlanificar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LabSysPlanificar.vb">
+      <DependentUpon>LabSysPlanificar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CapaPresentacion\RecursosLabsys.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RecursosLabsys.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_BuscaDocumentos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_BuscaDocumentos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Personal.resx">
+      <DependentUpon>F_Personal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Condicion_de_Pago.resx">
+      <DependentUpon>F_Condicion_de_Pago.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Despacha_x_RangoOT.resx">
+      <DependentUpon>F_Despacha_x_RangoOT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_EliminaOT.resx">
+      <DependentUpon>F_EliminaOT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_I_Localidad.resx">
+      <DependentUpon>F_I_Localidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Maestro_Codigo_Elemento.resx">
+      <DependentUpon>F_Maestro_Codigo_Elemento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Maestro_Especie_Variedad.resx">
+      <DependentUpon>F_Maestro_Especie_Variedad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Modificacion_Estados.resx">
+      <DependentUpon>F_Modificacion_Estados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Modifica_Estado_Factura.resx">
+      <DependentUpon>F_Modifica_Estado_Factura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Modifica_Estado_Nlab.resx">
+      <DependentUpon>F_Modifica_Estado_Nlab.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Modifica_Estado_OT.resx">
+      <DependentUpon>F_Modifica_Estado_OT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Muestreador.resx">
+      <DependentUpon>F_Muestreador.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Relacion_Factura_Orden.resx">
+      <DependentUpon>F_Relacion_Factura_Orden.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Traspaso_Dbf.resx">
+      <DependentUpon>F_Traspaso_Dbf.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Traspaso_DigitacionHistorica.resx">
+      <DependentUpon>F_Traspaso_DigitacionHistorica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_localidad.resx">
+      <DependentUpon>F_localidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_MantenedorProductor.resx">
+      <DependentUpon>F_MantenedorProductor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Mantenedor_Elementos_Labsys.resx">
+      <DependentUpon>F_Mantenedor_Elementos_Labsys.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Mantenedor_Mascaras.resx">
+      <DependentUpon>F_Mantenedor_Mascaras.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Mantenedor_OTCodificacion.resx">
+      <DependentUpon>F_Mantenedor_OTCodificacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Mantenedor_Rangos.resx">
+      <DependentUpon>F_Mantenedor_Rangos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Administracion\F_Mant_Tejidos.resx">
+      <DependentUpon>F_Mant_Tejidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cobranza\Carta.resx">
+      <DependentUpon>Carta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cobranza\Cobranza.resx">
+      <DependentUpon>Cobranza.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cobranza\F_CancelacionFactura.resx">
+      <DependentUpon>F_CancelacionFactura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cobranza\F_ListadoFacturas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_ListadoFacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cobranza\ReporteListadoFacturas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteListadoFacturas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\cotizador.resx">
+      <DependentUpon>cotizador.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\DATAGRIDTEXTBOXCOLUMNSOLONUMEROS.resx">
+      <DependentUpon>DATAGRIDTEXTBOXCOLUMNSOLONUMEROS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\Frm_Imprimir.resx">
+      <DependentUpon>Frm_Imprimir.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\Frm_Mantenedor.resx">
+      <DependentUpon>Frm_Mantenedor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\frm_modificar.resx">
+      <DependentUpon>frm_modificar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\frm_Muestra.resx">
+      <DependentUpon>frm_Muestra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\frm_Submuestra.resx">
+      <DependentUpon>frm_Submuestra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\F_CotizaEmpresa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_CotizaEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\F_ProductorCotizacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_ProductorCotizacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\NotaKit.resx">
+      <DependentUpon>NotaKit.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\Notas.resx">
+      <DependentUpon>Notas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Cotizacion\Notas_Listado.resx">
+      <DependentUpon>Notas_Listado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\DigitaDensidad.resx">
+      <DependentUpon>DigitaDensidad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Fila_DatoEncabezado.resx">
+      <DependentUpon>Fila_DatoEncabezado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Fila_Normal_Revision.resx">
+      <DependentUpon>Fila_Normal_Revision.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Form_Pruebas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_Pruebas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Acceso.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_ArenaFyG.resx">
+      <DependentUpon>Frm_ArenaFyG.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Chequeo.resx">
+      <DependentUpon>Frm_Chequeo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_CodigoPlanificacion.resx">
+      <DependentUpon>Frm_CodigoPlanificacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\FRM_COM.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FRM_COM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_DapCilindrica.resx">
+      <DependentUpon>Frm_DapCilindrica.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_DigitaGranulometria.resx">
+      <DependentUpon>Frm_DigitaGranulometria.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_DigitaRetHum.resx">
+      <DependentUpon>Frm_DigitaRetHum.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_DigitaTextura.resx">
+      <DependentUpon>Frm_DigitaTextura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_EliminaFactura.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_EliminaFactura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Emision_Resultados.resx">
+      <DependentUpon>Frm_Emision_Resultados.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_EnviaResultados.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_EnviaResultados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Espere.resx">
+      <DependentUpon>Frm_Espere.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\FRM_ESTADO_RESULTADOS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FRM_ESTADO_RESULTADOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_InformesHorizontales.resx">
+      <DependentUpon>Frm_InformesHorizontales.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Inscripciones.resx">
+      <DependentUpon>Frm_Inscripciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\FRM_LOG.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FRM_LOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Nematodos.resx">
+      <DependentUpon>Frm_Nematodos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Pantalla_Revision2.resx">
+      <DependentUpon>Frm_Pantalla_Revision2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Plantilla_Digitacion.resx">
+      <DependentUpon>Frm_Plantilla_Digitacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Reajuste_Precios.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Frm_Reajuste_Precios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Resultados_Antiguos.resx">
+      <DependentUpon>Frm_Resultados_Antiguos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Resultados_Configuracion.resx">
+      <DependentUpon>Frm_Resultados_Configuracion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Resultados_Notas.resx">
+      <DependentUpon>Frm_Resultados_Notas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Textura.resx">
+      <DependentUpon>Frm_Textura.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Yemas_Genera_Excel.resx">
+      <DependentUpon>Frm_Yemas_Genera_Excel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrBioForest.resx">
+      <DependentUpon>F_DatosAgrBioForest.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFertOrg.resx">
+      <DependentUpon>F_DatosAgrFertOrg.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFertQui.resx">
+      <DependentUpon>F_DatosAgrFertQui.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFitoEvaluacion.resx">
+      <DependentUpon>F_DatosAgrFitoEvaluacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFitoMonitoreo.resx">
+      <DependentUpon>F_DatosAgrFitoMonitoreo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFitopatologia.resx">
+      <DependentUpon>F_DatosAgrFitopatologia.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFitoRes.resx">
+      <DependentUpon>F_DatosAgrFitoRes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrNematodos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_DatosAgrNematodos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrTejidos.resx">
+      <DependentUpon>F_DatosAgrTejidos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrYemas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_DatosAgrYemas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_Despachados_xFacturar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_Despachados_xFacturar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DigitaResultado.resx">
+      <DependentUpon>F_DigitaResultado.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_CartaDespacho.resx">
+      <DependentUpon>F_CartaDespacho.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_IngresoFoto.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_IngresoFoto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_LibroVentas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_LibroVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_OrdenesPorFacturar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_OrdenesPorFacturar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_ResultadosGenerados.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_ResultadosGenerados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_TraspasoYemas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_TraspasoYemas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\GeneraXML\F_GeneradorXML.resx">
+      <DependentUpon>F_GeneradorXML.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\G_Empresa.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>G_Empresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\G_Localidad.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>G_Localidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\MailOT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MailOT.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\NotasCredito\F_NotaDeCredito.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_NotaDeCredito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Planificacion\F_PlanificacionNlab.resx">
+      <DependentUpon>F_PlanificacionNlab.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\PrintOptions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\ReporteCentroCostoDetalle.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteCentroCostoDetalle.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\ReporteCentroCostos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteCentroCostos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Frm_Despacho.resx">
+      <DependentUpon>Frm_Despacho.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_AsignaAnalisis.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_AsignaAnalisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_Cuentas.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_Cuentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrAgua.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_DatosAgrAgua.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrFoliares.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_DatosAgrFoliares.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_DatosAgrSuelo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_DatosAgrSuelo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_Login.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_Menu.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_ModificaOT.resx">
+      <DependentUpon>F_ModificaOT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_OrdenTrabajo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_OrdenTrabajo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\F_Planificacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_Planificacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\G_FacturaPendiente.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>G_FacturaPendiente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\G_Productor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>G_Productor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\ReporteOTporFacturar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ReporteOTporFacturar.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Reportes\F_OrdenesXFacturar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>F_OrdenesXFacturar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Reportes\NitrogenoTCompost.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NitrogenoTCompost.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\Reportes\R_OrdenesXFacturar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>R_OrdenesXFacturar.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\R_GeneraReporte.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>R_GeneraReporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapaPresentacion\RecursosLabsys.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>RecursosLabsys.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\UseOffice.dll" />
+    <Content Include="CapaPresentacion\Resources\Matraz.ico" />
+    <Content Include="CapaPresentacion\Resources\xml.gif" />
+    <None Include="AGROLAB_PRUEBADataSet1.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet1.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet2.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet2.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet3.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet3.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet4.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet4.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet5.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AGROLAB_PRUEBADataSet5.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cobranza\Cjto_Carta.xsc">
+      <DependentUpon>Cjto_Carta.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cobranza\Cjto_Carta.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Carta.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cobranza\Cjto_Carta.xss">
+      <DependentUpon>Cjto_Carta.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cobranza\Cjto_Carta.xsx">
+      <DependentUpon>Cjto_Carta.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\page_excel.png" />
+    <None Include="Resources\Agrolab3.jpg" />
+    <None Include="Resources\Agrolab31.jpg" />
+    <None Include="Resources\report.png" />
+    <None Include="Resources\table_multiple.png" />
+    <None Include="Resources\email_go1.png" />
+    <None Include="Resources\image.png" />
+    <None Include="Resources\page_white_acrobat.png" />
+    <None Include="Resources\Background2.jpg" />
+    <Content Include="Resources\xml.gif" />
+    <None Include="Resources\xml1.gif" />
+    <None Include="CapaPresentacion\GeneraXML\AGROLAB_PRUEBADataSet.xsc">
+      <DependentUpon>AGROLAB_PRUEBADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\GeneraXML\AGROLAB_PRUEBADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AGROLAB_PRUEBADataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\GeneraXML\AGROLAB_PRUEBADataSet.xss">
+      <DependentUpon>AGROLAB_PRUEBADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\table_relationship.png" />
+    <None Include="Cjto_Resultados.xsc">
+      <DependentUpon>Cjto_Resultados.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Resultados.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Resultados.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Cjto_Resultados.xss">
+      <DependentUpon>Cjto_Resultados.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Resultados.xsx">
+      <DependentUpon>Cjto_Resultados.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\find.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\Microsoft Office Outlook %283%29.png" />
+    <None Include="Resources\Outlook2003Icon.PNG.png" />
+    <None Include="Resources\Microsoft Office Outlook %281%29.png" />
+    <None Include="Resources\note.png" />
+    <None Include="Resources\cog.png" />
+    <None Include="Resources\application_view_list.png" />
+    <None Include="Resources\chart_pie.png" />
+    <None Include="Resources\server_database.png" />
+    <None Include="Resources\warp1.jpg" />
+    <None Include="Resources\warp.jpg" />
+    <None Include="Resources\fondo_azul.jpg" />
+    <None Include="Resources\photo_bartelmewallpaper.jpg" />
+    <None Include="Resources\application_form_edit.png" />
+    <None Include="Resources\report_magnify.png" />
+    <None Include="Resources\arrow_left.png" />
+    <None Include="Resources\arrow_right.png" />
+    <None Include="Resources\calculator1.png" />
+    <None Include="Resources\email1.png" />
+    <None Include="Resources\email_edit.png" />
+    <None Include="Resources\error.png" />
+    <None Include="Resources\hourglass.png" />
+    <None Include="Resources\tick.png" />
+    <None Include="Resources\page_white2.png" />
+    <None Include="Resources\door_out.png" />
+    <None Include="Resources\information.png" />
+    <None Include="Resources\folder_explore.png" />
+    <None Include="Resources\email_go.png" />
+    <None Include="Analisis.xsc">
+      <DependentUpon>Analisis.xsd</DependentUpon>
+    </None>
+    <None Include="Analisis.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Analisis.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Analisis.xss">
+      <DependentUpon>Analisis.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Cotizacion.xsc">
+      <DependentUpon>Cjto_Cotizacion.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Cotizacion.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Cotizacion.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Cotizacion.xss">
+      <DependentUpon>Cjto_Cotizacion.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Cotizacion.xsx">
+      <DependentUpon>Cjto_Cotizacion.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Imprimir.xsc">
+      <DependentUpon>Cjto_Imprimir.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Imprimir.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Imprimir.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Imprimir.xss">
+      <DependentUpon>Cjto_Imprimir.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Imprimir.xsx">
+      <DependentUpon>Cjto_Imprimir.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Mantenedor.xsc">
+      <DependentUpon>Cjto_Mantenedor.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Mantenedor.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Mantenedor.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Mantenedor.xss">
+      <DependentUpon>Cjto_Mantenedor.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Mantenedor.xsx">
+      <DependentUpon>Cjto_Mantenedor.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_NotaKit.xsc">
+      <DependentUpon>Cjto_NotaKit.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_NotaKit.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_NotaKit.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_NotaKit.xss">
+      <DependentUpon>Cjto_NotaKit.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_NotaKit.xsx">
+      <DependentUpon>Cjto_NotaKit.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Notas.xsc">
+      <DependentUpon>Cjto_Notas.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Notas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Notas.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Notas.xss">
+      <DependentUpon>Cjto_Notas.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Notas.xsx">
+      <DependentUpon>Cjto_Notas.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Nota_planilla.xsc">
+      <DependentUpon>Cjto_Nota_planilla.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Nota_planilla.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Nota_planilla.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Nota_planilla.xss">
+      <DependentUpon>Cjto_Nota_planilla.xsd</DependentUpon>
+    </None>
+    <None Include="CapaPresentacion\Cotizacion\Cjto_Nota_planilla.xsx">
+      <DependentUpon>Cjto_Nota_planilla.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Orden.xsc">
+      <DependentUpon>Cjto_Orden.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Orden.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Cjto_Orden.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Cjto_Orden.xss">
+      <DependentUpon>Cjto_Orden.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Orden.xsx">
+      <DependentUpon>Cjto_Orden.xsd</DependentUpon>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Conjunto_Comodin.xsc">
+      <DependentUpon>Conjunto_Comodin.xsd</DependentUpon>
+    </None>
+    <None Include="Conjunto_Comodin.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Conjunto_Comodin.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Conjunto_Comodin.xss">
+      <DependentUpon>Conjunto_Comodin.xsd</DependentUpon>
+    </None>
+    <None Include="Conjunto_Comodin.xsx">
+      <DependentUpon>Conjunto_Comodin.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\calculator.png" />
+    <None Include="Cjto_Tablas.xsc">
+      <DependentUpon>Cjto_Tablas.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Tablas.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Cjto_Tablas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Cjto_Tablas.xss">
+      <DependentUpon>Cjto_Tablas.xsd</DependentUpon>
+    </None>
+    <None Include="Cjto_Tablas.xsx">
+      <DependentUpon>Cjto_Tablas.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\table.png" />
+    <None Include="Resources\email.png" />
+    <None Include="Resources\add.png" />
+    <None Include="LabsysDataSet3.xsc">
+      <DependentUpon>LabsysDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet3.xss">
+      <DependentUpon>LabsysDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet6.xsc">
+      <DependentUpon>LabsysDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet6.xss">
+      <DependentUpon>LabsysDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet7.xsc">
+      <DependentUpon>LabsysDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet7.xss">
+      <DependentUpon>LabsysDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet8.xsc">
+      <DependentUpon>LabsysDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet8.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet8.xss">
+      <DependentUpon>LabsysDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="LabSysPlanificar.xsc">
+      <DependentUpon>LabSysPlanificar.xsd</DependentUpon>
+    </None>
+    <None Include="LabSysPlanificar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabSysPlanificar.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="LabSysPlanificar.xss">
+      <DependentUpon>LabSysPlanificar.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\printer.png" />
+    <None Include="Resources\cross.png" />
+    <None Include="LabsysDataSet2.xsc">
+      <DependentUpon>LabsysDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet2.xss">
+      <DependentUpon>LabsysDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet4.xsc">
+      <DependentUpon>LabsysDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet4.xss">
+      <DependentUpon>LabsysDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet5.xsc">
+      <DependentUpon>LabsysDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet5.xss">
+      <DependentUpon>LabsysDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\bullet_disk.png" />
+    <None Include="Resources\accept.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="app.config" />
+    <None Include="LabsysDataSet.xsc">
+      <DependentUpon>LabsysDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet.xss">
+      <DependentUpon>LabsysDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet1.xsc">
+      <DependentUpon>LabsysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="LabsysDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LabsysDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LabsysDataSet1.xss">
+      <DependentUpon>LabsysDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\limpiar.jpg" />
+    <None Include="Resources\imagesCAR2217K.jpg" />
+    <None Include="Resources\arrow_refresh_small.png" />
+    <None Include="Resources\page_white1.png" />
+    <None Include="Resources\page_white.png" />
+    <None Include="Resources\magnifier.png" />
+    <None Include="CapaPresentacion\Resources\Matraz.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VJUpgradeEngineLib">
+      <Guid>{2F1A3954-AC8D-4BC7-B8D5-E413AB6EB5CF}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CapaPresentacion\Cobranza\Cobranza_Nueva\" />
+    <Folder Include="CapaPresentacion\Modulos\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

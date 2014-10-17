@@ -1,0 +1,1173 @@
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.exe
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.xml
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.pdb
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\LabSys.exe
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\LabSys.pdb
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\LabSys.xml
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_Login.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_Menu.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.Resources.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\LabSys.exe.config
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.G_Productor.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\administrador\Mis documentos\Visual Studio 2005\Projects\LabSys\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\LabSys.exe.config
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.exe
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.xml
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.pdb
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\LabSys.exe
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\LabSys.pdb
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\LabSys.xml
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Login.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Menu.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.G_Productor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Resources.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_ModificaOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.G_FacturaPendiente.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.class_COTIZADOR.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Imprimir.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Mantenedor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.frm_modificar.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.frm_Muestra.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.frm_Submuestra.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.NotaKit.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Notas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Notas_Listado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_EliminaOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Modificacion_Estados.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Factura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Muestreador.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_MantenedorProductor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.frm_localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_Cuentas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.R_GeneraReporte.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.DigitaDensidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Chequeo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Nematodos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Textura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DigitaResultado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Acceso.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Espere.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Inscripciones.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_I_Localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Personal.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_GeneradorXml.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_TraspasoYemas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Carta.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.Form1.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_ListadoFacturas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_CancelacionFactura.resources
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\UseOffice.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\LabSys.exe.config
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.exe
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.xml
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.pdb
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\LabSys.exe
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\LabSys.pdb
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\LabSys.xml
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\UseOffice.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\ResolveAssemblyReference.cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.vbproj.ResolveComReference.cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.ReporteListadoFacturas.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.ReporteCentroCostos.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Personal.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Condicion_de_Pago.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_EliminaOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_I_Localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Modificacion_Estados.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Modifica_Estado_Factura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Muestreador.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Traspaso_Dbf.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.frm_localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_MantenedorProductor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Mant_Tejidos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Carta.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Form1.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_CancelacionFactura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_ListadoFacturas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.class_COTIZADOR.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Imprimir.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Mantenedor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.frm_modificar.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.frm_Muestra.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.frm_Submuestra.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_CotizaEmpresa.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_ProductorCotizacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.NotaKit.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Notas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Notas_Listado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.DigitaDensidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Fila_DatoEncabezado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Fila_Normal_Revision.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Acceso.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_ArenaFyG.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Chequeo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_DapCilindrica.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_DigitaRetHum.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_DigitaTextura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Emision_Resultados.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Espere.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_InformesHorizontales.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Inscripciones.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Nematodos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Resultados_Notas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Textura.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrBioForest.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFertQui.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrTejidos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DigitaResultado.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Carta_Despacho.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_TraspasoYemas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_GeneradorXml.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Frm_Despacho.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_AsignaAnalisis.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Cuentas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrAgua.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFoliares.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrSuelo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Login.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Menu.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_ModificaOT.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_OrdenTrabajo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_Planificacion.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.G_FacturaPendiente.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.G_Productor.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.R_GeneraReporte.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.Resources.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.RecursosLabsys.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.vbproj.GenerateResource.Cache
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.MailOT.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\itextsharp.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.G_Localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.G_Empresa.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_IngresoFoto.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\itextsharp.dll
+C:\Users\sando\Documents\LabSys\LabSys\bin\Release\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.MailOT.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.ReporteOTporFacturar.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.NitrogenoTCompost.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_IngresoFoto.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.G_Empresa.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.G_Localidad.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_PlanificacionNlab.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Release\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Users\sando\Documents\LabSys\LabSys\obj\Debug\LabSys.F_BuscaDocumentos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.exe.config
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.xml
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.pdb
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\ResolveAssemblyReference.cache
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\Interop.VJUpgradeEngineLib.dll
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteListadoFacturas.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.MailOT.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostos.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteOTporFacturar.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NitrogenoTCompost.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_OrdenesXFacturar.rpt
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_BuscaDocumentos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Personal.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Condicion_de_Pago.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Despacha_x_RangoOT.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_EliminaOT.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_I_Localidad.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modificacion_Estados.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Factura.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_OT.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Muestreador.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Relacion_Factura_Orden.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_Dbf.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_localidad.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_MantenedorProductor.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Mascaras.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Rangos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mant_Tejidos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Carta.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Form1.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CancelacionFactura.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ListadoFacturas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.class_COTIZADOR.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Imprimir.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mantenedor.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_modificar.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Muestra.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Submuestra.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CotizaEmpresa.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ProductorCotizacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NotaKit.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas_Listado.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DigitaDensidad.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_DatoEncabezado.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_Normal_Revision.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Acceso.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_ArenaFyG.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Chequeo.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_CodigoPlanificacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DapCilindrica.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaGranulometria.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaRetHum.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaTextura.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Emision_Resultados.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Espere.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_InformesHorizontales.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Inscripciones.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Nematodos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Pantalla_Revision2.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Antiguos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Configuracion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Notas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Textura.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrBioForest.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertOrg.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertQui.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitopatologia.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoRes.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrNematodos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrTejidos.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrYemas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DigitaResultado.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Carta_Despacho.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_IngresoFoto.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesPorFacturar.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_TraspasoYemas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_GeneradorXml.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Empresa.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Localidad.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_PlanificacionNlab.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Cuentas.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Login.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Menu.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ModificaOT.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_FacturaPendiente.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Productor.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesXFacturar.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_GeneraReporte.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Resources.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+F:\Archivos LabSys\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe.licenses
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.exe.config
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.xml
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.pdb
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.exe
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.pdb
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.xml
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\UseOffice.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\bin\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.MailOT.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Personal.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_EliminaOT.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_I_Localidad.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modificacion_Estados.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Factura.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Muestreador.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_localidad.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_MantenedorProductor.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Carta.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Form1.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CancelacionFactura.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ListadoFacturas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.class_COTIZADOR.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Imprimir.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mantenedor.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_modificar.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Muestra.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Submuestra.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NotaKit.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas_Listado.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DigitaDensidad.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Acceso.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Chequeo.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Espere.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Inscripciones.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Nematodos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Textura.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DigitaResultado.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_IngresoFoto.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_TraspasoYemas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_GeneradorXml.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Empresa.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Localidad.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Cuentas.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Login.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Menu.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ModificaOT.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_FacturaPendiente.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Productor.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_GeneraReporte.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Resources.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Users\sando\Desktop\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe.licenses
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.exe.config
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.xml
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.pdb
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.exe
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.pdb
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\LabSys.xml
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\UseOffice.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\bin\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.MailOT.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Personal.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_EliminaOT.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_I_Localidad.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modificacion_Estados.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Factura.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Muestreador.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_localidad.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_MantenedorProductor.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Carta.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Form1.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CancelacionFactura.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ListadoFacturas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.class_COTIZADOR.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Imprimir.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Mantenedor.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_modificar.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Muestra.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.frm_Submuestra.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.NotaKit.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Notas_Listado.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.DigitaDensidad.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Acceso.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Chequeo.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Espere.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Inscripciones.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Nematodos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Textura.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DigitaResultado.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_IngresoFoto.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_TraspasoYemas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_GeneradorXml.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Empresa.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Localidad.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Cuentas.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Login.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Menu.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_ModificaOT.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_FacturaPendiente.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.G_Productor.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.R_GeneraReporte.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.Resources.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Users\sando\Desktop\Nueva carpeta\Desarrollo\LabSys\LabSys\obj\Debug\LabSys.exe.licenses
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\bin\Debug\LabSys.exe.config
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.exe
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.xml
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.pdb
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.MailOT.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Personal.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_EliminaOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_I_Localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Modificacion_Estados.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Factura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Muestreador.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.frm_localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_MantenedorProductor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Carta.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Form1.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_CancelacionFactura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_ListadoFacturas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.class_COTIZADOR.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Imprimir.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Mantenedor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.frm_modificar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.frm_Muestra.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.frm_Submuestra.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.NotaKit.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Notas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Notas_Listado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.DigitaDensidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Acceso.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Chequeo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Espere.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Inscripciones.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Nematodos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Textura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DigitaResultado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_IngresoFoto.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_TraspasoYemas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_GeneradorXml.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.G_Empresa.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.G_Localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Frm_Despacho.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Cuentas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Login.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Menu.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_ModificaOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_Planificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.G_FacturaPendiente.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.G_Productor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.R_GeneraReporte.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.Resources.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.RecursosLabsys.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.exe.licenses
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\bin\Debug\LabSys.exe
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\bin\Debug\LabSys.pdb
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\bin\Debug\LabSys.xml
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\bin\Debug\UseOffice.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.FRM_ACCESO_SU.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno\LabSys\obj\Debug\LabSys.FRM_LOG.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe.config
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.pdb
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.xml
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\itextsharp.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\UseOffice.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.MailOT.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Personal.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_EliminaOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_I_Localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modificacion_Estados.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modifica_Estado_Factura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Muestreador.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_MantenedorProductor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Carta.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Form1.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CancelacionFactura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ListadoFacturas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.class_COTIZADOR.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Imprimir.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mantenedor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_modificar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Muestra.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Submuestra.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NotaKit.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas_Listado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DigitaDensidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Acceso.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_ACCESO_SU.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Chequeo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_EnviaResultados.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Espere.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Inscripciones.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_LOG.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Nematodos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Textura.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DigitaResultado.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_IngresoFoto.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_LibroVentas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_TraspasoYemas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_GeneradorXml.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Empresa.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Localidad.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_NotaDeCredito.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Despacho.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Cuentas.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Login.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Menu.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ModificaOT.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Planificacion.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_FacturaPendiente.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Productor.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_GeneraReporte.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Resources.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.RecursosLabsys.resources
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe.licenses
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.xml
+C:\Documents and Settings\sandy\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.pdb
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe.config
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.xml
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.pdb
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.MailOT.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Personal.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_EliminaOT.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_I_Localidad.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modificacion_Estados.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modifica_Estado_Factura.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Muestreador.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_localidad.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_MantenedorProductor.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Carta.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Form1.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CancelacionFactura.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ListadoFacturas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.class_COTIZADOR.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Imprimir.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mantenedor.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_modificar.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Muestra.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Submuestra.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NotaKit.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas_Listado.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DigitaDensidad.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Acceso.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_ACCESO_SU.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Chequeo.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_COM.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_EliminaFactura.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_EnviaResultados.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Espere.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Inscripciones.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_LOG.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Nematodos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Textura.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DigitaResultado.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_IngresoFoto.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_LibroVentas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_TraspasoYemas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_GeneradorXml.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Empresa.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Localidad.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_NotaDeCredito.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Despacho.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Cuentas.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Login.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Menu.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ModificaOT.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Planificacion.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_FacturaPendiente.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Productor.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_GeneraReporte.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Resources.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.RecursosLabsys.resources
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe.licenses
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.pdb
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.xml
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\itextsharp.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\administrador\Desktop\LabSys Bueno 6\LabSys\bin\x86\Debug\UseOffice.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe.config
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.xml
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.pdb
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.exe
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.pdb
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\LabSys.xml
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.OSppWmiProviderLibrary.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\itextsharp.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\bin\x86\Debug\UseOffice.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\Interop.VJUpgradeEngineLib.dll
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.ResolveComReference.cache
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteListadoFacturas.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.MailOT.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostoDetalle.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteCentroCostos.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.ReporteOTporFacturar.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NitrogenoTCompost.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_OrdenesXFacturar.rpt
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_BuscaDocumentos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Personal.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Condicion_de_Pago.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Despacha_x_RangoOT.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_EliminaOT.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_I_Localidad.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Maestro_Codigo_Elemento.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mant_Especie_Variedad.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modificacion_Estados.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Modifica_Estado_Factura.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_Nlab.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Modifica_Estado_OT.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Muestreador.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Relacion_Factura_Orden.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_Dbf.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Traspaso_DigitacionHistorica.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_localidad.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_MantenedorProductor.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Elementos_Labsys.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Mascaras.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_OTCodificacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mantenedor_Rangos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Mant_Tejidos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Carta.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Form1.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CancelacionFactura.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ListadoFacturas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.class_COTIZADOR.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DataGridTextBoxColumnSoloNumeros.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Imprimir.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Mantenedor.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_modificar.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Muestra.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.frm_Submuestra.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_CotizaEmpresa.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ProductorCotizacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.NotaKit.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Notas_Listado.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.DigitaDensidad.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_DatoEncabezado.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Fila_Normal_Revision.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Acceso.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_ArenaFyG.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Chequeo.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_CodigoPlanificacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_COM.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DapCilindrica.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaGranulometria.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaRetHum.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_DigitaTextura.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_EliminaFactura.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Emision_Resultados.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_EnviaResultados.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Espere.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_InformesHorizontales.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Inscripciones.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_LOG.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Nematodos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Pantalla_Revision2.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Plantilla_Digitacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Antiguos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Configuracion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Resultados_Notas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Textura.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Yemas_Genera_Excel.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrBioForest.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertOrg.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFertQui.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoEvaluacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoMonitoreo.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitopatologia.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFitoRes.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrNematodos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrTejidos.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrYemas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DigitaResultado.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Carta_Despacho.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_IngresoFoto.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_LibroVentas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesPorFacturar.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_TraspasoYemas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_GeneradorXml.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Empresa.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Localidad.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_NotaDeCredito.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_PlanificacionNlab.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Despacho.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_AsignaAnalisis.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Cuentas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrAgua.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrFoliares.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_DatosAgrSuelo.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Login.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Menu.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ModificaOT.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenTrabajo.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Planificacion.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_FacturaPendiente.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.G_Productor.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_OrdenesXFacturar.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.R_GeneraReporte.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Resources.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.RecursosLabsys.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.vbproj.GenerateResource.Cache
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.exe.licenses
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.FRM_ESTADO_RESULTADOS.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Frm_Reajuste_Precios.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.Form_Pruebas.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_ResultadosGenerados.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.F_Despachados_xFacturar.resources
+C:\Users\administrador\Desktop\Proyectos en Curso\LabSys Bueno 6\LabSys\obj\x86\Debug\LabSys.PrintOptions.resources

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Este archivo lo genera de forma automática el diseñador de esquemas XML. Contiene información de diseño para componentes de la superficie de diseño.-->
+<XSDDesignerLayout layoutVersion="2" viewPortLeft="19689" viewPortTop="26486" zoom="100">
+    <OT_FERT_APLICADA_XmlElement left="17859" top="2990" width="4869" height="10160" selected="0" zOrder="1" index="0" expanded="1" />
+    <OT_RECOMENDACION_XmlElement left="16986" top="13943" width="6720" height="8043" selected="0" zOrder="2" index="1" expanded="1" />
+    <OT_FERTORG_ANTECEDENTES_XmlElement left="4683" top="12145" width="12753" height="5503" selected="0" zOrder="14" index="2" expanded="1" />
+    <OT_FERTQUI_ANTECEDENTES_XmlElement left="-3863" top="15452" width="13864" height="5504" selected="0" zOrder="15" index="3" expanded="1" />
+    <OT_YEMAS_ANTECEDENTES_XmlElement left="7805" top="17753" width="9790" height="9314" selected="0" zOrder="16" index="4" expanded="1" />
+    <OT_FITOPATOLOGICOS_ANTECEDENTES_XmlElement left="-1323" top="21563" width="8414" height="6774" selected="0" zOrder="17" index="5" expanded="1" />
+    <IMP_RECIBO_XmlElement left="7911" top="27225" width="7621" height="5080" selected="0" zOrder="18" index="6" expanded="1" />
+    <NOTA_YEMAS_XmlElement left="-2831" top="39660" width="9525" height="2963" selected="0" zOrder="19" index="7" expanded="1" />
+    <NOTA_YEMA_NLAB_XmlElement left="-3016" top="43154" width="9419" height="2963" selected="0" zOrder="20" index="8" expanded="1" />
+    <CONSULTA_ANALISIS_XmlElement left="18414" top="-2911" width="8732" height="5927" selected="0" zOrder="4" index="9" expanded="1" />
+    <MYEMA3_XmlElement left="-3069" top="46169" width="7726" height="16087" selected="0" zOrder="21" index="10" expanded="1" />
+    <DIG_YEMAS_XmlElement left="-1456" top="29554" width="8573" height="9313" selected="0" zOrder="22" index="11" expanded="1" />
+    <YEMAS_NLAB_XmlElement left="9737" top="34105" width="6667" height="2963" selected="0" zOrder="23" index="12" expanded="1" />
+    <ESTIMADOBRO_XmlElement left="9763" top="37201" width="7514" height="2963" selected="0" zOrder="24" index="13" expanded="1" />
+    <LARGO_CARGADOR_XmlElement left="9499" top="41301" width="6720" height="2964" selected="0" zOrder="25" index="14" expanded="1" />
+    <ANALISIS_ELEMENTOS_PASO_XmlElement left="-186" top="-4048" width="9631" height="3810" selected="0" zOrder="26" index="15" expanded="1" />
+    <OTEST_NLAB_XmlElement left="6429" top="50350" width="7567" height="4233" selected="0" zOrder="27" index="16" expanded="1" />
+    <OT_CODIFICACION_XmlElement left="-185" top="6165" width="8784" height="5503" selected="0" zOrder="28" index="17" expanded="1" />
+    <DIGITA_RESULTADOS_XmlElement left="14076" top="45482" width="10530" height="7196" selected="0" zOrder="29" index="18" expanded="1" />
+    <DUPLICA_RESULTADO_XmlElement left="16034" top="53181" width="8308" height="8466" selected="0" zOrder="30" index="19" expanded="1" />
+    <ANALISIS_ELEMENTOS_PASO2_XmlElement left="36168" top="8731" width="9949" height="2963" selected="0" zOrder="6" index="20" expanded="1" />
+    <OT_FOLIAR_ANTECEDENTES_XmlElement left="-11086" top="-4127" width="10636" height="10583" selected="0" zOrder="31" index="21" expanded="1" />
+    <ORDEN_TRABAJO_XmlElement left="9287" top="-4551" width="8678" height="15240" selected="0" zOrder="32" index="22" expanded="1" />
+    <ANALISIS_ELEMENTOS_PASO3_XmlElement left="35216" top="5397" width="10160" height="2964" selected="0" zOrder="8" index="23" expanded="1" />
+    <OT_SUELO_ANTECEDENTES_XmlElement left="24024" top="2963" width="10743" height="11431" selected="0" zOrder="10" index="24" expanded="1" />
+    <OT_TEJIDOS_ANTECEDENTES_XmlElement left="29052" top="-8943" width="9526" height="10583" selected="0" zOrder="33" index="25" expanded="1" />
+    <OT_AGUA_ANTECEDENTES_XmlElement left="-10107" top="6879" width="9049" height="10583" selected="0" zOrder="34" index="26" expanded="1" />
+    <OT_CODIFICACION_RECIBO_XmlElement left="-80" top="54" width="8996" height="5503" selected="0" zOrder="35" index="27" expanded="1" />
+    <MODIFICA_NLAB_XmlElement left="30162" top="17251" width="8837" height="3811" selected="0" zOrder="12" index="28" expanded="1" />
+    <MYEMA_XmlElement left="6456" top="55776" width="8520" height="7620" selected="0" zOrder="36" index="29" expanded="1" />
+    <OT_NEMATODOS_ANTECEDENTES_XmlElement left="19738" top="24448" width="15664" height="6773" selected="0" zOrder="37" index="30" expanded="1" />
+    <OT_FITOEVALUACION_ANTECEDENTES_XmlElement left="20903" top="32068" width="13229" height="10584" selected="0" zOrder="38" index="31" expanded="1" />
+    <OT_FITORESISTENCIA_ANTECEDENTES_XmlElement left="34952" top="31962" width="12912" height="6774" selected="0" zOrder="39" index="32" expanded="1" />
+    <OT_FITOMONITOREO_ANTECEDENTES_XmlElement left="36011" top="25189" width="11536" height="5503" selected="0" zOrder="40" index="33" expanded="1" />
+</XSDDesignerLayout>

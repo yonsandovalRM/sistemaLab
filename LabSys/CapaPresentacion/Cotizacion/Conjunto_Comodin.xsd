@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="Conjunto_Comodin" targetNamespace="http://www.tempuri.org/Conjunto_Comodin.xsd"
+	xmlns:mstns="http://www.tempuri.org/Conjunto_Comodin.xsd" xmlns="http://www.tempuri.org/Conjunto_Comodin.xsd"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata"
+	attributeFormDefault="qualified" elementFormDefault="qualified">
+	<xs:element name="Conjunto_Comodin" msdata:IsDataSet="true" msdata:Locale="es-CL">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="COMODIN">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="ANA_CODIGO" type="xs:double" />
+							<xs:element name="ANA_ANALISIS" type="xs:string" minOccurs="0" />
+							<xs:element name="ANA_NETO" type="xs:double" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MUESTRA">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TMU_CODIGO" type="xs:int" />
+							<xs:element name="TMU_MUESTRA" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+		<xs:unique name="Constraint1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:COMODIN" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+			<xs:field xpath="mstns:ANA_CODIGO" />
+		</xs:unique>
+		<xs:unique name="Conjunto_ComodinKey1" msdata:PrimaryKey="true">
+			<xs:selector xpath=".//mstns:MUESTRA" />
+			<xs:field xpath="mstns:TMU_CODIGO" />
+		</xs:unique>
+	</xs:element>
+</xs:schema>
