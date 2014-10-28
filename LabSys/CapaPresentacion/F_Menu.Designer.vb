@@ -356,7 +356,6 @@ Partial Class F_Menu
         'PlanificaciónToolStripMenuItem
         '
         Me.PlanificaciónToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OTPorAnalizarToolStripMenuItem, Me.PlanificaPorNlabToolStripMenuItem})
-        Me.PlanificaciónToolStripMenuItem.Enabled = False
         Me.PlanificaciónToolStripMenuItem.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PlanificaciónToolStripMenuItem.Name = "PlanificaciónToolStripMenuItem"
         Me.PlanificaciónToolStripMenuItem.Size = New System.Drawing.Size(98, 23)
@@ -557,14 +556,14 @@ Partial Class F_Menu
         '
         Me.ModuloDespachoToolStripMenuItem.Image = CType(resources.GetObject("ModuloDespachoToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ModuloDespachoToolStripMenuItem.Name = "ModuloDespachoToolStripMenuItem"
-        Me.ModuloDespachoToolStripMenuItem.Size = New System.Drawing.Size(238, 38)
+        Me.ModuloDespachoToolStripMenuItem.Size = New System.Drawing.Size(222, 22)
         Me.ModuloDespachoToolStripMenuItem.Text = "Modulo Despacho"
         '
         'ModuloCartaDespachoToolStripMenuItem
         '
         Me.ModuloCartaDespachoToolStripMenuItem.Image = CType(resources.GetObject("ModuloCartaDespachoToolStripMenuItem.Image"), System.Drawing.Image)
         Me.ModuloCartaDespachoToolStripMenuItem.Name = "ModuloCartaDespachoToolStripMenuItem"
-        Me.ModuloCartaDespachoToolStripMenuItem.Size = New System.Drawing.Size(238, 38)
+        Me.ModuloCartaDespachoToolStripMenuItem.Size = New System.Drawing.Size(222, 22)
         Me.ModuloCartaDespachoToolStripMenuItem.Text = "Modulo Carta Despacho"
         '
         'CobranzaToolStripMenuItem
