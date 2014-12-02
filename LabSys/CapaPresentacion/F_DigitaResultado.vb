@@ -399,7 +399,6 @@ Public Class F_DigitaResultado
         Me.DataGridTextBoxColumn14 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.Dtg_Digitado = New System.Windows.Forms.DataGrid
         Me.DataGridTableStyle2 = New System.Windows.Forms.DataGridTableStyle
-        Me.Dtg_DigitaNNO3 = New System.Windows.Forms.DataGrid
         Me.DataGridTextBoxColumn7 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn8 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn9 = New System.Windows.Forms.DataGridTextBoxColumn
@@ -409,6 +408,7 @@ Public Class F_DigitaResultado
         Me.DataGridTextBoxColumn21 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn22 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn28 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.Dtg_DigitaNNO3 = New System.Windows.Forms.DataGrid
         Me.Bt_Graba = New System.Windows.Forms.Button
         Me.Bt_Imprime = New System.Windows.Forms.Button
         Me.Bt_Limpiar = New System.Windows.Forms.Button
@@ -418,12 +418,12 @@ Public Class F_DigitaResultado
         Me.Txt_LecRes = New System.Windows.Forms.TextBox
         Me.Dtg_Elenf = New System.Windows.Forms.DataGrid
         Me.DataGridTableStyle3 = New System.Windows.Forms.DataGridTableStyle
-        Me.Dtg_DigitaVolumetrico = New System.Windows.Forms.DataGrid
         Me.DataGridTextBoxColumn11 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn12 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn13 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn23 = New System.Windows.Forms.DataGridTextBoxColumn
         Me.DataGridTextBoxColumn24 = New System.Windows.Forms.DataGridTextBoxColumn
+        Me.Dtg_DigitaVolumetrico = New System.Windows.Forms.DataGrid
         Me.GBX_pyb1 = New System.Windows.Forms.GroupBox
         Me.BtCalculaCoe = New System.Windows.Forms.Button
         Me.LabResultado = New System.Windows.Forms.Label
@@ -603,15 +603,15 @@ Public Class F_DigitaResultado
         Me.GroupBox1.Controls.Add(Me.Label1)
         Me.GroupBox1.Controls.Add(Me.Dtp_FechaDigitacion)
         Me.GroupBox1.Controls.Add(Me.Lb_TipoAna)
-        Me.GroupBox1.Location = New System.Drawing.Point(8, 0)
+        Me.GroupBox1.Location = New System.Drawing.Point(8, 12)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(536, 88)
+        Me.GroupBox1.Size = New System.Drawing.Size(528, 88)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         '
         'Cbx_Analista
         '
-        Me.Cbx_Analista.Location = New System.Drawing.Point(408, 56)
+        Me.Cbx_Analista.Location = New System.Drawing.Point(389, 54)
         Me.Cbx_Analista.Name = "Cbx_Analista"
         Me.Cbx_Analista.Size = New System.Drawing.Size(122, 21)
         Me.Cbx_Analista.TabIndex = 9
@@ -620,24 +620,25 @@ Public Class F_DigitaResultado
         '
         Me.Dtp_FechaAnalisis.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Dtp_FechaAnalisis.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.Dtp_FechaAnalisis.Location = New System.Drawing.Point(408, 24)
+        Me.Dtp_FechaAnalisis.Location = New System.Drawing.Point(389, 24)
         Me.Dtp_FechaAnalisis.Name = "Dtp_FechaAnalisis"
-        Me.Dtp_FechaAnalisis.Size = New System.Drawing.Size(88, 20)
+        Me.Dtp_FechaAnalisis.Size = New System.Drawing.Size(122, 20)
         Me.Dtp_FechaAnalisis.TabIndex = 8
         '
         'Cbx_Digitador
         '
         Me.Cbx_Digitador.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Cbx_Digitador.Location = New System.Drawing.Point(144, 56)
+        Me.Cbx_Digitador.Location = New System.Drawing.Point(125, 54)
         Me.Cbx_Digitador.Name = "Cbx_Digitador"
         Me.Cbx_Digitador.Size = New System.Drawing.Size(122, 22)
         Me.Cbx_Digitador.TabIndex = 6
         '
         'Label4
         '
+        Me.Label4.BackColor = System.Drawing.Color.Transparent
         Me.Label4.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.ForeColor = System.Drawing.Color.Black
-        Me.Label4.Location = New System.Drawing.Point(272, 56)
+        Me.Label4.Location = New System.Drawing.Point(281, 55)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(120, 20)
         Me.Label4.TabIndex = 3
@@ -645,9 +646,10 @@ Public Class F_DigitaResultado
         '
         'Label3
         '
+        Me.Label3.BackColor = System.Drawing.Color.Transparent
         Me.Label3.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.ForeColor = System.Drawing.Color.Black
-        Me.Label3.Location = New System.Drawing.Point(272, 24)
+        Me.Label3.Location = New System.Drawing.Point(281, 27)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(120, 20)
         Me.Label3.TabIndex = 2
@@ -655,9 +657,10 @@ Public Class F_DigitaResultado
         '
         'Label2
         '
+        Me.Label2.BackColor = System.Drawing.Color.Transparent
         Me.Label2.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.ForeColor = System.Drawing.Color.Black
-        Me.Label2.Location = New System.Drawing.Point(8, 56)
+        Me.Label2.Location = New System.Drawing.Point(8, 55)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(120, 20)
         Me.Label2.TabIndex = 1
@@ -665,9 +668,10 @@ Public Class F_DigitaResultado
         '
         'Label1
         '
+        Me.Label1.BackColor = System.Drawing.Color.Transparent
         Me.Label1.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.ForeColor = System.Drawing.Color.Black
-        Me.Label1.Location = New System.Drawing.Point(8, 24)
+        Me.Label1.Location = New System.Drawing.Point(8, 27)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(120, 20)
         Me.Label1.TabIndex = 0
@@ -677,9 +681,9 @@ Public Class F_DigitaResultado
         '
         Me.Dtp_FechaDigitacion.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Dtp_FechaDigitacion.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.Dtp_FechaDigitacion.Location = New System.Drawing.Point(144, 24)
+        Me.Dtp_FechaDigitacion.Location = New System.Drawing.Point(125, 24)
         Me.Dtp_FechaDigitacion.Name = "Dtp_FechaDigitacion"
-        Me.Dtp_FechaDigitacion.Size = New System.Drawing.Size(88, 20)
+        Me.Dtp_FechaDigitacion.Size = New System.Drawing.Size(122, 20)
         Me.Dtp_FechaDigitacion.TabIndex = 100
         '
         'Lb_TipoAna
@@ -705,9 +709,9 @@ Public Class F_DigitaResultado
         Me.GroupBox2.Controls.Add(Me.Label7)
         Me.GroupBox2.Controls.Add(Me.Label6)
         Me.GroupBox2.Controls.Add(Me.Label5)
-        Me.GroupBox2.Location = New System.Drawing.Point(8, 88)
+        Me.GroupBox2.Location = New System.Drawing.Point(8, 100)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(536, 128)
+        Me.GroupBox2.Size = New System.Drawing.Size(528, 128)
         Me.GroupBox2.TabIndex = 1
         Me.GroupBox2.TabStop = False
         '
@@ -715,9 +719,9 @@ Public Class F_DigitaResultado
         '
         Me.Dtp_FechaPlanilla.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Dtp_FechaPlanilla.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.Dtp_FechaPlanilla.Location = New System.Drawing.Point(408, 24)
+        Me.Dtp_FechaPlanilla.Location = New System.Drawing.Point(389, 21)
         Me.Dtp_FechaPlanilla.Name = "Dtp_FechaPlanilla"
-        Me.Dtp_FechaPlanilla.Size = New System.Drawing.Size(88, 20)
+        Me.Dtp_FechaPlanilla.Size = New System.Drawing.Size(122, 20)
         Me.Dtp_FechaPlanilla.TabIndex = 10
         '
         'Bt_Carga
@@ -726,7 +730,7 @@ Public Class F_DigitaResultado
         Me.Bt_Carga.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Bt_Carga.Image = Global.LabSys.My.Resources.Resources.server_database
         Me.Bt_Carga.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Bt_Carga.Location = New System.Drawing.Point(408, 92)
+        Me.Bt_Carga.Location = New System.Drawing.Point(436, 82)
         Me.Bt_Carga.Name = "Bt_Carga"
         Me.Bt_Carga.Size = New System.Drawing.Size(75, 27)
         Me.Bt_Carga.TabIndex = 9
@@ -738,34 +742,35 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NLabHasta.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NLabHasta.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NLabHasta.Location = New System.Drawing.Point(408, 56)
+        Me.Txt_NLabHasta.Location = New System.Drawing.Point(389, 56)
         Me.Txt_NLabHasta.Name = "Txt_NLabHasta"
-        Me.Txt_NLabHasta.Size = New System.Drawing.Size(56, 20)
+        Me.Txt_NLabHasta.Size = New System.Drawing.Size(122, 20)
         Me.Txt_NLabHasta.TabIndex = 7
         '
         'Txt_NLabDesde
         '
         Me.Txt_NLabDesde.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NLabDesde.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NLabDesde.Location = New System.Drawing.Point(144, 56)
+        Me.Txt_NLabDesde.Location = New System.Drawing.Point(125, 56)
         Me.Txt_NLabDesde.Name = "Txt_NLabDesde"
-        Me.Txt_NLabDesde.Size = New System.Drawing.Size(56, 20)
+        Me.Txt_NLabDesde.Size = New System.Drawing.Size(122, 20)
         Me.Txt_NLabDesde.TabIndex = 6
         '
         'Txt_NLabInicial
         '
         Me.Txt_NLabInicial.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NLabInicial.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NLabInicial.Location = New System.Drawing.Point(144, 24)
+        Me.Txt_NLabInicial.Location = New System.Drawing.Point(125, 24)
         Me.Txt_NLabInicial.Name = "Txt_NLabInicial"
-        Me.Txt_NLabInicial.Size = New System.Drawing.Size(56, 20)
+        Me.Txt_NLabInicial.Size = New System.Drawing.Size(122, 20)
         Me.Txt_NLabInicial.TabIndex = 5
         '
         'Label8
         '
+        Me.Label8.BackColor = System.Drawing.Color.Transparent
         Me.Label8.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label8.ForeColor = System.Drawing.Color.Black
-        Me.Label8.Location = New System.Drawing.Point(272, 56)
+        Me.Label8.Location = New System.Drawing.Point(281, 56)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(120, 20)
         Me.Label8.TabIndex = 4
@@ -773,6 +778,7 @@ Public Class F_DigitaResultado
         '
         'Label7
         '
+        Me.Label7.BackColor = System.Drawing.Color.Transparent
         Me.Label7.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label7.ForeColor = System.Drawing.Color.Black
         Me.Label7.Location = New System.Drawing.Point(8, 56)
@@ -783,9 +789,10 @@ Public Class F_DigitaResultado
         '
         'Label6
         '
+        Me.Label6.BackColor = System.Drawing.Color.Transparent
         Me.Label6.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label6.ForeColor = System.Drawing.Color.Black
-        Me.Label6.Location = New System.Drawing.Point(272, 24)
+        Me.Label6.Location = New System.Drawing.Point(281, 24)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(120, 20)
         Me.Label6.TabIndex = 2
@@ -793,6 +800,7 @@ Public Class F_DigitaResultado
         '
         'Label5
         '
+        Me.Label5.BackColor = System.Drawing.Color.Transparent
         Me.Label5.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label5.ForeColor = System.Drawing.Color.Black
         Me.Label5.Location = New System.Drawing.Point(8, 24)
@@ -937,9 +945,9 @@ Public Class F_DigitaResultado
         Me.Gbx_Nitrogeno.Controls.Add(Me.Txt_GasPMuestra)
         Me.Gbx_Nitrogeno.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_Nitrogeno.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Gbx_Nitrogeno.Location = New System.Drawing.Point(8, 312)
+        Me.Gbx_Nitrogeno.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_Nitrogeno.Name = "Gbx_Nitrogeno"
-        Me.Gbx_Nitrogeno.Size = New System.Drawing.Size(536, 264)
+        Me.Gbx_Nitrogeno.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_Nitrogeno.TabIndex = 17
         Me.Gbx_Nitrogeno.TabStop = False
         Me.Gbx_Nitrogeno.Visible = False
@@ -948,7 +956,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NTitrisol.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NTitrisol.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NTitrisol.Location = New System.Drawing.Point(456, 72)
+        Me.Txt_NTitrisol.Location = New System.Drawing.Point(444, 64)
         Me.Txt_NTitrisol.Name = "Txt_NTitrisol"
         Me.Txt_NTitrisol.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NTitrisol.TabIndex = 25
@@ -957,7 +965,7 @@ Public Class F_DigitaResultado
         '
         Me.Label68.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label68.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label68.Location = New System.Drawing.Point(328, 72)
+        Me.Label68.Location = New System.Drawing.Point(316, 64)
         Me.Label68.Name = "Label68"
         Me.Label68.Size = New System.Drawing.Size(104, 18)
         Me.Label68.TabIndex = 24
@@ -967,14 +975,14 @@ Public Class F_DigitaResultado
         '
         Me.Txt_Chequeo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_Chequeo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_Chequeo.Location = New System.Drawing.Point(456, 48)
+        Me.Txt_Chequeo.Location = New System.Drawing.Point(444, 40)
         Me.Txt_Chequeo.Name = "Txt_Chequeo"
         Me.Txt_Chequeo.Size = New System.Drawing.Size(72, 20)
         Me.Txt_Chequeo.TabIndex = 23
         '
         'Lnk_ChekeoNorm
         '
-        Me.Lnk_ChekeoNorm.Location = New System.Drawing.Point(328, 48)
+        Me.Lnk_ChekeoNorm.Location = New System.Drawing.Point(316, 40)
         Me.Lnk_ChekeoNorm.Name = "Lnk_ChekeoNorm"
         Me.Lnk_ChekeoNorm.Size = New System.Drawing.Size(112, 16)
         Me.Lnk_ChekeoNorm.TabIndex = 22
@@ -985,7 +993,7 @@ Public Class F_DigitaResultado
         '
         Me.Label32.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label32.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label32.Location = New System.Drawing.Point(56, 96)
+        Me.Label32.Location = New System.Drawing.Point(56, 88)
         Me.Label32.Name = "Label32"
         Me.Label32.Size = New System.Drawing.Size(152, 18)
         Me.Label32.TabIndex = 21
@@ -997,7 +1005,7 @@ Public Class F_DigitaResultado
         Me.txt_FacConv.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_FacConv.Enabled = False
         Me.txt_FacConv.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_FacConv.Location = New System.Drawing.Point(224, 96)
+        Me.txt_FacConv.Location = New System.Drawing.Point(224, 88)
         Me.txt_FacConv.Name = "txt_FacConv"
         Me.txt_FacConv.Size = New System.Drawing.Size(72, 20)
         Me.txt_FacConv.TabIndex = 20
@@ -1006,7 +1014,7 @@ Public Class F_DigitaResultado
         '
         Me.Label31.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label31.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label31.Location = New System.Drawing.Point(56, 72)
+        Me.Label31.Location = New System.Drawing.Point(56, 64)
         Me.Label31.Name = "Label31"
         Me.Label31.Size = New System.Drawing.Size(152, 18)
         Me.Label31.TabIndex = 19
@@ -1018,7 +1026,7 @@ Public Class F_DigitaResultado
         Me.Txt_PAtomico.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PAtomico.Enabled = False
         Me.Txt_PAtomico.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PAtomico.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_PAtomico.Location = New System.Drawing.Point(224, 64)
         Me.Txt_PAtomico.Name = "Txt_PAtomico"
         Me.Txt_PAtomico.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PAtomico.TabIndex = 18
@@ -1026,7 +1034,7 @@ Public Class F_DigitaResultado
         'Label30
         '
         Me.Label30.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label30.Location = New System.Drawing.Point(8, 24)
+        Me.Label30.Location = New System.Drawing.Point(8, 16)
         Me.Label30.Name = "Label30"
         Me.Label30.Size = New System.Drawing.Size(100, 16)
         Me.Label30.TabIndex = 17
@@ -1036,7 +1044,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_GasFactor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_GasFactor.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Lb_GasFactor.Location = New System.Drawing.Point(8, 152)
+        Me.Lb_GasFactor.Location = New System.Drawing.Point(8, 144)
         Me.Lb_GasFactor.Name = "Lb_GasFactor"
         Me.Lb_GasFactor.Size = New System.Drawing.Size(120, 18)
         Me.Lb_GasFactor.TabIndex = 16
@@ -1046,7 +1054,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_GasFactor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_GasFactor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_GasFactor.Location = New System.Drawing.Point(224, 152)
+        Me.Txt_GasFactor.Location = New System.Drawing.Point(224, 144)
         Me.Txt_GasFactor.Name = "Txt_GasFactor"
         Me.Txt_GasFactor.Size = New System.Drawing.Size(72, 20)
         Me.Txt_GasFactor.TabIndex = 15
@@ -1055,7 +1063,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_GasNormailidad.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_GasNormailidad.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_GasNormailidad.Location = New System.Drawing.Point(56, 48)
+        Me.Lb_GasNormailidad.Location = New System.Drawing.Point(56, 40)
         Me.Lb_GasNormailidad.Name = "Lb_GasNormailidad"
         Me.Lb_GasNormailidad.Size = New System.Drawing.Size(152, 18)
         Me.Lb_GasNormailidad.TabIndex = 12
@@ -1065,7 +1073,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_GasNormalidad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_GasNormalidad.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_GasNormalidad.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_GasNormalidad.Location = New System.Drawing.Point(224, 40)
         Me.Txt_GasNormalidad.Name = "Txt_GasNormalidad"
         Me.Txt_GasNormalidad.Size = New System.Drawing.Size(72, 20)
         Me.Txt_GasNormalidad.TabIndex = 11
@@ -1074,7 +1082,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_GasPMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_GasPMuestra.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_GasPMuestra.Location = New System.Drawing.Point(56, 120)
+        Me.Lb_GasPMuestra.Location = New System.Drawing.Point(56, 112)
         Me.Lb_GasPMuestra.Name = "Lb_GasPMuestra"
         Me.Lb_GasPMuestra.Size = New System.Drawing.Size(152, 18)
         Me.Lb_GasPMuestra.TabIndex = 10
@@ -1083,7 +1091,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_GasPMuestra.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_GasPMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_GasPMuestra.Location = New System.Drawing.Point(224, 120)
+        Me.Txt_GasPMuestra.Location = New System.Drawing.Point(224, 112)
         Me.Txt_GasPMuestra.Name = "Txt_GasPMuestra"
         Me.Txt_GasPMuestra.Size = New System.Drawing.Size(72, 20)
         Me.Txt_GasPMuestra.TabIndex = 9
@@ -1094,9 +1102,9 @@ Public Class F_DigitaResultado
         Me.GroupBox4.Controls.Add(Me.Rdb_Todos)
         Me.GroupBox4.Controls.Add(Me.Rdb_Ocacional)
         Me.GroupBox4.Controls.Add(Me.Rdb_Frecuentes)
-        Me.GroupBox4.Location = New System.Drawing.Point(8, 577)
+        Me.GroupBox4.Location = New System.Drawing.Point(8, 594)
         Me.GroupBox4.Name = "GroupBox4"
-        Me.GroupBox4.Size = New System.Drawing.Size(536, 37)
+        Me.GroupBox4.Size = New System.Drawing.Size(528, 37)
         Me.GroupBox4.TabIndex = 3
         Me.GroupBox4.TabStop = False
         '
@@ -1104,7 +1112,7 @@ Public Class F_DigitaResultado
         '
         Me.Rdb_Todos.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Rdb_Todos.ForeColor = System.Drawing.Color.Black
-        Me.Rdb_Todos.Location = New System.Drawing.Point(341, 11)
+        Me.Rdb_Todos.Location = New System.Drawing.Point(407, 11)
         Me.Rdb_Todos.Name = "Rdb_Todos"
         Me.Rdb_Todos.Size = New System.Drawing.Size(104, 24)
         Me.Rdb_Todos.TabIndex = 2
@@ -1114,7 +1122,7 @@ Public Class F_DigitaResultado
         '
         Me.Rdb_Ocacional.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Rdb_Ocacional.ForeColor = System.Drawing.Color.Black
-        Me.Rdb_Ocacional.Location = New System.Drawing.Point(216, 11)
+        Me.Rdb_Ocacional.Location = New System.Drawing.Point(207, 11)
         Me.Rdb_Ocacional.Name = "Rdb_Ocacional"
         Me.Rdb_Ocacional.Size = New System.Drawing.Size(104, 24)
         Me.Rdb_Ocacional.TabIndex = 1
@@ -1125,7 +1133,7 @@ Public Class F_DigitaResultado
         Me.Rdb_Frecuentes.Checked = True
         Me.Rdb_Frecuentes.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Rdb_Frecuentes.ForeColor = System.Drawing.Color.Black
-        Me.Rdb_Frecuentes.Location = New System.Drawing.Point(32, 11)
+        Me.Rdb_Frecuentes.Location = New System.Drawing.Point(11, 11)
         Me.Rdb_Frecuentes.Name = "Rdb_Frecuentes"
         Me.Rdb_Frecuentes.Size = New System.Drawing.Size(104, 24)
         Me.Rdb_Frecuentes.TabIndex = 0
@@ -1155,9 +1163,9 @@ Public Class F_DigitaResultado
         Me.Gbx_Lectura.Controls.Add(Me.Gbx_NNH4)
         Me.Gbx_Lectura.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_Lectura.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Gbx_Lectura.Location = New System.Drawing.Point(8, 312)
+        Me.Gbx_Lectura.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_Lectura.Name = "Gbx_Lectura"
-        Me.Gbx_Lectura.Size = New System.Drawing.Size(536, 252)
+        Me.Gbx_Lectura.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_Lectura.TabIndex = 4
         Me.Gbx_Lectura.TabStop = False
         Me.Gbx_Lectura.Visible = False
@@ -1166,7 +1174,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_LectFactDilucion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_LectFactDilucion.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_LectFactDilucion.Location = New System.Drawing.Point(224, 232)
+        Me.Txt_LectFactDilucion.Location = New System.Drawing.Point(224, 224)
         Me.Txt_LectFactDilucion.Name = "Txt_LectFactDilucion"
         Me.Txt_LectFactDilucion.Size = New System.Drawing.Size(72, 20)
         Me.Txt_LectFactDilucion.TabIndex = 28
@@ -1175,7 +1183,7 @@ Public Class F_DigitaResultado
         '
         Me.Label29.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label29.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label29.Location = New System.Drawing.Point(8, 232)
+        Me.Label29.Location = New System.Drawing.Point(8, 224)
         Me.Label29.Name = "Label29"
         Me.Label29.Size = New System.Drawing.Size(100, 18)
         Me.Label29.TabIndex = 27
@@ -1185,7 +1193,7 @@ Public Class F_DigitaResultado
         '
         Me.Label25.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label25.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label25.Location = New System.Drawing.Point(88, 128)
+        Me.Label25.Location = New System.Drawing.Point(88, 120)
         Me.Label25.Name = "Label25"
         Me.Label25.Size = New System.Drawing.Size(176, 16)
         Me.Label25.TabIndex = 24
@@ -1195,7 +1203,7 @@ Public Class F_DigitaResultado
         '
         Me.Label24.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label24.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label24.Location = New System.Drawing.Point(8, 128)
+        Me.Label24.Location = New System.Drawing.Point(8, 120)
         Me.Label24.Name = "Label24"
         Me.Label24.Size = New System.Drawing.Size(64, 16)
         Me.Label24.TabIndex = 23
@@ -1205,7 +1213,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_1ºDilucion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_1ºDilucion.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_1ºDilucion.Location = New System.Drawing.Point(224, 96)
+        Me.Txt_1ºDilucion.Location = New System.Drawing.Point(224, 88)
         Me.Txt_1ºDilucion.Name = "Txt_1ºDilucion"
         Me.Txt_1ºDilucion.Size = New System.Drawing.Size(72, 20)
         Me.Txt_1ºDilucion.TabIndex = 22
@@ -1215,7 +1223,7 @@ Public Class F_DigitaResultado
         '
         Me.Label23.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label23.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label23.Location = New System.Drawing.Point(56, 96)
+        Me.Label23.Location = New System.Drawing.Point(56, 88)
         Me.Label23.Name = "Label23"
         Me.Label23.Size = New System.Drawing.Size(152, 18)
         Me.Label23.TabIndex = 21
@@ -1225,7 +1233,7 @@ Public Class F_DigitaResultado
         '
         Me.Label22.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label22.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label22.Location = New System.Drawing.Point(88, 24)
+        Me.Label22.Location = New System.Drawing.Point(88, 16)
         Me.Label22.Name = "Label22"
         Me.Label22.Size = New System.Drawing.Size(128, 16)
         Me.Label22.TabIndex = 20
@@ -1235,7 +1243,7 @@ Public Class F_DigitaResultado
         '
         Me.Label21.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label21.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label21.Location = New System.Drawing.Point(8, 24)
+        Me.Label21.Location = New System.Drawing.Point(8, 16)
         Me.Label21.Name = "Label21"
         Me.Label21.Size = New System.Drawing.Size(64, 16)
         Me.Label21.TabIndex = 19
@@ -1245,7 +1253,7 @@ Public Class F_DigitaResultado
         '
         Me.Label20.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label20.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label20.Location = New System.Drawing.Point(56, 200)
+        Me.Label20.Location = New System.Drawing.Point(56, 192)
         Me.Label20.Name = "Label20"
         Me.Label20.Size = New System.Drawing.Size(152, 18)
         Me.Label20.TabIndex = 18
@@ -1255,7 +1263,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_Lect2ºFactor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_Lect2ºFactor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_Lect2ºFactor.Location = New System.Drawing.Point(224, 200)
+        Me.Txt_Lect2ºFactor.Location = New System.Drawing.Point(224, 192)
         Me.Txt_Lect2ºFactor.Name = "Txt_Lect2ºFactor"
         Me.Txt_Lect2ºFactor.Size = New System.Drawing.Size(72, 20)
         Me.Txt_Lect2ºFactor.TabIndex = 17
@@ -1264,7 +1272,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_VolAforoAlicuota.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_VolAforoAlicuota.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_VolAforoAlicuota.Location = New System.Drawing.Point(56, 176)
+        Me.Lb_VolAforoAlicuota.Location = New System.Drawing.Point(56, 168)
         Me.Lb_VolAforoAlicuota.Name = "Lb_VolAforoAlicuota"
         Me.Lb_VolAforoAlicuota.Size = New System.Drawing.Size(152, 18)
         Me.Lb_VolAforoAlicuota.TabIndex = 16
@@ -1274,7 +1282,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_LectVolAforoAlic.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_LectVolAforoAlic.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_LectVolAforoAlic.Location = New System.Drawing.Point(224, 176)
+        Me.Txt_LectVolAforoAlic.Location = New System.Drawing.Point(224, 168)
         Me.Txt_LectVolAforoAlic.Name = "Txt_LectVolAforoAlic"
         Me.Txt_LectVolAforoAlic.Size = New System.Drawing.Size(72, 20)
         Me.Txt_LectVolAforoAlic.TabIndex = 15
@@ -1283,7 +1291,7 @@ Public Class F_DigitaResultado
         '
         Me.Label19.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label19.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label19.Location = New System.Drawing.Point(56, 152)
+        Me.Label19.Location = New System.Drawing.Point(56, 144)
         Me.Label19.Name = "Label19"
         Me.Label19.Size = New System.Drawing.Size(152, 18)
         Me.Label19.TabIndex = 14
@@ -1293,7 +1301,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_LectVolAlicuota.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_LectVolAlicuota.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_LectVolAlicuota.Location = New System.Drawing.Point(224, 152)
+        Me.Txt_LectVolAlicuota.Location = New System.Drawing.Point(224, 144)
         Me.Txt_LectVolAlicuota.Name = "Txt_LectVolAlicuota"
         Me.Txt_LectVolAlicuota.Size = New System.Drawing.Size(72, 20)
         Me.Txt_LectVolAlicuota.TabIndex = 13
@@ -1302,7 +1310,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_LectFactor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_LectFactor.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_LectFactor.Location = New System.Drawing.Point(56, 72)
+        Me.Lb_LectFactor.Location = New System.Drawing.Point(56, 64)
         Me.Lb_LectFactor.Name = "Lb_LectFactor"
         Me.Lb_LectFactor.Size = New System.Drawing.Size(152, 18)
         Me.Lb_LectFactor.TabIndex = 12
@@ -1312,7 +1320,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_LectAforo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_LectAforo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_LectAforo.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_LectAforo.Location = New System.Drawing.Point(224, 64)
         Me.Txt_LectAforo.Name = "Txt_LectAforo"
         Me.Txt_LectAforo.Size = New System.Drawing.Size(72, 20)
         Me.Txt_LectAforo.TabIndex = 11
@@ -1322,7 +1330,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_LectBlanco.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_LectBlanco.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_LectBlanco.Location = New System.Drawing.Point(56, 48)
+        Me.Lb_LectBlanco.Location = New System.Drawing.Point(56, 40)
         Me.Lb_LectBlanco.Name = "Lb_LectBlanco"
         Me.Lb_LectBlanco.Size = New System.Drawing.Size(152, 18)
         Me.Lb_LectBlanco.TabIndex = 10
@@ -1332,7 +1340,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_LectPesoMuestra.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_LectPesoMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_LectPesoMuestra.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_LectPesoMuestra.Location = New System.Drawing.Point(224, 40)
         Me.Txt_LectPesoMuestra.Name = "Txt_LectPesoMuestra"
         Me.Txt_LectPesoMuestra.Size = New System.Drawing.Size(72, 20)
         Me.Txt_LectPesoMuestra.TabIndex = 9
@@ -1460,9 +1468,9 @@ Public Class F_DigitaResultado
         Me.Dtg_Elementos.DataMember = ""
         Me.Dtg_Elementos.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Dtg_Elementos.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_Elementos.Location = New System.Drawing.Point(544, 0)
+        Me.Dtg_Elementos.Location = New System.Drawing.Point(544, 12)
         Me.Dtg_Elementos.Name = "Dtg_Elementos"
-        Me.Dtg_Elementos.Size = New System.Drawing.Size(240, 664)
+        Me.Dtg_Elementos.Size = New System.Drawing.Size(240, 652)
         Me.Dtg_Elementos.TabIndex = 5
         Me.Dtg_Elementos.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle1})
         '
@@ -1560,32 +1568,20 @@ Public Class F_DigitaResultado
         Me.Dtg_Digitado.CaptionVisible = False
         Me.Dtg_Digitado.DataMember = ""
         Me.Dtg_Digitado.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_Digitado.Location = New System.Drawing.Point(784, 0)
+        Me.Dtg_Digitado.Location = New System.Drawing.Point(790, 12)
         Me.Dtg_Digitado.Name = "Dtg_Digitado"
-        Me.Dtg_Digitado.Size = New System.Drawing.Size(488, 928)
+        Me.Dtg_Digitado.Size = New System.Drawing.Size(470, 916)
         Me.Dtg_Digitado.TabIndex = 6
         Me.Dtg_Digitado.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle2})
         Me.Dtg_Digitado.Visible = False
         '
         'DataGridTableStyle2
         '
-        Me.DataGridTableStyle2.DataGrid = Me.Dtg_Digitado
+        Me.DataGridTableStyle2.DataGrid = Me.Dtg_DigitaNNO3
         Me.DataGridTableStyle2.GridColumnStyles.AddRange(New System.Windows.Forms.DataGridColumnStyle() {Me.DataGridTextBoxColumn7, Me.DataGridTextBoxColumn8, Me.DataGridTextBoxColumn9, Me.DataGridTextBoxColumn10, Me.DataGridTextBoxColumn19, Me.DataGridTextBoxColumn20, Me.DataGridTextBoxColumn21, Me.DataGridTextBoxColumn22, Me.DataGridTextBoxColumn28})
         Me.DataGridTableStyle2.HeaderFont = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DataGridTableStyle2.HeaderForeColor = System.Drawing.SystemColors.ControlText
         Me.DataGridTableStyle2.MappingName = "DIGITACION"
-        '
-        'Dtg_DigitaNNO3
-        '
-        Me.Dtg_DigitaNNO3.CaptionVisible = False
-        Me.Dtg_DigitaNNO3.DataMember = ""
-        Me.Dtg_DigitaNNO3.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_DigitaNNO3.Location = New System.Drawing.Point(784, 0)
-        Me.Dtg_DigitaNNO3.Name = "Dtg_DigitaNNO3"
-        Me.Dtg_DigitaNNO3.Size = New System.Drawing.Size(488, 928)
-        Me.Dtg_DigitaNNO3.TabIndex = 5
-        Me.Dtg_DigitaNNO3.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle2})
-        Me.Dtg_DigitaNNO3.Visible = False
         '
         'DataGridTextBoxColumn7
         '
@@ -1675,6 +1671,18 @@ Public Class F_DigitaResultado
         Me.DataGridTextBoxColumn28.NullText = ""
         Me.DataGridTextBoxColumn28.Width = 75
         '
+        'Dtg_DigitaNNO3
+        '
+        Me.Dtg_DigitaNNO3.CaptionVisible = False
+        Me.Dtg_DigitaNNO3.DataMember = ""
+        Me.Dtg_DigitaNNO3.HeaderForeColor = System.Drawing.SystemColors.ControlText
+        Me.Dtg_DigitaNNO3.Location = New System.Drawing.Point(790, 12)
+        Me.Dtg_DigitaNNO3.Name = "Dtg_DigitaNNO3"
+        Me.Dtg_DigitaNNO3.Size = New System.Drawing.Size(470, 916)
+        Me.Dtg_DigitaNNO3.TabIndex = 5
+        Me.Dtg_DigitaNNO3.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle2})
+        Me.Dtg_DigitaNNO3.Visible = False
+        '
         'Bt_Graba
         '
         Me.Bt_Graba.BackColor = System.Drawing.Color.Transparent
@@ -1682,7 +1690,7 @@ Public Class F_DigitaResultado
         Me.Bt_Graba.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Bt_Graba.Image = Global.LabSys.My.Resources.Resources.bullet_disk
         Me.Bt_Graba.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Bt_Graba.Location = New System.Drawing.Point(400, 675)
+        Me.Bt_Graba.Location = New System.Drawing.Point(431, 673)
         Me.Bt_Graba.Name = "Bt_Graba"
         Me.Bt_Graba.Size = New System.Drawing.Size(80, 24)
         Me.Bt_Graba.TabIndex = 30
@@ -1696,7 +1704,7 @@ Public Class F_DigitaResultado
         Me.Bt_Imprime.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Bt_Imprime.Image = Global.LabSys.My.Resources.Resources.printer
         Me.Bt_Imprime.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Bt_Imprime.Location = New System.Drawing.Point(491, 675)
+        Me.Bt_Imprime.Location = New System.Drawing.Point(522, 673)
         Me.Bt_Imprime.Name = "Bt_Imprime"
         Me.Bt_Imprime.Size = New System.Drawing.Size(80, 24)
         Me.Bt_Imprime.TabIndex = 31
@@ -1710,7 +1718,7 @@ Public Class F_DigitaResultado
         Me.Bt_Limpiar.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Bt_Limpiar.Image = Global.LabSys.My.Resources.Resources.limpiar
         Me.Bt_Limpiar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Bt_Limpiar.Location = New System.Drawing.Point(580, 675)
+        Me.Bt_Limpiar.Location = New System.Drawing.Point(611, 673)
         Me.Bt_Limpiar.Name = "Bt_Limpiar"
         Me.Bt_Limpiar.Size = New System.Drawing.Size(80, 24)
         Me.Bt_Limpiar.TabIndex = 32
@@ -1724,7 +1732,7 @@ Public Class F_DigitaResultado
         Me.Bt_Salir.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Bt_Salir.Image = Global.LabSys.My.Resources.Resources.door_out
         Me.Bt_Salir.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.Bt_Salir.Location = New System.Drawing.Point(670, 675)
+        Me.Bt_Salir.Location = New System.Drawing.Point(701, 673)
         Me.Bt_Salir.Name = "Bt_Salir"
         Me.Bt_Salir.Size = New System.Drawing.Size(80, 24)
         Me.Bt_Salir.TabIndex = 33
@@ -1734,7 +1742,7 @@ Public Class F_DigitaResultado
         '
         'TxtLectura
         '
-        Me.TxtLectura.Location = New System.Drawing.Point(832, 56)
+        Me.TxtLectura.Location = New System.Drawing.Point(838, 56)
         Me.TxtLectura.Name = "TxtLectura"
         Me.TxtLectura.Size = New System.Drawing.Size(100, 20)
         Me.TxtLectura.TabIndex = 15
@@ -1742,7 +1750,7 @@ Public Class F_DigitaResultado
         '
         'TxtNumLab
         '
-        Me.TxtNumLab.Location = New System.Drawing.Point(960, 56)
+        Me.TxtNumLab.Location = New System.Drawing.Point(966, 56)
         Me.TxtNumLab.Name = "TxtNumLab"
         Me.TxtNumLab.Size = New System.Drawing.Size(100, 20)
         Me.TxtNumLab.TabIndex = 12
@@ -1750,7 +1758,7 @@ Public Class F_DigitaResultado
         '
         'Txt_LecRes
         '
-        Me.Txt_LecRes.Location = New System.Drawing.Point(1080, 56)
+        Me.Txt_LecRes.Location = New System.Drawing.Point(1086, 56)
         Me.Txt_LecRes.Name = "Txt_LecRes"
         Me.Txt_LecRes.Size = New System.Drawing.Size(100, 20)
         Me.Txt_LecRes.TabIndex = 8
@@ -1761,32 +1769,20 @@ Public Class F_DigitaResultado
         Me.Dtg_Elenf.CaptionVisible = False
         Me.Dtg_Elenf.DataMember = ""
         Me.Dtg_Elenf.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_Elenf.Location = New System.Drawing.Point(784, 0)
+        Me.Dtg_Elenf.Location = New System.Drawing.Point(790, 12)
         Me.Dtg_Elenf.Name = "Dtg_Elenf"
-        Me.Dtg_Elenf.Size = New System.Drawing.Size(354, 928)
+        Me.Dtg_Elenf.Size = New System.Drawing.Size(354, 916)
         Me.Dtg_Elenf.TabIndex = 14
         Me.Dtg_Elenf.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle3})
         Me.Dtg_Elenf.Visible = False
         '
         'DataGridTableStyle3
         '
-        Me.DataGridTableStyle3.DataGrid = Me.Dtg_Elenf
+        Me.DataGridTableStyle3.DataGrid = Me.Dtg_DigitaVolumetrico
         Me.DataGridTableStyle3.GridColumnStyles.AddRange(New System.Windows.Forms.DataGridColumnStyle() {Me.DataGridTextBoxColumn11, Me.DataGridTextBoxColumn12, Me.DataGridTextBoxColumn13, Me.DataGridTextBoxColumn23, Me.DataGridTextBoxColumn24})
         Me.DataGridTableStyle3.HeaderFont = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DataGridTableStyle3.HeaderForeColor = System.Drawing.SystemColors.ControlText
         Me.DataGridTableStyle3.MappingName = "DIGITACION"
-        '
-        'Dtg_DigitaVolumetrico
-        '
-        Me.Dtg_DigitaVolumetrico.CaptionVisible = False
-        Me.Dtg_DigitaVolumetrico.DataMember = ""
-        Me.Dtg_DigitaVolumetrico.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_DigitaVolumetrico.Location = New System.Drawing.Point(784, 0)
-        Me.Dtg_DigitaVolumetrico.Name = "Dtg_DigitaVolumetrico"
-        Me.Dtg_DigitaVolumetrico.Size = New System.Drawing.Size(333, 928)
-        Me.Dtg_DigitaVolumetrico.TabIndex = 54
-        Me.Dtg_DigitaVolumetrico.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle3})
-        Me.Dtg_DigitaVolumetrico.Visible = False
         '
         'DataGridTextBoxColumn11
         '
@@ -1838,6 +1834,18 @@ Public Class F_DigitaResultado
         Me.DataGridTextBoxColumn24.NullText = ""
         Me.DataGridTextBoxColumn24.Width = 85
         '
+        'Dtg_DigitaVolumetrico
+        '
+        Me.Dtg_DigitaVolumetrico.CaptionVisible = False
+        Me.Dtg_DigitaVolumetrico.DataMember = ""
+        Me.Dtg_DigitaVolumetrico.HeaderForeColor = System.Drawing.SystemColors.ControlText
+        Me.Dtg_DigitaVolumetrico.Location = New System.Drawing.Point(790, 12)
+        Me.Dtg_DigitaVolumetrico.Name = "Dtg_DigitaVolumetrico"
+        Me.Dtg_DigitaVolumetrico.Size = New System.Drawing.Size(333, 916)
+        Me.Dtg_DigitaVolumetrico.TabIndex = 54
+        Me.Dtg_DigitaVolumetrico.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle3})
+        Me.Dtg_DigitaVolumetrico.Visible = False
+        '
         'GBX_pyb1
         '
         Me.GBX_pyb1.BackColor = System.Drawing.Color.LightSteelBlue
@@ -1867,7 +1875,7 @@ Public Class F_DigitaResultado
         Me.GBX_pyb1.Controls.Add(Me.txt_pyb_tram2)
         Me.GBX_pyb1.Controls.Add(Me.txt_pyb_tram1)
         Me.GBX_pyb1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.GBX_pyb1.Location = New System.Drawing.Point(8, 617)
+        Me.GBX_pyb1.Location = New System.Drawing.Point(8, 637)
         Me.GBX_pyb1.Name = "GBX_pyb1"
         Me.GBX_pyb1.Size = New System.Drawing.Size(369, 311)
         Me.GBX_pyb1.TabIndex = 40
@@ -1881,7 +1889,7 @@ Public Class F_DigitaResultado
         Me.BtCalculaCoe.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.BtCalculaCoe.Image = Global.LabSys.My.Resources.Resources.calculator
         Me.BtCalculaCoe.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.BtCalculaCoe.Location = New System.Drawing.Point(301, 271)
+        Me.BtCalculaCoe.Location = New System.Drawing.Point(304, 277)
         Me.BtCalculaCoe.Name = "BtCalculaCoe"
         Me.BtCalculaCoe.Size = New System.Drawing.Size(50, 25)
         Me.BtCalculaCoe.TabIndex = 62
@@ -1894,7 +1902,7 @@ Public Class F_DigitaResultado
         Me.LabResultado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.LabResultado.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.LabResultado.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.LabResultado.Location = New System.Drawing.Point(200, 280)
+        Me.LabResultado.Location = New System.Drawing.Point(168, 281)
         Me.LabResultado.Name = "LabResultado"
         Me.LabResultado.Size = New System.Drawing.Size(72, 16)
         Me.LabResultado.TabIndex = 61
@@ -1913,7 +1921,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram10.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram10.Location = New System.Drawing.Point(200, 255)
+        Me.txt_pyb_tram10.Location = New System.Drawing.Point(168, 256)
         Me.txt_pyb_tram10.Name = "txt_pyb_tram10"
         Me.txt_pyb_tram10.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram10.TabIndex = 59
@@ -1932,7 +1940,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram9.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram9.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram9.Location = New System.Drawing.Point(200, 231)
+        Me.txt_pyb_tram9.Location = New System.Drawing.Point(168, 232)
         Me.txt_pyb_tram9.Name = "txt_pyb_tram9"
         Me.txt_pyb_tram9.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram9.TabIndex = 57
@@ -1971,7 +1979,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram8.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram8.Location = New System.Drawing.Point(200, 207)
+        Me.txt_pyb_tram8.Location = New System.Drawing.Point(168, 208)
         Me.txt_pyb_tram8.Name = "txt_pyb_tram8"
         Me.txt_pyb_tram8.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram8.TabIndex = 53
@@ -1980,7 +1988,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram7.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram7.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram7.Location = New System.Drawing.Point(200, 183)
+        Me.txt_pyb_tram7.Location = New System.Drawing.Point(168, 184)
         Me.txt_pyb_tram7.Name = "txt_pyb_tram7"
         Me.txt_pyb_tram7.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram7.TabIndex = 52
@@ -2009,7 +2017,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram6.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram6.Location = New System.Drawing.Point(200, 159)
+        Me.txt_pyb_tram6.Location = New System.Drawing.Point(168, 160)
         Me.txt_pyb_tram6.Name = "txt_pyb_tram6"
         Me.txt_pyb_tram6.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram6.TabIndex = 49
@@ -2018,7 +2026,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram5.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram5.Location = New System.Drawing.Point(200, 135)
+        Me.txt_pyb_tram5.Location = New System.Drawing.Point(168, 136)
         Me.txt_pyb_tram5.Name = "txt_pyb_tram5"
         Me.txt_pyb_tram5.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram5.TabIndex = 48
@@ -2047,7 +2055,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram4.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram4.Location = New System.Drawing.Point(200, 111)
+        Me.txt_pyb_tram4.Location = New System.Drawing.Point(168, 112)
         Me.txt_pyb_tram4.Name = "txt_pyb_tram4"
         Me.txt_pyb_tram4.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram4.TabIndex = 45
@@ -2056,7 +2064,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram3.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram3.Location = New System.Drawing.Point(200, 87)
+        Me.txt_pyb_tram3.Location = New System.Drawing.Point(168, 88)
         Me.txt_pyb_tram3.Name = "txt_pyb_tram3"
         Me.txt_pyb_tram3.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram3.TabIndex = 44
@@ -2065,7 +2073,7 @@ Public Class F_DigitaResultado
         '
         Me.Label27.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label27.ForeColor = System.Drawing.Color.Black
-        Me.Label27.Location = New System.Drawing.Point(192, 15)
+        Me.Label27.Location = New System.Drawing.Point(160, 16)
         Me.Label27.Name = "Label27"
         Me.Label27.Size = New System.Drawing.Size(104, 16)
         Me.Label27.TabIndex = 43
@@ -2106,7 +2114,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram2.Location = New System.Drawing.Point(200, 63)
+        Me.txt_pyb_tram2.Location = New System.Drawing.Point(168, 64)
         Me.txt_pyb_tram2.Name = "txt_pyb_tram2"
         Me.txt_pyb_tram2.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram2.TabIndex = 37
@@ -2115,7 +2123,7 @@ Public Class F_DigitaResultado
         '
         Me.txt_pyb_tram1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txt_pyb_tram1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_pyb_tram1.Location = New System.Drawing.Point(200, 39)
+        Me.txt_pyb_tram1.Location = New System.Drawing.Point(168, 40)
         Me.txt_pyb_tram1.Name = "txt_pyb_tram1"
         Me.txt_pyb_tram1.Size = New System.Drawing.Size(72, 20)
         Me.txt_pyb_tram1.TabIndex = 35
@@ -2125,9 +2133,9 @@ Public Class F_DigitaResultado
         Me.Lb_Metodo2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_Metodo2.ForeColor = System.Drawing.SystemColors.HotTrack
         Me.Lb_Metodo2.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
-        Me.Lb_Metodo2.Location = New System.Drawing.Point(80, 72)
+        Me.Lb_Metodo2.Location = New System.Drawing.Point(80, 66)
         Me.Lb_Metodo2.Name = "Lb_Metodo2"
-        Me.Lb_Metodo2.Size = New System.Drawing.Size(424, 16)
+        Me.Lb_Metodo2.Size = New System.Drawing.Size(431, 16)
         Me.Lb_Metodo2.TabIndex = 1
         '
         'Lb_Metodo
@@ -2135,9 +2143,9 @@ Public Class F_DigitaResultado
         Me.Lb_Metodo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_Metodo.ForeColor = System.Drawing.SystemColors.HotTrack
         Me.Lb_Metodo.ImageAlign = System.Drawing.ContentAlignment.BottomCenter
-        Me.Lb_Metodo.Location = New System.Drawing.Point(80, 48)
+        Me.Lb_Metodo.Location = New System.Drawing.Point(80, 42)
         Me.Lb_Metodo.Name = "Lb_Metodo"
-        Me.Lb_Metodo.Size = New System.Drawing.Size(424, 16)
+        Me.Lb_Metodo.Size = New System.Drawing.Size(431, 16)
         Me.Lb_Metodo.TabIndex = 0
         '
         'Gbx_Comentarios
@@ -2149,16 +2157,16 @@ Public Class F_DigitaResultado
         Me.Gbx_Comentarios.Controls.Add(Me.Lb_Metodo2)
         Me.Gbx_Comentarios.Font = New System.Drawing.Font("Arial", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_Comentarios.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Gbx_Comentarios.Location = New System.Drawing.Point(8, 216)
+        Me.Gbx_Comentarios.Location = New System.Drawing.Point(8, 228)
         Me.Gbx_Comentarios.Name = "Gbx_Comentarios"
-        Me.Gbx_Comentarios.Size = New System.Drawing.Size(536, 90)
+        Me.Gbx_Comentarios.Size = New System.Drawing.Size(528, 90)
         Me.Gbx_Comentarios.TabIndex = 43
         Me.Gbx_Comentarios.TabStop = False
         '
         'Lb_Metodologia
         '
         Me.Lb_Metodologia.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lb_Metodologia.Location = New System.Drawing.Point(8, 24)
+        Me.Lb_Metodologia.Location = New System.Drawing.Point(8, 18)
         Me.Lb_Metodologia.Name = "Lb_Metodologia"
         Me.Lb_Metodologia.Size = New System.Drawing.Size(192, 16)
         Me.Lb_Metodologia.TabIndex = 43
@@ -2166,7 +2174,7 @@ Public Class F_DigitaResultado
         'Lb_TitCalculo
         '
         Me.Lb_TitCalculo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Lb_TitCalculo.Location = New System.Drawing.Point(8, 48)
+        Me.Lb_TitCalculo.Location = New System.Drawing.Point(8, 42)
         Me.Lb_TitCalculo.Name = "Lb_TitCalculo"
         Me.Lb_TitCalculo.Size = New System.Drawing.Size(64, 16)
         Me.Lb_TitCalculo.TabIndex = 42
@@ -2188,9 +2196,9 @@ Public Class F_DigitaResultado
         Me.Gbx_Potenciometrico.Controls.Add(Me.Label33)
         Me.Gbx_Potenciometrico.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_Potenciometrico.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Gbx_Potenciometrico.Location = New System.Drawing.Point(8, 312)
+        Me.Gbx_Potenciometrico.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_Potenciometrico.Name = "Gbx_Potenciometrico"
-        Me.Gbx_Potenciometrico.Size = New System.Drawing.Size(536, 264)
+        Me.Gbx_Potenciometrico.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_Potenciometrico.TabIndex = 44
         Me.Gbx_Potenciometrico.TabStop = False
         Me.Gbx_Potenciometrico.Visible = False
@@ -2199,14 +2207,14 @@ Public Class F_DigitaResultado
         '
         Me.TextBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox2.Location = New System.Drawing.Point(456, 48)
+        Me.TextBox2.Location = New System.Drawing.Point(444, 40)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(72, 20)
         Me.TextBox2.TabIndex = 31
         '
         'Lnk_PotChequeo
         '
-        Me.Lnk_PotChequeo.Location = New System.Drawing.Point(328, 48)
+        Me.Lnk_PotChequeo.Location = New System.Drawing.Point(316, 40)
         Me.Lnk_PotChequeo.Name = "Lnk_PotChequeo"
         Me.Lnk_PotChequeo.Size = New System.Drawing.Size(112, 16)
         Me.Lnk_PotChequeo.TabIndex = 30
@@ -2217,7 +2225,7 @@ Public Class F_DigitaResultado
         '
         Me.Label34.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label34.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label34.Location = New System.Drawing.Point(8, 152)
+        Me.Label34.Location = New System.Drawing.Point(8, 144)
         Me.Label34.Name = "Label34"
         Me.Label34.Size = New System.Drawing.Size(128, 18)
         Me.Label34.TabIndex = 29
@@ -2227,7 +2235,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotFactor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotFactor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotFactor.Location = New System.Drawing.Point(224, 152)
+        Me.Txt_PotFactor.Location = New System.Drawing.Point(224, 144)
         Me.Txt_PotFactor.Name = "Txt_PotFactor"
         Me.Txt_PotFactor.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotFactor.TabIndex = 28
@@ -2236,7 +2244,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_PotFactConv.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_PotFactConv.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_PotFactConv.Location = New System.Drawing.Point(56, 96)
+        Me.Lb_PotFactConv.Location = New System.Drawing.Point(56, 88)
         Me.Lb_PotFactConv.Name = "Lb_PotFactConv"
         Me.Lb_PotFactConv.Size = New System.Drawing.Size(152, 18)
         Me.Lb_PotFactConv.TabIndex = 27
@@ -2248,7 +2256,7 @@ Public Class F_DigitaResultado
         Me.Txt_PotFactConv.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotFactConv.Enabled = False
         Me.Txt_PotFactConv.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotFactConv.Location = New System.Drawing.Point(224, 96)
+        Me.Txt_PotFactConv.Location = New System.Drawing.Point(224, 88)
         Me.Txt_PotFactConv.Name = "Txt_PotFactConv"
         Me.Txt_PotFactConv.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotFactConv.TabIndex = 26
@@ -2258,7 +2266,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_PotPesoAtomico.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_PotPesoAtomico.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_PotPesoAtomico.Location = New System.Drawing.Point(56, 72)
+        Me.Lb_PotPesoAtomico.Location = New System.Drawing.Point(56, 64)
         Me.Lb_PotPesoAtomico.Name = "Lb_PotPesoAtomico"
         Me.Lb_PotPesoAtomico.Size = New System.Drawing.Size(152, 18)
         Me.Lb_PotPesoAtomico.TabIndex = 25
@@ -2270,7 +2278,7 @@ Public Class F_DigitaResultado
         Me.Txt_PotPesoAtomico.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotPesoAtomico.Enabled = False
         Me.Txt_PotPesoAtomico.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotPesoAtomico.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_PotPesoAtomico.Location = New System.Drawing.Point(224, 64)
         Me.Txt_PotPesoAtomico.Name = "Txt_PotPesoAtomico"
         Me.Txt_PotPesoAtomico.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotPesoAtomico.TabIndex = 24
@@ -2279,7 +2287,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_PotPesoMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_PotPesoMuestra.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_PotPesoMuestra.Location = New System.Drawing.Point(56, 120)
+        Me.Lb_PotPesoMuestra.Location = New System.Drawing.Point(56, 112)
         Me.Lb_PotPesoMuestra.Name = "Lb_PotPesoMuestra"
         Me.Lb_PotPesoMuestra.Size = New System.Drawing.Size(152, 18)
         Me.Lb_PotPesoMuestra.TabIndex = 23
@@ -2289,7 +2297,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotPesoMuestra.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotPesoMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotPesoMuestra.Location = New System.Drawing.Point(224, 120)
+        Me.Txt_PotPesoMuestra.Location = New System.Drawing.Point(224, 112)
         Me.Txt_PotPesoMuestra.Name = "Txt_PotPesoMuestra"
         Me.Txt_PotPesoMuestra.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotPesoMuestra.TabIndex = 22
@@ -2298,7 +2306,7 @@ Public Class F_DigitaResultado
         '
         Me.Lb_PotNormailidad.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Lb_PotNormailidad.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Lb_PotNormailidad.Location = New System.Drawing.Point(56, 48)
+        Me.Lb_PotNormailidad.Location = New System.Drawing.Point(56, 40)
         Me.Lb_PotNormailidad.Name = "Lb_PotNormailidad"
         Me.Lb_PotNormailidad.Size = New System.Drawing.Size(152, 18)
         Me.Lb_PotNormailidad.TabIndex = 20
@@ -2308,7 +2316,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNormalidad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNormalidad.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNormalidad.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_PotNormalidad.Location = New System.Drawing.Point(224, 40)
         Me.Txt_PotNormalidad.Name = "Txt_PotNormalidad"
         Me.Txt_PotNormalidad.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNormalidad.TabIndex = 19
@@ -2316,7 +2324,7 @@ Public Class F_DigitaResultado
         'Label33
         '
         Me.Label33.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label33.Location = New System.Drawing.Point(8, 24)
+        Me.Label33.Location = New System.Drawing.Point(8, 16)
         Me.Label33.Name = "Label33"
         Me.Label33.Size = New System.Drawing.Size(100, 16)
         Me.Label33.TabIndex = 18
@@ -2344,9 +2352,9 @@ Public Class F_DigitaResultado
         Me.Gbx_PotNNH4.Controls.Add(Me.GroupBox5)
         Me.Gbx_PotNNH4.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_PotNNH4.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Gbx_PotNNH4.Location = New System.Drawing.Point(8, 312)
+        Me.Gbx_PotNNH4.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_PotNNH4.Name = "Gbx_PotNNH4"
-        Me.Gbx_PotNNH4.Size = New System.Drawing.Size(536, 252)
+        Me.Gbx_PotNNH4.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_PotNNH4.TabIndex = 45
         Me.Gbx_PotNNH4.TabStop = False
         Me.Gbx_PotNNH4.Visible = False
@@ -2355,7 +2363,7 @@ Public Class F_DigitaResultado
         '
         Me.Label47.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label47.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label47.Location = New System.Drawing.Point(56, 144)
+        Me.Label47.Location = New System.Drawing.Point(56, 136)
         Me.Label47.Name = "Label47"
         Me.Label47.Size = New System.Drawing.Size(152, 18)
         Me.Label47.TabIndex = 27
@@ -2365,7 +2373,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNNH4Alicuota.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4Alicuota.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4Alicuota.Location = New System.Drawing.Point(224, 144)
+        Me.Txt_PotNNH4Alicuota.Location = New System.Drawing.Point(224, 136)
         Me.Txt_PotNNH4Alicuota.Name = "Txt_PotNNH4Alicuota"
         Me.Txt_PotNNH4Alicuota.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4Alicuota.TabIndex = 26
@@ -2374,7 +2382,7 @@ Public Class F_DigitaResultado
         '
         Me.Label46.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label46.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label46.Location = New System.Drawing.Point(56, 168)
+        Me.Label46.Location = New System.Drawing.Point(56, 160)
         Me.Label46.Name = "Label46"
         Me.Label46.Size = New System.Drawing.Size(152, 18)
         Me.Label46.TabIndex = 25
@@ -2384,7 +2392,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNNH4VAforo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4VAforo.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4VAforo.Location = New System.Drawing.Point(224, 168)
+        Me.Txt_PotNNH4VAforo.Location = New System.Drawing.Point(224, 160)
         Me.Txt_PotNNH4VAforo.Name = "Txt_PotNNH4VAforo"
         Me.Txt_PotNNH4VAforo.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4VAforo.TabIndex = 24
@@ -2393,14 +2401,14 @@ Public Class F_DigitaResultado
         '
         Me.TextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.TextBox1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBox1.Location = New System.Drawing.Point(456, 48)
+        Me.TextBox1.Location = New System.Drawing.Point(444, 40)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(72, 20)
         Me.TextBox1.TabIndex = 23
         '
         'LinkLabel1
         '
-        Me.LinkLabel1.Location = New System.Drawing.Point(328, 48)
+        Me.LinkLabel1.Location = New System.Drawing.Point(316, 40)
         Me.LinkLabel1.Name = "LinkLabel1"
         Me.LinkLabel1.Size = New System.Drawing.Size(112, 16)
         Me.LinkLabel1.TabIndex = 22
@@ -2411,7 +2419,7 @@ Public Class F_DigitaResultado
         '
         Me.Label35.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label35.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label35.Location = New System.Drawing.Point(56, 96)
+        Me.Label35.Location = New System.Drawing.Point(56, 88)
         Me.Label35.Name = "Label35"
         Me.Label35.Size = New System.Drawing.Size(152, 18)
         Me.Label35.TabIndex = 21
@@ -2423,7 +2431,7 @@ Public Class F_DigitaResultado
         Me.Txt_PotNNH4FacConvercion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4FacConvercion.Enabled = False
         Me.Txt_PotNNH4FacConvercion.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4FacConvercion.Location = New System.Drawing.Point(224, 96)
+        Me.Txt_PotNNH4FacConvercion.Location = New System.Drawing.Point(224, 88)
         Me.Txt_PotNNH4FacConvercion.Name = "Txt_PotNNH4FacConvercion"
         Me.Txt_PotNNH4FacConvercion.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4FacConvercion.TabIndex = 20
@@ -2433,7 +2441,7 @@ Public Class F_DigitaResultado
         '
         Me.Label36.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label36.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label36.Location = New System.Drawing.Point(56, 72)
+        Me.Label36.Location = New System.Drawing.Point(56, 64)
         Me.Label36.Name = "Label36"
         Me.Label36.Size = New System.Drawing.Size(152, 18)
         Me.Label36.TabIndex = 19
@@ -2445,7 +2453,7 @@ Public Class F_DigitaResultado
         Me.Txt_PotNNH4PesoAtomico.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4PesoAtomico.Enabled = False
         Me.Txt_PotNNH4PesoAtomico.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4PesoAtomico.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_PotNNH4PesoAtomico.Location = New System.Drawing.Point(224, 64)
         Me.Txt_PotNNH4PesoAtomico.Name = "Txt_PotNNH4PesoAtomico"
         Me.Txt_PotNNH4PesoAtomico.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4PesoAtomico.TabIndex = 18
@@ -2453,7 +2461,7 @@ Public Class F_DigitaResultado
         'Label37
         '
         Me.Label37.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label37.Location = New System.Drawing.Point(8, 24)
+        Me.Label37.Location = New System.Drawing.Point(8, 16)
         Me.Label37.Name = "Label37"
         Me.Label37.Size = New System.Drawing.Size(100, 16)
         Me.Label37.TabIndex = 17
@@ -2463,7 +2471,7 @@ Public Class F_DigitaResultado
         '
         Me.Label38.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label38.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label38.Location = New System.Drawing.Point(8, 208)
+        Me.Label38.Location = New System.Drawing.Point(8, 200)
         Me.Label38.Name = "Label38"
         Me.Label38.Size = New System.Drawing.Size(104, 18)
         Me.Label38.TabIndex = 16
@@ -2473,7 +2481,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNNH4Factor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4Factor.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4Factor.Location = New System.Drawing.Point(224, 208)
+        Me.Txt_PotNNH4Factor.Location = New System.Drawing.Point(224, 200)
         Me.Txt_PotNNH4Factor.Name = "Txt_PotNNH4Factor"
         Me.Txt_PotNNH4Factor.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4Factor.TabIndex = 15
@@ -2482,7 +2490,7 @@ Public Class F_DigitaResultado
         '
         Me.Label39.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label39.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label39.Location = New System.Drawing.Point(56, 48)
+        Me.Label39.Location = New System.Drawing.Point(56, 40)
         Me.Label39.Name = "Label39"
         Me.Label39.Size = New System.Drawing.Size(152, 18)
         Me.Label39.TabIndex = 12
@@ -2492,7 +2500,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNNH4Normalidad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4Normalidad.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4Normalidad.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_PotNNH4Normalidad.Location = New System.Drawing.Point(224, 40)
         Me.Txt_PotNNH4Normalidad.Name = "Txt_PotNNH4Normalidad"
         Me.Txt_PotNNH4Normalidad.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4Normalidad.TabIndex = 11
@@ -2501,7 +2509,7 @@ Public Class F_DigitaResultado
         '
         Me.Label40.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label40.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label40.Location = New System.Drawing.Point(56, 120)
+        Me.Label40.Location = New System.Drawing.Point(56, 112)
         Me.Label40.Name = "Label40"
         Me.Label40.Size = New System.Drawing.Size(152, 18)
         Me.Label40.TabIndex = 10
@@ -2511,7 +2519,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_PotNNH4PMuestra.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_PotNNH4PMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_PotNNH4PMuestra.Location = New System.Drawing.Point(224, 120)
+        Me.Txt_PotNNH4PMuestra.Location = New System.Drawing.Point(224, 112)
         Me.Txt_PotNNH4PMuestra.Name = "Txt_PotNNH4PMuestra"
         Me.Txt_PotNNH4PMuestra.Size = New System.Drawing.Size(72, 20)
         Me.Txt_PotNNH4PMuestra.TabIndex = 9
@@ -2645,16 +2653,16 @@ Public Class F_DigitaResultado
         Me.Gbx_Clorofila.Controls.Add(Me.Txt_CloFact1)
         Me.Gbx_Clorofila.Controls.Add(Me.Label49)
         Me.Gbx_Clorofila.Controls.Add(Me.Label48)
-        Me.Gbx_Clorofila.Location = New System.Drawing.Point(8, 312)
+        Me.Gbx_Clorofila.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_Clorofila.Name = "Gbx_Clorofila"
-        Me.Gbx_Clorofila.Size = New System.Drawing.Size(536, 264)
+        Me.Gbx_Clorofila.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_Clorofila.TabIndex = 46
         Me.Gbx_Clorofila.TabStop = False
         Me.Gbx_Clorofila.Visible = False
         '
         'Bt_ClorofilaAceptar
         '
-        Me.Bt_ClorofilaAceptar.Location = New System.Drawing.Point(224, 160)
+        Me.Bt_ClorofilaAceptar.Location = New System.Drawing.Point(224, 152)
         Me.Bt_ClorofilaAceptar.Name = "Bt_ClorofilaAceptar"
         Me.Bt_ClorofilaAceptar.Size = New System.Drawing.Size(64, 23)
         Me.Bt_ClorofilaAceptar.TabIndex = 28
@@ -2665,7 +2673,7 @@ Public Class F_DigitaResultado
         Me.DataGrid1.CaptionVisible = False
         Me.DataGrid1.DataMember = ""
         Me.DataGrid1.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.DataGrid1.Location = New System.Drawing.Point(352, 48)
+        Me.DataGrid1.Location = New System.Drawing.Point(316, 39)
         Me.DataGrid1.Name = "DataGrid1"
         Me.DataGrid1.Size = New System.Drawing.Size(200, 216)
         Me.DataGrid1.TabIndex = 27
@@ -2700,7 +2708,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_CloAbs2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_CloAbs2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_CloAbs2.Location = New System.Drawing.Point(224, 120)
+        Me.Txt_CloAbs2.Location = New System.Drawing.Point(224, 112)
         Me.Txt_CloAbs2.Name = "Txt_CloAbs2"
         Me.Txt_CloAbs2.Size = New System.Drawing.Size(72, 20)
         Me.Txt_CloAbs2.TabIndex = 26
@@ -2709,7 +2717,7 @@ Public Class F_DigitaResultado
         '
         Me.Label52.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label52.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label52.Location = New System.Drawing.Point(56, 120)
+        Me.Label52.Location = New System.Drawing.Point(56, 112)
         Me.Label52.Name = "Label52"
         Me.Label52.Size = New System.Drawing.Size(152, 18)
         Me.Label52.TabIndex = 25
@@ -2719,7 +2727,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_CloFac2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_CloFac2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_CloFac2.Location = New System.Drawing.Point(224, 96)
+        Me.Txt_CloFac2.Location = New System.Drawing.Point(224, 88)
         Me.Txt_CloFac2.Name = "Txt_CloFac2"
         Me.Txt_CloFac2.Size = New System.Drawing.Size(72, 20)
         Me.Txt_CloFac2.TabIndex = 24
@@ -2728,7 +2736,7 @@ Public Class F_DigitaResultado
         '
         Me.Label51.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label51.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label51.Location = New System.Drawing.Point(56, 96)
+        Me.Label51.Location = New System.Drawing.Point(56, 88)
         Me.Label51.Name = "Label51"
         Me.Label51.Size = New System.Drawing.Size(152, 18)
         Me.Label51.TabIndex = 23
@@ -2738,7 +2746,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_CloAbs1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_CloAbs1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_CloAbs1.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_CloAbs1.Location = New System.Drawing.Point(224, 64)
         Me.Txt_CloAbs1.Name = "Txt_CloAbs1"
         Me.Txt_CloAbs1.Size = New System.Drawing.Size(72, 20)
         Me.Txt_CloAbs1.TabIndex = 22
@@ -2747,7 +2755,7 @@ Public Class F_DigitaResultado
         '
         Me.Label50.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label50.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label50.Location = New System.Drawing.Point(56, 72)
+        Me.Label50.Location = New System.Drawing.Point(56, 64)
         Me.Label50.Name = "Label50"
         Me.Label50.Size = New System.Drawing.Size(152, 18)
         Me.Label50.TabIndex = 21
@@ -2757,7 +2765,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_CloFact1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_CloFact1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_CloFact1.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_CloFact1.Location = New System.Drawing.Point(224, 40)
         Me.Txt_CloFact1.Name = "Txt_CloFact1"
         Me.Txt_CloFact1.Size = New System.Drawing.Size(72, 20)
         Me.Txt_CloFact1.TabIndex = 20
@@ -2766,7 +2774,7 @@ Public Class F_DigitaResultado
         '
         Me.Label49.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label49.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label49.Location = New System.Drawing.Point(56, 48)
+        Me.Label49.Location = New System.Drawing.Point(56, 40)
         Me.Label49.Name = "Label49"
         Me.Label49.Size = New System.Drawing.Size(152, 18)
         Me.Label49.TabIndex = 19
@@ -2775,7 +2783,7 @@ Public Class F_DigitaResultado
         'Label48
         '
         Me.Label48.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label48.Location = New System.Drawing.Point(8, 24)
+        Me.Label48.Location = New System.Drawing.Point(8, 16)
         Me.Label48.Name = "Label48"
         Me.Label48.Size = New System.Drawing.Size(100, 16)
         Me.Label48.TabIndex = 18
@@ -2783,7 +2791,7 @@ Public Class F_DigitaResultado
         '
         'Txt_MasaMue
         '
-        Me.Txt_MasaMue.Location = New System.Drawing.Point(800, 256)
+        Me.Txt_MasaMue.Location = New System.Drawing.Point(806, 256)
         Me.Txt_MasaMue.Name = "Txt_MasaMue"
         Me.Txt_MasaMue.Size = New System.Drawing.Size(100, 20)
         Me.Txt_MasaMue.TabIndex = 47
@@ -2791,7 +2799,7 @@ Public Class F_DigitaResultado
         '
         'Txt_VolExt
         '
-        Me.Txt_VolExt.Location = New System.Drawing.Point(920, 256)
+        Me.Txt_VolExt.Location = New System.Drawing.Point(926, 256)
         Me.Txt_VolExt.Name = "Txt_VolExt"
         Me.Txt_VolExt.Size = New System.Drawing.Size(100, 20)
         Me.Txt_VolExt.TabIndex = 48
@@ -2799,7 +2807,7 @@ Public Class F_DigitaResultado
         '
         'Txt_VolAli
         '
-        Me.Txt_VolAli.Location = New System.Drawing.Point(1040, 256)
+        Me.Txt_VolAli.Location = New System.Drawing.Point(1046, 256)
         Me.Txt_VolAli.Name = "Txt_VolAli"
         Me.Txt_VolAli.Size = New System.Drawing.Size(100, 20)
         Me.Txt_VolAli.TabIndex = 49
@@ -2807,7 +2815,7 @@ Public Class F_DigitaResultado
         '
         'Txt_AfoAli
         '
-        Me.Txt_AfoAli.Location = New System.Drawing.Point(800, 296)
+        Me.Txt_AfoAli.Location = New System.Drawing.Point(806, 296)
         Me.Txt_AfoAli.Name = "Txt_AfoAli"
         Me.Txt_AfoAli.Size = New System.Drawing.Size(100, 20)
         Me.Txt_AfoAli.TabIndex = 50
@@ -2815,7 +2823,7 @@ Public Class F_DigitaResultado
         '
         'Txt_Factor
         '
-        Me.Txt_Factor.Location = New System.Drawing.Point(920, 296)
+        Me.Txt_Factor.Location = New System.Drawing.Point(926, 296)
         Me.Txt_Factor.Name = "Txt_Factor"
         Me.Txt_Factor.Size = New System.Drawing.Size(100, 20)
         Me.Txt_Factor.TabIndex = 51
@@ -2823,7 +2831,7 @@ Public Class F_DigitaResultado
         '
         'Txt_LecturaVolumetrico
         '
-        Me.Txt_LecturaVolumetrico.Location = New System.Drawing.Point(1112, 432)
+        Me.Txt_LecturaVolumetrico.Location = New System.Drawing.Point(1118, 432)
         Me.Txt_LecturaVolumetrico.Name = "Txt_LecturaVolumetrico"
         Me.Txt_LecturaVolumetrico.Size = New System.Drawing.Size(100, 20)
         Me.Txt_LecturaVolumetrico.TabIndex = 55
@@ -2833,7 +2841,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3FacDil.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3FacDil.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3FacDil.Location = New System.Drawing.Point(224, 232)
+        Me.Txt_NNO3FacDil.Location = New System.Drawing.Point(224, 224)
         Me.Txt_NNO3FacDil.Name = "Txt_NNO3FacDil"
         Me.Txt_NNO3FacDil.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3FacDil.TabIndex = 28
@@ -2842,7 +2850,7 @@ Public Class F_DigitaResultado
         '
         Me.Label26.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label26.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label26.Location = New System.Drawing.Point(8, 232)
+        Me.Label26.Location = New System.Drawing.Point(8, 224)
         Me.Label26.Name = "Label26"
         Me.Label26.Size = New System.Drawing.Size(100, 18)
         Me.Label26.TabIndex = 27
@@ -2852,7 +2860,7 @@ Public Class F_DigitaResultado
         '
         Me.Label53.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label53.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label53.Location = New System.Drawing.Point(88, 128)
+        Me.Label53.Location = New System.Drawing.Point(88, 120)
         Me.Label53.Name = "Label53"
         Me.Label53.Size = New System.Drawing.Size(176, 16)
         Me.Label53.TabIndex = 24
@@ -2862,7 +2870,7 @@ Public Class F_DigitaResultado
         '
         Me.Label54.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label54.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label54.Location = New System.Drawing.Point(8, 128)
+        Me.Label54.Location = New System.Drawing.Point(8, 120)
         Me.Label54.Name = "Label54"
         Me.Label54.Size = New System.Drawing.Size(64, 16)
         Me.Label54.TabIndex = 23
@@ -2872,7 +2880,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3FacExt.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3FacExt.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3FacExt.Location = New System.Drawing.Point(224, 96)
+        Me.Txt_NNO3FacExt.Location = New System.Drawing.Point(224, 88)
         Me.Txt_NNO3FacExt.Name = "Txt_NNO3FacExt"
         Me.Txt_NNO3FacExt.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3FacExt.TabIndex = 22
@@ -2882,7 +2890,7 @@ Public Class F_DigitaResultado
         '
         Me.Label55.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label55.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label55.Location = New System.Drawing.Point(56, 96)
+        Me.Label55.Location = New System.Drawing.Point(56, 88)
         Me.Label55.Name = "Label55"
         Me.Label55.Size = New System.Drawing.Size(152, 18)
         Me.Label55.TabIndex = 21
@@ -2892,7 +2900,7 @@ Public Class F_DigitaResultado
         '
         Me.Label56.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label56.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label56.Location = New System.Drawing.Point(88, 24)
+        Me.Label56.Location = New System.Drawing.Point(88, 16)
         Me.Label56.Name = "Label56"
         Me.Label56.Size = New System.Drawing.Size(128, 16)
         Me.Label56.TabIndex = 20
@@ -2902,7 +2910,7 @@ Public Class F_DigitaResultado
         '
         Me.Label57.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label57.ForeColor = System.Drawing.SystemColors.ControlText
-        Me.Label57.Location = New System.Drawing.Point(8, 24)
+        Me.Label57.Location = New System.Drawing.Point(8, 16)
         Me.Label57.Name = "Label57"
         Me.Label57.Size = New System.Drawing.Size(64, 16)
         Me.Label57.TabIndex = 19
@@ -2912,7 +2920,7 @@ Public Class F_DigitaResultado
         '
         Me.Label58.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label58.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label58.Location = New System.Drawing.Point(56, 200)
+        Me.Label58.Location = New System.Drawing.Point(56, 192)
         Me.Label58.Name = "Label58"
         Me.Label58.Size = New System.Drawing.Size(152, 18)
         Me.Label58.TabIndex = 18
@@ -2922,7 +2930,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3Fac2dil.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3Fac2dil.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3Fac2dil.Location = New System.Drawing.Point(224, 200)
+        Me.Txt_NNO3Fac2dil.Location = New System.Drawing.Point(224, 192)
         Me.Txt_NNO3Fac2dil.Name = "Txt_NNO3Fac2dil"
         Me.Txt_NNO3Fac2dil.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3Fac2dil.TabIndex = 17
@@ -2931,7 +2939,7 @@ Public Class F_DigitaResultado
         '
         Me.Label59.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label59.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label59.Location = New System.Drawing.Point(56, 176)
+        Me.Label59.Location = New System.Drawing.Point(56, 168)
         Me.Label59.Name = "Label59"
         Me.Label59.Size = New System.Drawing.Size(152, 18)
         Me.Label59.TabIndex = 16
@@ -2941,7 +2949,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3VolAfoAli.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3VolAfoAli.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3VolAfoAli.Location = New System.Drawing.Point(224, 176)
+        Me.Txt_NNO3VolAfoAli.Location = New System.Drawing.Point(224, 168)
         Me.Txt_NNO3VolAfoAli.Name = "Txt_NNO3VolAfoAli"
         Me.Txt_NNO3VolAfoAli.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3VolAfoAli.TabIndex = 15
@@ -2950,7 +2958,7 @@ Public Class F_DigitaResultado
         '
         Me.Label60.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label60.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label60.Location = New System.Drawing.Point(56, 152)
+        Me.Label60.Location = New System.Drawing.Point(56, 144)
         Me.Label60.Name = "Label60"
         Me.Label60.Size = New System.Drawing.Size(152, 18)
         Me.Label60.TabIndex = 14
@@ -2960,7 +2968,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3VolAli.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3VolAli.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3VolAli.Location = New System.Drawing.Point(224, 152)
+        Me.Txt_NNO3VolAli.Location = New System.Drawing.Point(224, 144)
         Me.Txt_NNO3VolAli.Name = "Txt_NNO3VolAli"
         Me.Txt_NNO3VolAli.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3VolAli.TabIndex = 13
@@ -2969,7 +2977,7 @@ Public Class F_DigitaResultado
         '
         Me.Label61.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label61.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label61.Location = New System.Drawing.Point(56, 72)
+        Me.Label61.Location = New System.Drawing.Point(56, 64)
         Me.Label61.Name = "Label61"
         Me.Label61.Size = New System.Drawing.Size(152, 18)
         Me.Label61.TabIndex = 12
@@ -2979,7 +2987,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3VolExt.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3VolExt.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3VolExt.Location = New System.Drawing.Point(224, 72)
+        Me.Txt_NNO3VolExt.Location = New System.Drawing.Point(224, 64)
         Me.Txt_NNO3VolExt.Name = "Txt_NNO3VolExt"
         Me.Txt_NNO3VolExt.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3VolExt.TabIndex = 11
@@ -2989,7 +2997,7 @@ Public Class F_DigitaResultado
         '
         Me.Label62.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label62.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Label62.Location = New System.Drawing.Point(56, 48)
+        Me.Label62.Location = New System.Drawing.Point(56, 40)
         Me.Label62.Name = "Label62"
         Me.Label62.Size = New System.Drawing.Size(152, 18)
         Me.Label62.TabIndex = 10
@@ -2999,7 +3007,7 @@ Public Class F_DigitaResultado
         '
         Me.Txt_NNO3MasaMuestra.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.Txt_NNO3MasaMuestra.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Txt_NNO3MasaMuestra.Location = New System.Drawing.Point(224, 48)
+        Me.Txt_NNO3MasaMuestra.Location = New System.Drawing.Point(224, 40)
         Me.Txt_NNO3MasaMuestra.Name = "Txt_NNO3MasaMuestra"
         Me.Txt_NNO3MasaMuestra.Size = New System.Drawing.Size(72, 20)
         Me.Txt_NNO3MasaMuestra.TabIndex = 9
@@ -3146,16 +3154,16 @@ Public Class F_DigitaResultado
         Me.Gbx_NNO3.Controls.Add(Me.GroupBox6)
         Me.Gbx_NNO3.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Gbx_NNO3.ForeColor = System.Drawing.SystemColors.HotTrack
-        Me.Gbx_NNO3.Location = New System.Drawing.Point(8, 303)
+        Me.Gbx_NNO3.Location = New System.Drawing.Point(8, 324)
         Me.Gbx_NNO3.Name = "Gbx_NNO3"
-        Me.Gbx_NNO3.Size = New System.Drawing.Size(536, 261)
+        Me.Gbx_NNO3.Size = New System.Drawing.Size(528, 264)
         Me.Gbx_NNO3.TabIndex = 52
         Me.Gbx_NNO3.TabStop = False
         Me.Gbx_NNO3.Visible = False
         '
         'Txt_FactorVolumetrico
         '
-        Me.Txt_FactorVolumetrico.Location = New System.Drawing.Point(1112, 464)
+        Me.Txt_FactorVolumetrico.Location = New System.Drawing.Point(1118, 464)
         Me.Txt_FactorVolumetrico.Name = "Txt_FactorVolumetrico"
         Me.Txt_FactorVolumetrico.Size = New System.Drawing.Size(100, 20)
         Me.Txt_FactorVolumetrico.TabIndex = 56
@@ -3163,7 +3171,7 @@ Public Class F_DigitaResultado
         '
         'TxtFactor
         '
-        Me.TxtFactor.Location = New System.Drawing.Point(832, 96)
+        Me.TxtFactor.Location = New System.Drawing.Point(838, 96)
         Me.TxtFactor.Name = "TxtFactor"
         Me.TxtFactor.Size = New System.Drawing.Size(100, 20)
         Me.TxtFactor.TabIndex = 57
@@ -3174,9 +3182,9 @@ Public Class F_DigitaResultado
         Me.Dtg_Lectura.CaptionVisible = False
         Me.Dtg_Lectura.DataMember = ""
         Me.Dtg_Lectura.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_Lectura.Location = New System.Drawing.Point(784, 0)
+        Me.Dtg_Lectura.Location = New System.Drawing.Point(790, 12)
         Me.Dtg_Lectura.Name = "Dtg_Lectura"
-        Me.Dtg_Lectura.Size = New System.Drawing.Size(352, 928)
+        Me.Dtg_Lectura.Size = New System.Drawing.Size(352, 916)
         Me.Dtg_Lectura.TabIndex = 58
         Me.Dtg_Lectura.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle5})
         Me.Dtg_Lectura.Visible = False
@@ -3217,7 +3225,7 @@ Public Class F_DigitaResultado
         '
         'Txt_LectResultado
         '
-        Me.Txt_LectResultado.Location = New System.Drawing.Point(824, 376)
+        Me.Txt_LectResultado.Location = New System.Drawing.Point(830, 376)
         Me.Txt_LectResultado.Name = "Txt_LectResultado"
         Me.Txt_LectResultado.Size = New System.Drawing.Size(100, 20)
         Me.Txt_LectResultado.TabIndex = 59
@@ -3225,7 +3233,7 @@ Public Class F_DigitaResultado
         '
         'Txt_LectObservacion
         '
-        Me.Txt_LectObservacion.Location = New System.Drawing.Point(864, 464)
+        Me.Txt_LectObservacion.Location = New System.Drawing.Point(870, 464)
         Me.Txt_LectObservacion.Name = "Txt_LectObservacion"
         Me.Txt_LectObservacion.Size = New System.Drawing.Size(100, 20)
         Me.Txt_LectObservacion.TabIndex = 60
@@ -3236,9 +3244,9 @@ Public Class F_DigitaResultado
         Me.Dtg_Potenciometrico.CaptionVisible = False
         Me.Dtg_Potenciometrico.DataMember = ""
         Me.Dtg_Potenciometrico.HeaderForeColor = System.Drawing.SystemColors.ControlText
-        Me.Dtg_Potenciometrico.Location = New System.Drawing.Point(784, 0)
+        Me.Dtg_Potenciometrico.Location = New System.Drawing.Point(790, 12)
         Me.Dtg_Potenciometrico.Name = "Dtg_Potenciometrico"
-        Me.Dtg_Potenciometrico.Size = New System.Drawing.Size(333, 928)
+        Me.Dtg_Potenciometrico.Size = New System.Drawing.Size(333, 916)
         Me.Dtg_Potenciometrico.TabIndex = 61
         Me.Dtg_Potenciometrico.TableStyles.AddRange(New System.Windows.Forms.DataGridTableStyle() {Me.DataGridTableStyle6})
         Me.Dtg_Potenciometrico.Visible = False
@@ -3298,7 +3306,7 @@ Public Class F_DigitaResultado
         '
         'Txt_LectPotenciometrico
         '
-        Me.Txt_LectPotenciometrico.Location = New System.Drawing.Point(848, 568)
+        Me.Txt_LectPotenciometrico.Location = New System.Drawing.Point(854, 568)
         Me.Txt_LectPotenciometrico.Name = "Txt_LectPotenciometrico"
         Me.Txt_LectPotenciometrico.Size = New System.Drawing.Size(100, 20)
         Me.Txt_LectPotenciometrico.TabIndex = 62
@@ -3325,8 +3333,11 @@ Public Class F_DigitaResultado
         Me.Controls.Add(Me.Txt_LecRes)
         Me.Controls.Add(Me.TxtNumLab)
         Me.Controls.Add(Me.Bt_Salir)
+        Me.Controls.Add(Me.Gbx_Lectura)
         Me.Controls.Add(Me.Bt_Limpiar)
         Me.Controls.Add(Me.Bt_Imprime)
+        Me.Controls.Add(Me.Gbx_Nitrogeno)
+        Me.Controls.Add(Me.Gbx_PotNNH4)
         Me.Controls.Add(Me.Bt_Graba)
         Me.Controls.Add(Me.GroupBox4)
         Me.Controls.Add(Me.GroupBox2)
@@ -3334,11 +3345,8 @@ Public Class F_DigitaResultado
         Me.Controls.Add(Me.Dtg_Elementos)
         Me.Controls.Add(Me.GBX_pyb1)
         Me.Controls.Add(Me.Gbx_NNO3)
-        Me.Controls.Add(Me.Gbx_Lectura)
-        Me.Controls.Add(Me.Gbx_PotNNH4)
         Me.Controls.Add(Me.Gbx_Potenciometrico)
         Me.Controls.Add(Me.Gbx_Clorofila)
-        Me.Controls.Add(Me.Gbx_Nitrogeno)
         Me.Controls.Add(Me.Dtg_Lectura)
         Me.Controls.Add(Me.Dtg_Elenf)
         Me.Controls.Add(Me.Dtg_DigitaNNO3)
