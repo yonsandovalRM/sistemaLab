@@ -1713,7 +1713,7 @@ Public Class Frm_Pantalla_Revision2
                 Try
                     If Fila_EleDig("ELE_CODIGO") = "%Piedra" Then GoTo SaltoxPiedra
 
-                    If Fila_EleDig("ELE_PROCESO") = "Autogenerado" And Fila_EleDig("DIGRES_RESULTADO") = 0 Then
+                    If Fila_EleDig("ELE_PROCESO") = "Autogenerado" Then
                         With SP
                             .Inicializar()
                             .AgregarParametro("@TMuestra", CodMuestraRev, SqlDbType.Int)

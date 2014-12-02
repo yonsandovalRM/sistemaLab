@@ -377,7 +377,6 @@ Partial Class F_Menu
         '
         Me.DigitaciónToolStripMenuItem.BackColor = System.Drawing.Color.Transparent
         Me.DigitaciónToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.FoliarToolStripMenuItem, Me.TejidoToolStripMenuItem, Me.AguaToolStripMenuItem, Me.SueloToolStripMenuItem, Me.DFertilizantesToolStripMenuItem, Me.DFertilizantesOrgánicosToolStripMenuItem, Me.YemasToolStripMenuItem, Me.DKitYOtrosToolStripMenuItem, Me.ConsultaCodPlanToolStripMenuItem})
-        Me.DigitaciónToolStripMenuItem.Enabled = False
         Me.DigitaciónToolStripMenuItem.Font = New System.Drawing.Font("Calibri", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.DigitaciónToolStripMenuItem.Name = "DigitaciónToolStripMenuItem"
         Me.DigitaciónToolStripMenuItem.Size = New System.Drawing.Size(82, 23)
@@ -391,14 +390,12 @@ Partial Class F_Menu
         '
         'TejidoToolStripMenuItem
         '
-        Me.TejidoToolStripMenuItem.Enabled = False
         Me.TejidoToolStripMenuItem.Name = "TejidoToolStripMenuItem"
         Me.TejidoToolStripMenuItem.Size = New System.Drawing.Size(255, 22)
         Me.TejidoToolStripMenuItem.Text = "Tejido"
         '
         'AguaToolStripMenuItem
         '
-        Me.AguaToolStripMenuItem.Enabled = False
         Me.AguaToolStripMenuItem.Name = "AguaToolStripMenuItem"
         Me.AguaToolStripMenuItem.Size = New System.Drawing.Size(255, 22)
         Me.AguaToolStripMenuItem.Text = "Agua"
@@ -411,14 +408,12 @@ Partial Class F_Menu
         '
         'DFertilizantesToolStripMenuItem
         '
-        Me.DFertilizantesToolStripMenuItem.Enabled = False
         Me.DFertilizantesToolStripMenuItem.Name = "DFertilizantesToolStripMenuItem"
         Me.DFertilizantesToolStripMenuItem.Size = New System.Drawing.Size(255, 22)
         Me.DFertilizantesToolStripMenuItem.Text = "Fertilizantes Químicos"
         '
         'DFertilizantesOrgánicosToolStripMenuItem
         '
-        Me.DFertilizantesOrgánicosToolStripMenuItem.Enabled = False
         Me.DFertilizantesOrgánicosToolStripMenuItem.Name = "DFertilizantesOrgánicosToolStripMenuItem"
         Me.DFertilizantesOrgánicosToolStripMenuItem.Size = New System.Drawing.Size(255, 22)
         Me.DFertilizantesOrgánicosToolStripMenuItem.Text = "Fertilizantes Orgánicos"
@@ -444,7 +439,6 @@ Partial Class F_Menu
         '
         'DKitYOtrosToolStripMenuItem
         '
-        Me.DKitYOtrosToolStripMenuItem.Enabled = False
         Me.DKitYOtrosToolStripMenuItem.Name = "DKitYOtrosToolStripMenuItem"
         Me.DKitYOtrosToolStripMenuItem.Size = New System.Drawing.Size(255, 22)
         Me.DKitYOtrosToolStripMenuItem.Text = "Kit y Otros"

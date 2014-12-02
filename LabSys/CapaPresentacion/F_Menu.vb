@@ -1285,7 +1285,7 @@ Public Class F_Menu
     End Sub
 
     Private Sub ManualDeUsoToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ManualDeUsoToolStripMenuItem.Click
-        MsgBox("Aún no está disponible, Versión 3.1", MsgBoxStyle.Information, "LabSys")
+        MsgBox("Aún no está disponible, Versión 11.14", MsgBoxStyle.Information, "LabSys")
     End Sub
 
     Private Sub ToolStripMenuItem52_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ToolStripMenuItem52.Click
