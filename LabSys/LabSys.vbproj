@@ -70,8 +70,18 @@
       <HintPath>..\..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\CrystalDecisions.Shared\10.2.3600.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
     </Reference>
     <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
-    <Reference Include="DevComponents.DotNetBar2, Version=9.3.0.4, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
-    <Reference Include="DevComponents.Instrumentation, Version=9.3.0.4, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=9.3.0.4, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=9.3.0.4, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.TreeGX, Version=9.3.0.4, Culture=neutral, PublicKeyToken=cfcbd7476b2389d1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\DevComponents.TreeGX.dll</HintPath>
+    </Reference>
     <Reference Include="Etiquetas, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\Demo_Etiquetas\Demo_Etiquetas\Demo_Etiquetas\bin\Debug\Etiquetas.dll</HintPath>
@@ -117,10 +127,6 @@
     </Reference>
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="Telerik.WinControls, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
-    <Reference Include="Telerik.WinControls.GridView, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
-    <Reference Include="Telerik.WinControls.UI, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
-    <Reference Include="TelerikCommon, Version=2010.1.10.409, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
     <Reference Include="UseOffice, Version=3.5.8.24, Culture=neutral, PublicKeyToken=f77041e5caa5fc2f, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\useoffice_net\UseOffice .Net Trial (3.5.8.24)\Net 2.0, 3.0, 3.5 and 4.0\UseOffice.dll</HintPath>
